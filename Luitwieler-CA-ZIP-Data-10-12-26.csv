@@ -1,0 +1,1763 @@
+zip,city,county,region,population,households,housing_units,homeownership_rate,median_hh_income,median_home_value,median_age,two_plus_vehicle_share,no_vehicle_share,nri_wildfire_score,share_residents_high_wildfire_tracts,wildfire_tier
+90001,Los Angeles,Los Angeles County,Los Angeles County,56189,13671,14211,33.6,60767,560300,32.5,62.3,10.3,0.0,0.0,Low
+90002,Los Angeles,Los Angeles County,Los Angeles County,52122,13039,13662,39.2,59021,534200,30.6,57.7,12.5,0.0,0.0,Low
+90003,Los Angeles,Los Angeles County,Los Angeles County,70065,17782,18436,27.2,56030,576600,30.9,53.6,13.4,0.0,0.0,Low
+90004,Los Angeles,Los Angeles County,Los Angeles County,58484,24208,26308,16.2,64826,1552100,36.7,36.0,18.3,3.3,0.0,Low
+90005,Los Angeles,Los Angeles County,Los Angeles County,39142,18289,20067,8.9,49419,975200,35.2,23.8,26.0,0.3,0.0,Low
+90006,Los Angeles,Los Angeles County,Los Angeles County,55527,19709,21822,9.7,51998,902900,36.8,29.2,24.8,0.0,0.0,Low
+90007,Los Angeles,Los Angeles County,Los Angeles County,38715,12633,14491,9.8,35378,861700,25.4,30.8,32.1,0.0,0.0,Low
+90008,Los Angeles,Los Angeles County,Los Angeles County,33252,14526,16033,30.6,61846,1040600,41.8,40.0,16.1,11.5,0.0,Low
+90010,Los Angeles,Los Angeles County,Los Angeles County,4850,2696,3182,19.2,101455,834100,34.0,22.7,17.9,2.2,0.0,Low
+90011,Los Angeles,Los Angeles County,Los Angeles County,100113,24106,25201,25.6,59017,595400,31.5,54.3,14.3,0.0,0.0,Low
+90012,Los Angeles,Los Angeles County,Los Angeles County,37336,15624,16878,7.5,66860,693600,36.7,25.5,21.0,7.2,0.0,Low
+90013,Los Angeles,Los Angeles County,Los Angeles County,14357,8458,10375,7.8,36948,800500,41.4,16.8,46.8,0.0,0.0,Low
+90014,Los Angeles,Los Angeles County,Los Angeles County,10224,7004,8102,6.0,31000,615700,37.7,7.8,49.9,0.0,0.0,Low
+90015,Los Angeles,Los Angeles County,Los Angeles County,24704,13366,14855,11.4,69268,786000,32.9,18.1,23.1,0.0,0.0,Low
+90016,Los Angeles,Los Angeles County,Los Angeles County,46457,18091,19955,34.9,73516,968900,36.3,44.8,10.8,2.6,0.0,Low
+90017,Los Angeles,Los Angeles County,Los Angeles County,30172,14606,16727,5.7,52717,692300,33.3,17.6,32.5,0.5,0.0,Low
+90018,Los Angeles,Los Angeles County,Los Angeles County,48745,16899,18128,30.6,62864,923300,37.7,47.2,15.1,0.0,0.0,Low
+90019,Los Angeles,Los Angeles County,Los Angeles County,59548,24006,26358,23.8,73934,1273700,39.6,44.0,13.2,0.0,0.0,Low
+90020,Los Angeles,Los Angeles County,Los Angeles County,38994,17942,19479,9.0,61184,847700,36.2,23.8,19.4,1.5,0.0,Low
+90021,Los Angeles,Los Angeles County,Los Angeles County,2897,1498,1694,8.1,32222,1102600,40.5,16.5,48.4,0.0,0.0,Low
+90022,Los Angeles,Los Angeles County,Los Angeles County,60343,16968,17860,33.4,67967,629500,34.6,62.0,11.0,6.1,0.0,Low
+90023,Los Angeles,Los Angeles County,Los Angeles County,43857,11774,12290,25.3,59057,639400,32.7,54.6,13.9,4.7,0.0,Low
+90024,Los Angeles,Los Angeles County,Los Angeles County,51675,16771,20295,32.5,76583,1478500,22.7,35.5,16.2,5.8,0.0,Low
+90025,Los Angeles,Los Angeles County,Los Angeles County,46508,23529,25903,24.1,103894,1079700,34.5,38.3,9.9,0.2,0.0,Low
+90026,Los Angeles,Los Angeles County,Los Angeles County,62692,27129,29274,23.5,87334,1199500,37.2,38.7,12.3,17.0,0.0,Low
+90027,Los Angeles,Los Angeles County,Los Angeles County,46558,22178,24463,20.0,94521,1776400,38.2,33.3,15.1,12.2,0.0,Low
+90028,Los Angeles,Los Angeles County,Los Angeles County,32883,18807,23000,3.4,61349,1043100,35.6,17.6,26.4,0.2,0.0,Low
+90029,Los Angeles,Los Angeles County,Los Angeles County,33303,13298,14554,10.3,60440,1124400,38.0,27.1,22.3,0.0,0.0,Low
+90031,Los Angeles,Los Angeles County,Los Angeles County,36127,12313,12825,31.4,63090,782300,39.8,47.9,18.1,24.7,0.0,Low
+90032,Los Angeles,Los Angeles County,Los Angeles County,43117,13603,14286,51.7,82292,827500,37.9,57.7,8.3,22.1,0.0,Low
+90033,Los Angeles,Los Angeles County,Los Angeles County,45647,13212,13956,17.6,59652,707200,32.6,42.7,14.1,0.0,0.0,Low
+90034,Los Angeles,Los Angeles County,Los Angeles County,57075,26653,29514,20.4,105701,1516600,34.6,40.2,8.5,1.5,0.0,Low
+90035,Los Angeles,Los Angeles County,Los Angeles County,29000,12813,14366,30.5,105013,1908900,36.6,44.9,8.3,5.1,0.0,Low
+90036,Los Angeles,Los Angeles County,Los Angeles County,39278,20565,22233,13.7,109785,1881900,36.7,32.6,8.8,1.2,0.0,Low
+90037,Los Angeles,Los Angeles County,Los Angeles County,65482,17615,18745,22.7,57622,666400,33.8,48.6,18.9,0.0,0.0,Low
+90038,Los Angeles,Los Angeles County,Los Angeles County,27127,13496,15503,8.2,61454,1177100,34.5,29.1,22.6,2.3,0.0,Low
+90039,Los Angeles,Los Angeles County,Los Angeles County,28884,12476,13454,45.7,113818,1264500,40.7,51.6,4.9,12.5,0.0,Low
+90040,Los Angeles,Los Angeles County,Los Angeles County,11430,3267,3341,55.6,74472,596100,38.3,68.3,13.2,0.0,0.0,Low
+90041,Los Angeles,Los Angeles County,Los Angeles County,27920,9902,10608,54.6,114526,1192200,41.0,59.8,6.5,28.5,0.0,Low
+90042,Los Angeles,Los Angeles County,Los Angeles County,56835,21489,22639,47.4,95282,976400,38.6,54.8,7.1,19.0,0.0,Low
+90043,Los Angeles,Los Angeles County,Los Angeles County,42377,16805,18097,53.9,64792,901800,42.5,52.0,16.1,4.6,0.0,Low
+90044,Los Angeles,Los Angeles County,Los Angeles County,94830,26631,28238,31.1,53302,613900,31.7,48.9,17.4,0.0,0.0,Low
+90045,Los Angeles,Los Angeles County,Los Angeles County,41786,16420,18182,47.2,135032,1399100,36.4,59.0,3.5,2.2,0.0,Low
+90046,Los Angeles,Los Angeles County,Los Angeles County,48296,28727,32219,22.2,96250,1515000,40.2,30.2,12.5,19.3,0.0,Low
+90047,Los Angeles,Los Angeles County,Los Angeles County,50974,17329,18080,56.0,71664,680600,39.9,53.1,13.4,0.5,0.0,Low
+90048,Los Angeles,Los Angeles County,Los Angeles County,21476,12327,14018,27.9,103495,1932000,39.3,34.9,9.1,1.4,0.0,Low
+90049,Los Angeles,Los Angeles County,Los Angeles County,37122,16649,18727,53.4,170607,2000001,40.1,55.5,3.8,38.0,19.7,Moderate
+90056,Los Angeles,Los Angeles County,Los Angeles County,8543,3444,3728,57.5,133048,1607200,41.0,57.9,7.8,66.0,0.0,Moderate
+90057,Los Angeles,Los Angeles County,Los Angeles County,46629,16987,18238,3.8,44823,647700,35.6,20.1,34.3,0.0,0.0,Low
+90058,Los Angeles,Los Angeles County,Los Angeles County,3585,1204,1234,10.1,37557,464200,32.5,30.5,27.3,0.0,0.0,Low
+90059,Los Angeles,Los Angeles County,Los Angeles County,37511,10314,10654,44.2,56152,583900,31.5,54.5,17.9,4.7,0.0,Low
+90061,Los Angeles,Los Angeles County,Los Angeles County,30051,8021,8649,35.3,61046,601500,33.0,49.2,16.0,7.9,0.0,Low
+90062,Los Angeles,Los Angeles County,Los Angeles County,32715,9836,10200,45.3,67701,711400,37.6,58.1,10.9,0.0,0.0,Low
+90063,Los Angeles,Los Angeles County,Los Angeles County,48397,12915,13754,36.8,72942,660600,35.4,59.5,13.8,13.0,0.0,Low
+90064,Los Angeles,Los Angeles County,Los Angeles County,26642,11899,12954,49.5,135383,1765300,39.3,55.3,5.1,15.2,0.0,Low
+90065,Los Angeles,Los Angeles County,Los Angeles County,44658,16745,17530,47.3,94784,1085300,39.7,57.3,8.5,21.8,0.0,Low
+90066,Los Angeles,Los Angeles County,Los Angeles County,56740,25279,27045,38.3,114141,1695400,38.2,48.4,5.3,3.8,0.0,Low
+90067,Los Angeles,Los Angeles County,Los Angeles County,3875,2266,2592,65.4,195433,1509400,59.5,39.7,18.8,0.0,0.0,Low
+90068,Los Angeles,Los Angeles County,Los Angeles County,21572,12326,14701,43.9,101630,1810700,41.7,39.0,7.2,75.6,0.0,Moderate
+90069,West Hollywood,Los Angeles County,Los Angeles County,20961,13596,15654,37.2,107987,1074900,42.8,31.8,10.2,18.6,0.0,Low
+90071,Los Angeles,Los Angeles County,Los Angeles County,556,0,0,,,,43.9,,,0.0,0.0,Low
+90073,Los Angeles,Los Angeles County,Los Angeles County,1079,4,4,0.0,,,68.7,0.0,0.0,25.6,0.0,Low
+90077,Los Angeles,Los Angeles County,Los Angeles County,8386,3346,3749,84.5,206319,2000001,46.9,68.6,1.5,98.6,96.5,Extreme
+90089,Los Angeles,Los Angeles County,Los Angeles County,5462,0,25,,,,19.5,,,0.0,0.0,Low
+90094,Playa Vista,Los Angeles County,Los Angeles County,11764,6144,6949,30.5,145744,1356000,37.6,39.2,2.9,0.0,0.0,Low
+90201,Bell Gardens,Los Angeles County,Los Angeles County,92763,24657,25330,21.5,60927,568600,32.6,61.0,9.3,3.0,0.0,Low
+90210,Beverly Hills,Los Angeles County,Los Angeles County,19004,8029,9531,70.7,187801,2000001,51.9,62.5,8.4,65.3,25.7,High
+90211,Beverly Hills,Los Angeles County,Los Angeles County,9120,3825,4282,38.9,122694,2000001,44.0,50.5,3.3,12.3,0.0,Low
+90212,Beverly Hills,Los Angeles County,Los Angeles County,10728,5540,6138,21.1,118019,2000001,44.2,38.6,8.7,0.3,0.0,Low
+90220,Compton,Los Angeles County,Los Angeles County,48354,13455,14058,61.5,82335,554900,34.7,69.6,6.6,0.0,0.0,Low
+90221,Compton,Los Angeles County,Los Angeles County,50659,12398,12878,51.0,72937,575000,33.5,71.2,6.8,7.2,0.0,Low
+90222,Compton,Los Angeles County,Los Angeles County,32340,8471,8796,54.2,78425,580500,33.2,65.3,9.9,6.7,0.0,Low
+90230,Culver City,Los Angeles County,Los Angeles County,31009,13177,14071,57.2,107109,1019900,40.5,48.0,6.8,23.0,0.0,Low
+90232,Culver City,Los Angeles County,Los Angeles County,16554,7223,7806,38.5,122396,1570600,37.3,50.4,9.9,4.2,0.0,Low
+90240,Downey,Los Angeles County,Los Angeles County,24853,7775,8060,64.9,101904,815600,38.9,71.9,5.9,4.1,0.0,Low
+90241,Downey,Los Angeles County,Los Angeles County,45319,14682,15189,41.7,88006,829000,36.7,65.3,4.3,7.0,0.0,Low
+90242,Downey,Los Angeles County,Los Angeles County,40767,12419,12670,53.4,89075,761000,37.7,67.6,6.0,0.0,0.0,Low
+90245,El Segundo,Los Angeles County,Los Angeles County,16769,7437,7889,42.5,150737,1587500,39.3,52.5,2.0,0.2,0.0,Low
+90247,Gardena,Los Angeles County,Los Angeles County,47053,16214,17095,41.3,77333,659100,37.7,54.7,5.6,0.0,0.0,Low
+90248,Gardena,Los Angeles County,Los Angeles County,11235,4080,4220,65.3,91176,724300,43.1,61.1,6.8,1.6,0.0,Low
+90249,Gardena,Los Angeles County,Los Angeles County,26290,8891,9214,57.6,89712,768000,39.8,65.9,4.6,17.0,0.0,Low
+90250,Hawthorne,Los Angeles County,Los Angeles County,93826,32594,34072,31.9,78331,874600,34.4,51.6,8.3,0.9,0.0,Low
+90254,Hermosa Beach,Los Angeles County,Los Angeles County,19063,8934,10385,50.6,166442,2000001,42.7,53.7,5.2,0.0,0.0,Low
+90255,Huntington Park,Los Angeles County,Los Angeles County,69349,18670,19272,29.6,64766,579700,35.0,59.5,13.6,0.0,0.0,Low
+90260,Lawndale,Los Angeles County,Los Angeles County,32075,10206,10723,42.6,87825,801800,38.2,68.3,5.1,6.0,0.0,Low
+90262,Lynwood,Los Angeles County,Los Angeles County,64235,15133,15572,48.1,75194,597600,33.6,69.6,7.2,0.0,0.0,Low
+90263,Malibu,Los Angeles County,Los Angeles County,1856,0,0,,,,19.9,,,97.8,100.0,Extreme
+90265,Malibu,Los Angeles County,Los Angeles County,15918,6262,8629,78.5,196742,2000001,52.0,72.3,2.0,98.1,80.7,Extreme
+90266,Manhattan Beach,Los Angeles County,Los Angeles County,34210,13369,15281,64.8,204306,2000001,42.8,68.7,2.6,17.7,0.0,Low
+90270,Maywood,Los Angeles County,Los Angeles County,24218,6560,6685,30.6,61165,634400,33.4,67.7,7.5,0.0,0.0,Low
+90272,Pacific Palisades,Los Angeles County,Los Angeles County,21390,8357,9291,79.9,189713,2000001,48.3,66.0,2.6,79.2,61.5,Extreme
+90274,Palos Verdes Peninsula,Los Angeles County,Los Angeles County,25059,9194,10062,86.1,215925,2000001,51.1,77.0,2.3,72.0,0.0,Moderate
+90275,Rancho Palos Verdes,Los Angeles County,Los Angeles County,40945,15219,16768,80.5,179469,1612000,49.2,75.9,3.5,66.0,0.0,Moderate
+90277,Redondo Beach,Los Angeles County,Los Angeles County,34844,16152,18095,48.5,127795,1476000,45.9,53.3,4.0,10.3,0.0,Low
+90278,Redondo Beach,Los Angeles County,Los Angeles County,42423,15726,16625,58.6,160236,1242700,39.3,71.8,3.1,6.3,0.0,Low
+90280,South Gate,Los Angeles County,Los Angeles County,91365,25164,25698,45.4,74651,636300,36.4,65.9,7.6,0.0,0.0,Low
+90290,Topanga,Los Angeles County,Los Angeles County,6315,2359,2808,78.9,149304,1567700,46.4,74.4,1.1,99.6,100.0,Extreme
+90291,Venice,Los Angeles County,Los Angeles County,26324,14337,17044,32.9,122738,2000001,40.0,36.7,9.8,0.0,0.0,Low
+90292,Marina Del Rey,Los Angeles County,Los Angeles County,23982,13461,17351,28.9,146167,1272200,38.7,45.1,9.9,4.1,0.0,Low
+90293,Playa Del Rey,Los Angeles County,Los Angeles County,12655,6657,7156,45.0,134313,997600,42.8,50.6,2.6,16.1,0.0,Low
+90301,Inglewood,Los Angeles County,Los Angeles County,36060,12722,13392,28.0,65806,755900,39.3,47.4,12.2,0.0,0.0,Low
+90302,Inglewood,Los Angeles County,Los Angeles County,29003,11077,11797,27.7,73777,738900,36.6,51.3,6.9,0.7,0.0,Low
+90303,Inglewood,Los Angeles County,Los Angeles County,22727,7203,7589,43.1,72815,793500,36.1,58.4,11.7,0.1,0.0,Low
+90304,Inglewood,Los Angeles County,Los Angeles County,25430,7210,7640,27.1,64125,732300,34.8,60.8,6.4,0.0,0.0,Low
+90305,Inglewood,Los Angeles County,Los Angeles County,14708,6133,6755,60.9,92665,850000,45.9,55.3,8.1,16.1,0.0,Low
+90401,Santa Monica,Los Angeles County,Los Angeles County,8101,5256,6104,5.2,110385,1149200,36.9,23.6,22.6,0.0,0.0,Low
+90402,Santa Monica,Los Angeles County,Los Angeles County,11337,5016,5800,73.9,159100,2000001,52.7,60.9,4.0,21.2,0.0,Low
+90403,Santa Monica,Los Angeles County,Los Angeles County,23867,13165,14977,26.2,121925,1548900,44.2,32.3,10.8,0.3,0.0,Low
+90404,Santa Monica,Los Angeles County,Los Angeles County,22978,10714,11801,21.4,95139,1244400,40.5,35.8,11.4,0.0,0.0,Low
+90405,Santa Monica,Los Angeles County,Los Angeles County,27298,14312,15878,31.4,121241,1929900,43.1,39.0,9.9,6.4,0.0,Low
+90501,Torrance,Los Angeles County,Los Angeles County,41787,14870,15985,43.6,92923,923100,38.7,63.6,5.4,12.0,0.0,Low
+90502,Torrance,Los Angeles County,Los Angeles County,18467,6708,6968,68.0,94291,697400,42.5,63.8,7.8,0.0,0.0,Low
+90503,Torrance,Los Angeles County,Los Angeles County,43454,16964,18283,52.6,125912,1099700,41.3,59.7,5.2,0.0,0.0,Low
+90504,Torrance,Los Angeles County,Los Angeles County,33084,11723,12368,60.2,107552,923900,42.4,66.9,5.7,12.5,0.0,Low
+90505,Torrance,Los Angeles County,Los Angeles County,35148,13776,15154,55.8,115593,1204300,44.4,63.0,3.5,31.4,0.0,Low
+90601,Whittier,Los Angeles County,Los Angeles County,30078,10867,11258,62.0,104052,787500,41.6,68.5,6.8,48.7,0.0,Moderate
+90602,Whittier,Los Angeles County,Los Angeles County,25905,8163,8723,38.9,68505,766300,34.3,56.8,8.0,14.7,0.0,Low
+90603,Whittier,Los Angeles County,Los Angeles County,21118,6504,6746,78.5,136705,859000,40.8,78.0,2.5,17.2,0.0,Low
+90604,Whittier,Los Angeles County,Los Angeles County,39276,11725,12076,65.4,105074,785200,37.3,73.3,4.4,10.4,0.0,Low
+90605,Whittier,Los Angeles County,Los Angeles County,39387,10883,11417,65.9,99635,721400,37.2,78.1,3.8,17.8,0.0,Low
+90606,Whittier,Los Angeles County,Los Angeles County,32057,8801,9086,71.9,100428,660100,37.8,74.3,3.8,8.5,0.0,Low
+90620,Buena Park,Orange County,Orange County,46608,13226,13518,72.3,126094,840300,38.4,76.4,4.1,8.7,0.0,Low
+90621,Buena Park,Orange County,Orange County,35984,10977,11240,34.8,97612,832000,36.2,65.3,6.7,9.1,0.0,Low
+90623,La Palma,Orange County,Orange County,15545,5176,5264,67.4,116594,979600,44.8,68.1,7.4,15.8,0.0,Low
+90630,Cypress,Orange County,Orange County,49318,16224,16872,68.3,130154,909700,41.3,74.3,4.7,15.7,0.0,Low
+90631,La Habra,Orange County,Orange County,68309,22730,23520,61.5,104251,818500,39.2,69.3,6.1,23.4,0.6,Low
+90638,La Mirada,Los Angeles County,Los Angeles County,45933,15421,15818,76.2,109649,827300,44.2,73.7,4.1,0.4,0.0,Low
+90639,La Mirada,Los Angeles County,Los Angeles County,1671,0,0,,,,20.3,,,0.0,0.0,Low
+90640,Montebello,Los Angeles County,Los Angeles County,61382,19822,20525,46.2,79625,699700,40.1,61.4,7.7,18.7,0.0,Low
+90650,Norwalk,Los Angeles County,Los Angeles County,99900,27216,27704,68.3,100085,644700,37.3,75.0,4.6,5.2,0.0,Low
+90660,Pico Rivera,Los Angeles County,Los Angeles County,60272,16866,17352,70.5,88201,648600,40.4,71.8,7.4,10.0,0.0,Low
+90670,Santa Fe Springs,Los Angeles County,Los Angeles County,17851,5448,5606,62.8,88872,659600,39.3,66.9,7.1,17.1,0.0,Low
+90680,Stanton,Orange County,Orange County,31991,10476,10974,48.9,85592,603000,40.4,60.9,6.9,6.0,0.0,Low
+90701,Artesia,Los Angeles County,Los Angeles County,15889,4513,4727,49.5,101004,776600,40.7,72.2,4.5,7.9,0.0,Low
+90703,Cerritos,Los Angeles County,Los Angeles County,48108,16165,16443,75.6,134987,932400,47.7,74.8,2.7,19.2,0.0,Low
+90704,Avalon,Los Angeles County,Los Angeles County,3421,1374,2099,51.4,105139,936000,40.9,36.6,24.7,95.5,0.0,Extreme
+90706,Bellflower,Los Angeles County,Los Angeles County,76819,23802,24683,39.3,78722,705700,36.0,63.6,6.1,0.0,0.0,Low
+90710,Harbor City,Los Angeles County,Los Angeles County,26761,9468,9912,56.2,82478,689300,41.2,61.3,5.1,5.7,0.0,Low
+90712,Lakewood,Los Angeles County,Los Angeles County,30800,10070,10270,75.5,122435,829600,37.8,75.1,3.9,7.1,0.0,Low
+90713,Lakewood,Los Angeles County,Los Angeles County,28221,9304,9516,85.4,133419,849400,41.9,80.5,1.9,17.7,0.0,Low
+90715,Lakewood,Los Angeles County,Los Angeles County,20182,6424,6649,48.4,91875,743200,38.3,68.9,6.0,6.6,0.0,Low
+90716,Hawaiian Gardens,Los Angeles County,Los Angeles County,13599,3883,4040,42.9,76410,569400,34.4,60.4,9.1,10.2,0.0,Low
+90717,Lomita,Los Angeles County,Los Angeles County,21482,7665,8262,44.8,94241,839000,39.1,62.0,5.2,0.1,0.0,Low
+90720,Los Alamitos,Orange County,Orange County,23805,8478,8825,64.9,135851,1215400,43.0,72.8,2.5,7.5,0.0,Low
+90723,Paramount,Los Angeles County,Los Angeles County,52050,14618,14773,43.0,75250,533700,33.4,66.0,5.5,8.0,0.0,Low
+90731,San Pedro,Los Angeles County,Los Angeles County,61944,23185,24423,32.6,76395,851000,38.6,52.5,11.5,5.1,0.0,Low
+90732,San Pedro,Los Angeles County,Los Angeles County,23067,9400,9716,72.1,120807,857000,46.8,62.3,6.7,29.5,0.0,Low
+90740,Seal Beach,Orange County,Orange County,24254,12642,14243,76.9,85347,484100,61.6,45.5,9.8,23.8,0.0,Low
+90742,Sunset Beach,Orange County,Orange County,405,251,487,37.5,122250,,52.5,52.6,0.0,0.4,0.0,Low
+90743,Surfside,Orange County,Orange County,468,195,389,54.9,170966,1662500,52.0,72.8,6.7,0.7,0.0,Low
+90744,Wilmington,Los Angeles County,Los Angeles County,52800,14845,15390,35.8,60847,631500,33.5,59.5,10.5,0.6,0.0,Low
+90745,Carson,Los Angeles County,Los Angeles County,57397,16136,17054,67.8,107988,679100,41.8,73.1,5.2,8.1,0.0,Low
+90746,Carson,Los Angeles County,Los Angeles County,27091,8606,8859,85.5,113364,770100,42.8,70.1,3.8,7.0,0.0,Low
+90747,Carson,Los Angeles County,Los Angeles County,11,0,0,,,,,,,23.3,0.0,Low
+90755,Signal Hill,Los Angeles County,Los Angeles County,11521,4563,4829,50.5,113512,787300,41.9,60.0,2.8,13.7,0.0,Low
+90802,Long Beach,Los Angeles County,Los Angeles County,40434,22421,25169,21.0,74510,542600,35.3,29.8,15.2,0.0,0.0,Low
+90803,Long Beach,Los Angeles County,Los Angeles County,31526,16894,18261,44.1,114656,1186800,47.4,46.9,3.6,2.2,0.0,Low
+90804,Long Beach,Los Angeles County,Los Angeles County,38076,15290,16068,21.9,71614,736000,34.7,47.1,8.6,15.2,0.0,Low
+90805,Long Beach,Los Angeles County,Los Angeles County,92402,28213,29023,42.1,73415,606000,34.6,57.6,8.9,0.1,0.0,Low
+90806,Long Beach,Los Angeles County,Los Angeles County,41664,12586,13362,36.9,79208,769200,36.2,59.0,9.5,1.0,0.0,Low
+90807,Long Beach,Los Angeles County,Los Angeles County,33101,12636,13100,57.0,103777,884500,39.9,57.8,6.4,8.7,0.0,Low
+90808,Long Beach,Los Angeles County,Los Angeles County,39317,14198,14796,82.5,137855,954200,44.8,74.6,2.4,20.5,0.0,Low
+90810,Long Beach,Los Angeles County,Los Angeles County,35833,9956,10446,59.9,84350,614400,37.2,66.0,10.5,0.8,0.0,Low
+90813,Long Beach,Los Angeles County,Los Angeles County,51241,17252,18776,15.1,54526,585600,34.0,41.6,18.4,0.0,0.0,Low
+90814,Long Beach,Los Angeles County,Los Angeles County,19471,9167,9725,33.5,104650,950700,37.1,52.1,6.5,0.0,0.0,Low
+90815,Long Beach,Los Angeles County,Los Angeles County,43023,15432,15875,64.9,119716,927900,36.9,65.9,3.6,4.1,0.0,Low
+90822,Long Beach,Los Angeles County,Los Angeles County,93,0,0,,,,72.3,,,0.0,0.0,Low
+91001,Altadena,Los Angeles County,Los Angeles County,35475,12587,13216,79.9,134903,1135200,46.3,65.7,4.0,73.7,42.2,High
+91006,Arcadia,Los Angeles County,Los Angeles County,31582,10244,11185,68.7,123533,1260000,44.0,72.2,4.3,44.1,12.7,Moderate
+91007,Arcadia,Los Angeles County,Los Angeles County,33029,11988,12910,52.9,100705,1277900,44.7,60.8,6.2,0.0,0.0,Low
+91008,Duarte,Los Angeles County,Los Angeles County,743,309,360,92.6,164375,1812500,56.3,78.6,0.0,98.4,92.8,Extreme
+91010,Duarte,Los Angeles County,Los Angeles County,27589,8789,9137,61.0,102705,756500,42.9,67.0,8.5,62.9,16.7,Moderate
+91011,La Canada Flintridge,Los Angeles County,Los Angeles County,19935,6367,7053,86.9,241875,2000001,44.6,84.5,1.2,92.9,52.5,Extreme
+91016,Monrovia,Los Angeles County,Los Angeles County,41140,15285,16042,47.9,96540,896700,38.4,61.1,4.4,24.6,10.3,Moderate
+91020,Montrose,Los Angeles County,Los Angeles County,7532,3149,3517,23.5,72125,911200,40.2,45.8,4.8,19.8,0.3,Moderate
+91024,Sierra Madre,Los Angeles County,Los Angeles County,10940,4620,4977,55.8,143547,1226800,44.8,63.7,3.8,94.1,37.6,High
+91030,South Pasadena,Los Angeles County,Los Angeles County,26068,10220,10817,44.0,127175,1640000,40.5,57.6,3.1,6.4,0.0,Low
+91040,Sunland,Los Angeles County,Los Angeles County,20821,7572,8308,66.5,98256,861600,44.6,68.2,6.1,79.0,38.0,High
+91042,Tujunga,Los Angeles County,Los Angeles County,26928,10214,10865,52.9,85603,840800,45.8,62.0,9.6,69.5,39.7,High
+91046,Verdugo City,Los Angeles County,Los Angeles County,115,91,91,16.5,,,72.5,16.5,27.5,95.1,0.0,Extreme
+91101,Pasadena,Los Angeles County,Los Angeles County,21165,11507,12408,15.2,87813,682300,36.5,26.3,15.1,1.0,0.0,Low
+91103,Pasadena,Los Angeles County,Los Angeles County,25142,8694,9778,47.0,93660,983300,39.9,55.6,10.2,7.7,0.0,Low
+91104,Pasadena,Los Angeles County,Los Angeles County,35937,13488,14498,55.4,105958,1080100,41.7,62.1,7.1,32.2,0.0,Low
+91105,Pasadena,Los Angeles County,Los Angeles County,12531,5743,6722,55.7,156791,1671000,47.6,53.2,7.9,39.7,0.0,Low
+91106,Pasadena,Los Angeles County,Los Angeles County,23910,10730,11938,35.9,90028,1040400,38.4,45.2,8.9,19.7,0.0,Low
+91107,Pasadena,Los Angeles County,Los Angeles County,32316,13030,14097,61.1,126449,1155300,44.2,60.9,5.0,36.4,16.5,Moderate
+91108,San Marino,Los Angeles County,Los Angeles County,12401,4038,4567,82.0,204847,2000001,46.1,82.4,0.4,50.2,0.0,Moderate
+91125,Pasadena,Los Angeles County,Los Angeles County,1000,97,97,0.0,,,21.7,81.4,18.6,44.6,0.0,Low
+91201,Glendale,Los Angeles County,Los Angeles County,22394,7991,8517,33.2,82301,1152000,40.5,53.5,10.2,19.3,0.0,Low
+91202,Glendale,Los Angeles County,Los Angeles County,22504,8616,9088,42.0,96459,1194700,44.8,51.7,10.1,23.1,16.5,Moderate
+91203,Glendale,Los Angeles County,Los Angeles County,16856,7076,7530,18.9,82364,728700,37.1,38.9,12.5,0.0,0.0,Low
+91204,Glendale,Los Angeles County,Los Angeles County,17857,6693,6983,6.7,74144,726500,37.0,39.7,11.5,2.5,0.0,Low
+91205,Glendale,Los Angeles County,Los Angeles County,34254,13333,14238,17.7,64564,800800,41.0,38.5,17.8,11.0,0.0,Low
+91206,Glendale,Los Angeles County,Los Angeles County,31961,12465,13732,39.7,89188,1090600,44.1,56.2,8.6,33.3,18.0,Moderate
+91207,Glendale,Los Angeles County,Los Angeles County,10438,3840,4154,51.7,118116,1426100,42.5,54.2,5.5,17.8,18.2,Moderate
+91208,Glendale,Los Angeles County,Los Angeles County,15969,6035,6347,64.9,136892,1421200,45.7,64.1,3.0,96.1,39.0,Extreme
+91210,Glendale,Los Angeles County,Los Angeles County,312,160,253,23.1,107656,951900,56.0,31.9,8.1,0.0,0.0,Low
+91214,La Crescenta,Los Angeles County,Los Angeles County,30817,10692,11102,74.8,140121,1135200,41.7,71.0,4.7,68.7,43.0,High
+91301,Agoura Hills,Los Angeles County,Los Angeles County,23879,8839,9484,82.4,163317,1116200,46.7,75.1,0.3,93.0,39.0,High
+91302,Calabasas,Los Angeles County,Los Angeles County,25569,9494,10165,70.6,185636,1724500,44.5,73.1,1.7,98.3,93.9,Extreme
+91303,Canoga Park,Los Angeles County,Los Angeles County,29805,10702,11405,21.6,74474,683000,33.5,53.0,7.0,0.0,0.0,Low
+91304,Canoga Park,Los Angeles County,Los Angeles County,52474,18194,18807,50.4,90007,886400,40.7,60.8,7.4,20.2,8.6,Moderate
+91306,Winnetka,Los Angeles County,Los Angeles County,47176,14709,15303,56.3,93151,800000,39.0,62.8,5.9,0.0,0.0,Low
+91307,West Hills,Los Angeles County,Los Angeles County,26580,8938,9168,79.5,151190,963900,44.2,77.5,2.5,18.1,7.2,Moderate
+91311,Chatsworth,Los Angeles County,Los Angeles County,40898,14561,15097,66.6,119386,876400,42.3,67.5,4.8,51.5,18.4,Moderate
+91316,Encino,Los Angeles County,Los Angeles County,29491,12883,13724,50.2,92311,961100,44.2,52.1,8.0,30.6,10.0,Moderate
+91320,Newbury Park,Ventura County,Central Coast,43472,15265,15636,76.1,148991,948100,43.3,74.7,2.5,80.8,8.8,High
+91321,Newhall,Los Angeles County,Los Angeles County,31989,10863,11338,60.8,91092,691600,36.5,61.8,4.7,92.9,28.7,High
+91324,Northridge,Los Angeles County,Los Angeles County,30699,10730,11618,46.7,99610,906300,37.7,62.6,6.1,6.9,0.0,Low
+91325,Northridge,Los Angeles County,Los Angeles County,35062,12894,13736,46.6,87168,944500,37.9,63.2,7.0,4.2,0.0,Low
+91326,Porter Ranch,Los Angeles County,Los Angeles County,38428,13394,14041,75.8,148281,1106000,43.6,74.1,2.6,65.8,26.5,High
+91330,Northridge,Los Angeles County,Los Angeles County,2512,4,17,0.0,,,20.3,0.0,0.0,0.0,0.0,Low
+91331,Pacoima,Los Angeles County,Los Angeles County,97608,23227,24025,62.4,84227,633200,35.4,71.6,7.6,11.4,0.0,Low
+91335,Reseda,Los Angeles County,Los Angeles County,74526,24195,25710,50.2,80143,751700,39.2,59.9,7.8,1.2,0.0,Low
+91340,San Fernando,Los Angeles County,Los Angeles County,33424,8477,9015,64.5,85261,661500,37.4,73.9,5.4,4.4,0.0,Low
+91342,Sylmar,Los Angeles County,Los Angeles County,93301,25537,26533,67.8,98118,695600,37.5,74.7,5.0,54.4,16.7,Moderate
+91343,North Hills,Los Angeles County,Los Angeles County,60783,18209,18887,48.2,81430,823700,36.7,63.2,8.0,6.4,0.0,Low
+91344,Granada Hills,Los Angeles County,Los Angeles County,52890,17729,18389,73.4,119345,904300,43.9,71.2,6.4,23.6,7.7,Moderate
+91345,Mission Hills,Los Angeles County,Los Angeles County,18714,5536,5726,69.4,94215,712200,40.8,72.8,5.7,13.3,0.0,Low
+91350,Santa Clarita,Los Angeles County,Los Angeles County,43973,13778,13985,82.5,140110,801300,38.2,79.7,3.4,86.8,55.3,Extreme
+91351,Canyon Country,Los Angeles County,Los Angeles County,33155,10502,10796,72.7,115364,608500,39.3,76.1,3.5,84.6,18.7,High
+91352,Sun Valley,Los Angeles County,Los Angeles County,46899,12638,13310,50.2,78239,764800,37.3,65.4,6.9,23.0,6.3,Moderate
+91354,Valencia,Los Angeles County,Los Angeles County,33957,11149,11386,77.3,156173,856500,40.0,79.6,1.5,76.6,48.1,High
+91355,Valencia,Los Angeles County,Los Angeles County,29123,11781,12235,67.1,115640,806200,43.3,61.1,4.1,64.6,18.9,Moderate
+91356,Tarzana,Los Angeles County,Los Angeles County,30942,12080,12719,58.0,107378,1229000,42.3,58.2,6.0,34.2,30.1,High
+91360,Thousand Oaks,Ventura County,Central Coast,42236,15201,15613,69.7,119296,937000,43.5,69.0,6.3,75.0,17.3,Moderate
+91361,Westlake Village,Ventura County,Central Coast,18802,7667,8295,69.7,144900,1433300,50.1,69.8,1.9,87.8,59.3,Extreme
+91362,Thousand Oaks,Ventura County,Central Coast,35996,13928,14383,72.9,139800,1116500,45.8,68.1,5.8,84.2,42.5,High
+91364,Woodland Hills,Los Angeles County,Los Angeles County,27748,10166,10870,70.9,132854,1208200,42.8,67.6,3.6,54.6,25.0,High
+91367,Woodland Hills,Los Angeles County,Los Angeles County,45889,19532,20946,45.4,108653,1067000,39.7,52.7,4.6,26.3,0.0,Low
+91377,Oak Park,Ventura County,Central Coast,13757,5099,5354,71.9,163085,1036900,43.0,69.8,1.8,95.9,41.9,Extreme
+91381,Stevenson Ranch,Los Angeles County,Los Angeles County,22582,7553,7616,65.2,158504,1058400,40.1,74.4,2.1,97.7,70.9,Extreme
+91384,Castaic,Los Angeles County,Los Angeles County,26478,7124,7270,84.1,131689,767300,35.8,81.0,2.4,98.4,100.0,Extreme
+91387,Canyon Country,Los Angeles County,Los Angeles County,46869,14343,14901,64.9,117969,756600,35.2,73.3,3.5,87.5,46.0,High
+91390,Santa Clarita,Los Angeles County,Los Angeles County,19308,6414,6692,86.6,151897,878400,46.7,79.2,1.5,98.9,100.0,Extreme
+91401,Van Nuys,Los Angeles County,Los Angeles County,39231,15131,15792,33.3,79552,1047700,37.8,51.6,9.9,0.0,0.0,Low
+91402,Panorama City,Los Angeles County,Los Angeles County,65754,20100,20588,33.6,57369,624300,35.1,53.4,11.2,0.0,0.0,Low
+91403,Sherman Oaks,Los Angeles County,Los Angeles County,25793,12111,13045,44.7,116170,1520000,41.0,51.0,7.5,19.2,0.0,Low
+91405,Van Nuys,Los Angeles County,Los Angeles County,56033,19177,20278,27.3,62900,737700,36.3,48.4,11.8,0.0,0.0,Low
+91406,Van Nuys,Los Angeles County,Los Angeles County,51953,19029,19643,40.6,78429,808900,37.5,53.5,8.5,6.9,0.0,Low
+91411,Van Nuys,Los Angeles County,Los Angeles County,23185,9449,10057,29.3,74617,1017900,35.3,47.5,8.4,0.0,0.0,Low
+91423,Sherman Oaks,Los Angeles County,Los Angeles County,32328,15748,16782,37.2,109461,1430800,41.2,47.3,2.6,18.1,0.0,Low
+91436,Encino,Los Angeles County,Los Angeles County,15969,6001,6269,78.7,177981,2000001,47.8,72.1,4.4,72.4,30.3,High
+91501,Burbank,Los Angeles County,Los Angeles County,19016,7959,8530,42.1,91936,1057600,42.5,49.7,11.3,47.2,10.2,Moderate
+91502,Burbank,Los Angeles County,Los Angeles County,11652,5448,5845,10.0,52473,879200,36.0,36.6,20.9,0.0,0.0,Low
+91504,Burbank,Los Angeles County,Los Angeles County,27010,9883,10480,51.8,103835,1099600,39.1,57.6,5.4,30.5,16.6,Moderate
+91505,Burbank,Los Angeles County,Los Angeles County,31744,13013,14316,43.7,109953,1061200,38.7,54.9,5.5,4.4,0.0,Low
+91506,Burbank,Los Angeles County,Los Angeles County,18612,7871,8414,59.4,105955,1096000,44.7,61.2,3.7,0.0,0.0,Low
+91601,North Hollywood,Los Angeles County,Los Angeles County,36992,19122,20976,16.7,79607,1000000,34.2,38.4,8.9,6.1,0.0,Low
+91602,North Hollywood,Los Angeles County,Los Angeles County,20957,10177,10816,33.3,102914,1055900,38.8,48.5,5.1,12.2,0.0,Low
+91604,Studio City,Los Angeles County,Los Angeles County,32469,15365,16129,45.1,141875,1700300,40.7,51.9,5.6,34.2,0.0,Low
+91605,North Hollywood,Los Angeles County,Los Angeles County,49868,15953,17284,37.0,65481,793600,37.6,58.2,8.6,7.9,0.0,Low
+91606,North Hollywood,Los Angeles County,Los Angeles County,43559,15854,16711,31.8,66200,832900,37.7,47.4,10.0,13.8,0.0,Low
+91607,Valley Village,Los Angeles County,Los Angeles County,31890,13989,14831,29.9,87874,1030500,38.5,49.7,6.5,1.7,0.0,Low
+91608,Universal City,Los Angeles County,Los Angeles County,38,30,30,0.0,,,25.9,30.0,0.0,88.2,0.0,High
+91701,Rancho Cucamonga,San Bernardino County,Inland Empire,39287,13054,13370,77.5,114244,795300,42.4,77.6,2.9,31.4,20.9,High
+91702,Azusa,Los Angeles County,Los Angeles County,60903,17648,18374,59.3,92683,635400,34.8,68.1,7.1,30.0,12.9,Moderate
+91706,Baldwin Park,Los Angeles County,Los Angeles County,71082,18593,18985,58.0,81122,609000,38.2,75.5,4.1,9.1,0.0,Low
+91708,Chino,San Bernardino County,Inland Empire,19213,5701,5919,47.8,108861,689000,32.8,70.2,6.6,99.2,100.0,Extreme
+91709,Chino Hills,San Bernardino County,Inland Empire,78006,25372,25917,69.2,126350,875600,40.6,79.4,2.5,87.3,41.2,High
+91710,Chino,San Bernardino County,Inland Empire,78754,22916,23739,68.7,103085,686500,38.1,75.4,4.0,53.0,6.6,Moderate
+91711,Claremont,Los Angeles County,Los Angeles County,37529,12305,12885,63.5,126056,894300,38.9,65.1,5.7,75.1,21.2,High
+91722,Covina,Los Angeles County,Los Angeles County,35099,9975,10366,70.5,102062,653900,38.5,72.9,4.3,3.4,0.0,Low
+91723,Covina,Los Angeles County,Los Angeles County,17733,6088,6307,43.9,94167,717300,37.7,63.1,2.4,11.8,0.0,Low
+91724,Covina,Los Angeles County,Los Angeles County,28352,9125,9472,66.8,103163,782700,38.0,74.8,3.3,39.7,0.0,Low
+91730,Rancho Cucamonga,San Bernardino County,Inland Empire,71613,25836,26697,47.3,92237,616300,36.3,61.4,4.6,39.8,0.0,Low
+91731,El Monte,Los Angeles County,Los Angeles County,27620,8293,8648,39.6,62215,635600,36.6,52.8,14.2,1.8,0.0,Low
+91732,El Monte,Los Angeles County,Los Angeles County,57431,15360,15842,43.2,75108,644200,37.9,68.3,7.3,11.9,0.0,Low
+91733,South El Monte,Los Angeles County,Los Angeles County,41255,10922,11279,41.7,68278,621800,38.2,68.7,7.6,13.9,0.0,Low
+91737,Rancho Cucamonga,San Bernardino County,Inland Empire,22958,7995,8340,71.1,122334,878400,44.8,73.8,3.7,63.2,45.2,High
+91739,Rancho Cucamonga,San Bernardino County,Inland Empire,41673,11990,12512,72.3,143265,895000,37.6,79.1,2.5,65.0,34.9,High
+91740,Glendora,Los Angeles County,Los Angeles County,26168,8162,8412,64.0,99083,787400,38.0,71.3,3.8,35.8,0.6,Low
+91741,Glendora,Los Angeles County,Los Angeles County,26071,8938,9267,71.8,127440,946900,43.5,77.0,2.4,65.1,37.2,High
+91744,La Puente,Los Angeles County,Los Angeles County,76942,18393,19169,69.1,93557,610900,37.6,78.6,4.6,8.7,0.0,Low
+91745,Hacienda Heights,Los Angeles County,Los Angeles County,54351,16532,17288,75.5,109183,820800,44.4,75.5,4.6,39.4,0.0,Low
+91746,La Puente,Los Angeles County,Los Angeles County,28387,7106,7384,73.9,86567,633300,40.9,79.3,5.0,11.7,0.0,Low
+91748,Rowland Heights,Los Angeles County,Los Angeles County,42463,13965,14504,66.6,83428,830800,46.4,72.7,4.1,30.2,11.0,Moderate
+91750,La Verne,Los Angeles County,Los Angeles County,32692,12254,12811,69.5,104195,814700,46.2,63.2,5.6,58.4,28.6,High
+91752,Mira Loma,Riverside County,Inland Empire,37983,10593,11034,61.7,115177,689600,36.7,79.6,4.0,83.6,37.1,High
+91754,Monterey Park,Los Angeles County,Los Angeles County,32248,11874,12650,54.2,86331,876600,45.8,59.8,11.8,6.0,0.0,Low
+91755,Monterey Park,Los Angeles County,Los Angeles County,26810,8754,9466,48.1,76382,839800,45.3,61.9,10.6,10.9,0.0,Low
+91759,Mount Baldy,Los Angeles County,Los Angeles County,341,175,335,86.3,122583,375000,55.1,69.1,0.0,99.8,100.0,Extreme
+91761,Ontario,San Bernardino County,Inland Empire,62935,18440,18922,69.3,100578,635000,34.7,73.8,2.5,64.0,21.7,High
+91762,Ontario,San Bernardino County,Inland Empire,64235,19480,20320,58.1,83850,606000,34.1,73.0,5.4,30.5,9.0,Moderate
+91763,Montclair,San Bernardino County,Inland Empire,37700,10612,10934,55.6,78770,570100,33.5,71.7,4.8,6.0,0.0,Low
+91764,Ontario,San Bernardino County,Inland Empire,56270,16624,17498,45.1,81762,565800,31.8,67.6,4.2,23.1,0.0,Low
+91765,Diamond Bar,Los Angeles County,Los Angeles County,44502,15233,16078,77.5,105565,915100,46.0,72.5,2.7,91.0,27.5,High
+91766,Pomona,Los Angeles County,Los Angeles County,69327,19723,20445,54.4,81991,599000,35.4,68.9,6.3,32.2,7.7,Moderate
+91767,Pomona,Los Angeles County,Los Angeles County,49152,15036,15794,53.1,79245,599200,37.4,65.5,7.5,10.8,0.0,Low
+91768,Pomona,Los Angeles County,Los Angeles County,34200,8831,9062,55.1,76041,573200,33.9,68.6,5.6,42.8,6.0,Moderate
+91770,Rosemead,Los Angeles County,Los Angeles County,58382,16872,17902,49.0,75000,790200,44.5,66.7,6.9,12.2,0.0,Low
+91773,San Dimas,Los Angeles County,Los Angeles County,33598,12004,12303,72.3,105338,800700,43.2,71.5,3.4,82.4,10.8,High
+91775,San Gabriel,Los Angeles County,Los Angeles County,23672,8479,9040,64.1,118610,1092700,45.2,64.5,3.9,23.8,0.0,Low
+91776,San Gabriel,Los Angeles County,Los Angeles County,36952,11693,12860,42.8,82155,859600,43.1,63.9,6.6,0.0,0.0,Low
+91780,Temple City,Los Angeles County,Los Angeles County,35588,11437,12049,61.9,103659,950300,42.9,71.0,3.2,1.1,0.0,Low
+91784,Upland,San Bernardino County,Inland Empire,26886,8993,9303,85.3,154349,891600,46.6,78.9,2.2,60.8,12.9,Moderate
+91786,Upland,San Bernardino County,Inland Empire,55829,19615,20193,45.9,92458,641600,35.3,66.9,5.0,20.1,0.0,Low
+91789,Walnut,Los Angeles County,Los Angeles County,40298,12681,13503,82.1,125720,975000,46.3,79.8,2.4,71.7,1.4,Moderate
+91790,West Covina,Los Angeles County,Los Angeles County,44710,12971,13600,61.4,102927,770900,39.1,75.8,5.7,14.1,0.0,Low
+91791,West Covina,Los Angeles County,Los Angeles County,33028,10821,11320,64.5,102266,843600,43.4,70.2,6.0,41.4,0.0,Low
+91792,West Covina,Los Angeles County,Los Angeles County,30629,9542,9809,55.3,94817,696200,40.4,70.5,4.1,10.8,0.0,Low
+91801,Alhambra,Los Angeles County,Los Angeles County,53381,20415,22069,37.4,89156,834000,41.5,57.8,7.8,0.0,0.0,Low
+91803,Alhambra,Los Angeles County,Los Angeles County,27715,10028,10700,48.4,84311,888600,41.8,58.0,6.7,0.0,0.0,Low
+91901,Alpine,San Diego County,San Diego & Imperial,18197,6344,6591,74.8,114167,852000,42.2,78.0,3.4,99.9,100.0,Extreme
+91902,Bonita,San Diego County,San Diego & Imperial,17698,6127,6271,76.1,122524,984900,45.6,67.8,3.3,70.2,13.5,Moderate
+91905,Boulevard,San Diego County,San Diego & Imperial,1683,561,599,89.5,77886,394400,50.9,85.4,8.2,100.0,100.0,Extreme
+91906,Campo,San Diego County,San Diego & Imperial,3325,1176,1290,79.0,62500,327600,46.4,67.6,2.0,100.0,100.0,Extreme
+91910,Chula Vista,San Diego County,San Diego & Imperial,77123,26230,27850,50.0,90222,741200,38.0,64.0,6.2,21.5,0.0,Low
+91911,Chula Vista,San Diego County,San Diego & Imperial,85542,25440,27366,52.1,82350,636100,36.9,68.5,5.9,29.2,6.4,Moderate
+91913,Chula Vista,San Diego County,San Diego & Imperial,57721,17428,18058,70.2,129337,812200,35.7,78.9,2.9,38.6,19.8,Moderate
+91914,Chula Vista,San Diego County,San Diego & Imperial,16877,4820,4929,80.3,190786,1049600,38.9,83.3,0.8,85.8,42.2,High
+91915,Chula Vista,San Diego County,San Diego & Imperial,35322,10677,10954,71.4,139503,781500,35.4,77.0,2.2,82.8,21.6,High
+91916,Descanso,San Diego County,San Diego & Imperial,1710,605,672,78.3,103438,676800,43.3,71.7,9.9,100.0,100.0,Extreme
+91917,Dulzura,San Diego County,San Diego & Imperial,749,206,322,58.3,,564500,35.3,58.7,0.0,100.0,100.0,Extreme
+91931,Guatay,San Diego County,San Diego & Imperial,494,242,270,81.4,63750,,65.2,64.0,0.0,100.0,100.0,Extreme
+91932,Imperial Beach,San Diego County,San Diego & Imperial,25741,9332,10291,31.3,85833,856900,35.1,59.5,6.8,21.6,0.0,Low
+91934,Jacumba,San Diego County,San Diego & Imperial,1200,374,374,29.9,50469,360900,44.4,40.9,0.0,100.0,100.0,Extreme
+91935,Jamul,San Diego County,San Diego & Imperial,9114,2950,3097,90.5,151538,902400,48.4,83.8,2.8,99.8,100.0,Extreme
+91941,La Mesa,San Diego County,San Diego & Imperial,33218,12647,13184,67.5,115381,928700,41.0,70.9,2.3,47.6,0.0,Moderate
+91942,La Mesa,San Diego County,San Diego & Imperial,41424,17684,18607,45.5,92896,775700,37.7,52.8,7.5,10.6,0.0,Low
+91945,Lemon Grove,San Diego County,San Diego & Imperial,27745,9076,9416,52.5,88016,704900,37.1,69.6,5.5,16.4,0.0,Low
+91948,Mount Laguna,San Diego County,San Diego & Imperial,93,55,95,83.6,55066,,34.0,16.4,0.0,100.0,100.0,Extreme
+91950,National City,San Diego County,San Diego & Imperial,59891,18358,19616,35.7,66426,612200,35.9,54.6,10.8,0.5,0.0,Low
+91962,Pine Valley,San Diego County,San Diego & Imperial,2574,1081,1197,92.9,143094,528100,50.8,88.1,0.3,100.0,100.0,Extreme
+91963,Potrero,San Diego County,San Diego & Imperial,689,197,197,31.0,,,16.6,76.1,0.0,100.0,100.0,Extreme
+91977,Spring Valley,San Diego County,San Diego & Imperial,61064,19118,19669,63.8,99657,665600,35.8,71.1,4.5,51.2,0.0,Moderate
+91978,Spring Valley,San Diego County,San Diego & Imperial,10014,3236,3311,67.9,113170,637200,42.5,74.7,2.8,95.6,60.7,Extreme
+91980,Tecate,San Diego County,San Diego & Imperial,176,25,25,100.0,,,45.1,100.0,0.0,100.0,100.0,Extreme
+92003,Bonsall,San Diego County,San Diego & Imperial,5061,1751,1852,68.8,113216,926700,44.0,72.4,1.0,99.3,100.0,Extreme
+92004,Borrego Springs,San Diego County,San Diego & Imperial,3007,1654,2838,68.3,74018,390400,61.9,63.0,3.3,91.9,55.6,Extreme
+92007,Cardiff By The Sea,San Diego County,San Diego & Imperial,11100,4273,4781,62.4,182629,2000001,40.4,78.8,2.3,26.7,0.0,Low
+92008,Carlsbad,San Diego County,San Diego & Imperial,27955,11835,13056,48.2,104995,1229400,41.7,60.8,3.7,54.8,0.0,Moderate
+92009,Carlsbad,San Diego County,San Diego & Imperial,44739,16183,17014,72.3,164182,1368100,43.6,72.9,2.7,79.8,2.6,Moderate
+92010,Carlsbad,San Diego County,San Diego & Imperial,18489,6926,7219,64.4,129926,1103300,40.2,64.1,5.4,77.9,0.0,Moderate
+92011,Carlsbad,San Diego County,San Diego & Imperial,23190,9094,10025,64.0,159235,1302600,43.3,69.5,1.8,82.2,0.0,High
+92014,Del Mar,San Diego County,San Diego & Imperial,13105,5628,6670,72.7,198823,2000001,52.5,68.2,2.6,72.9,1.2,Moderate
+92019,El Cajon,San Diego County,San Diego & Imperial,45351,14995,15689,66.4,101973,801400,40.9,69.8,5.7,62.5,41.6,High
+92020,El Cajon,San Diego County,San Diego & Imperial,57842,19586,20414,44.4,76032,813100,37.0,55.4,8.4,23.7,0.0,Low
+92021,El Cajon,San Diego County,San Diego & Imperial,70501,22953,23734,53.8,74013,611900,36.3,58.2,7.1,41.2,31.2,High
+92024,Encinitas,San Diego County,San Diego & Imperial,50617,19716,21511,67.4,158507,1612000,43.8,70.7,3.2,40.3,8.2,Moderate
+92025,Escondido,San Diego County,San Diego & Imperial,49989,16413,17205,43.4,81106,827900,36.4,67.9,6.6,37.0,12.7,Moderate
+92026,Escondido,San Diego County,San Diego & Imperial,53075,18883,19695,63.1,104561,714300,39.7,66.9,4.6,67.5,34.6,High
+92027,Escondido,San Diego County,San Diego & Imperial,54113,16965,17623,63.5,93338,691000,36.1,70.1,6.2,47.2,32.9,High
+92028,Fallbrook,San Diego County,San Diego & Imperial,52227,17149,18257,71.5,111290,842500,38.7,80.9,3.9,98.6,87.8,Extreme
+92029,Escondido,San Diego County,San Diego & Imperial,20726,7854,8066,73.2,124726,985500,43.2,77.8,2.8,87.3,28.2,High
+92036,Julian,San Diego County,San Diego & Imperial,3218,1412,2315,84.2,73750,591400,53.9,59.6,0.5,99.9,100.0,Extreme
+92037,La Jolla,San Diego County,San Diego & Imperial,40717,16909,19688,61.5,147230,1958700,43.7,58.6,5.3,44.5,0.0,Low
+92040,Lakeside,San Diego County,San Diego & Imperial,46216,15426,16106,67.7,107937,723200,39.0,70.7,4.5,92.6,60.8,Extreme
+92054,Oceanside,San Diego County,San Diego & Imperial,38417,15513,18472,39.1,82408,908900,39.1,59.1,6.3,25.3,0.4,Low
+92055,Camp Pendleton,San Diego County,San Diego & Imperial,10831,0,0,,,,21.2,,,99.9,100.0,Extreme
+92056,Oceanside,San Diego County,San Diego & Imperial,53616,19761,20678,68.1,106272,773200,40.4,67.1,3.5,51.3,2.9,Moderate
+92057,Oceanside,San Diego County,San Diego & Imperial,56835,18751,19502,69.1,108814,743200,38.8,72.4,3.3,55.8,17.3,Moderate
+92058,Oceanside,San Diego County,San Diego & Imperial,49834,14635,15565,25.4,69970,670200,25.1,67.5,4.4,64.4,36.4,High
+92059,Pala,San Diego County,San Diego & Imperial,1362,376,428,74.5,99803,561500,33.2,78.2,2.4,99.9,100.0,Extreme
+92060,Palomar Mountain,San Diego County,San Diego & Imperial,619,182,233,100.0,152852,835900,64.6,90.7,0.0,100.0,100.0,Extreme
+92061,Pauma Valley,San Diego County,San Diego & Imperial,1543,681,918,88.8,92813,858300,58.4,74.3,4.1,100.0,100.0,Extreme
+92064,Poway,San Diego County,San Diego & Imperial,48683,16426,16939,75.2,148673,1033100,41.2,77.2,2.7,85.8,39.5,High
+92065,Ramona,San Diego County,San Diego & Imperial,36752,12296,12650,78.4,125285,800100,41.4,79.9,1.2,99.8,100.0,Extreme
+92066,Ranchita,San Diego County,San Diego & Imperial,290,152,186,77.0,35625,393100,63.0,67.1,13.2,100.0,100.0,Extreme
+92067,Rancho Santa Fe,San Diego County,San Diego & Imperial,7938,2835,3831,93.9,187054,2000001,46.5,87.2,0.2,94.5,33.0,High
+92069,San Marcos,San Diego County,San Diego & Imperial,47335,15162,15711,56.1,96771,800700,36.1,72.2,3.7,72.3,27.8,High
+92070,Santa Ysabel,San Diego County,San Diego & Imperial,607,233,295,57.9,67017,740400,37.1,56.2,1.3,100.0,100.0,Extreme
+92071,Santee,San Diego County,San Diego & Imperial,59590,21291,21946,72.4,113618,728900,40.3,69.7,4.3,81.7,27.7,High
+92075,Solana Beach,San Diego County,San Diego & Imperial,11944,5326,6209,66.7,149327,2000001,50.2,64.0,5.3,41.4,0.0,Low
+92078,San Marcos,San Diego County,San Diego & Imperial,53605,18522,19339,72.0,120268,942300,38.8,69.2,3.4,81.6,36.7,High
+92081,Vista,San Diego County,San Diego & Imperial,29002,10939,11267,54.5,105379,838600,38.5,65.0,3.4,51.2,0.0,Moderate
+92082,Valley Center,San Diego County,San Diego & Imperial,21727,6771,7289,88.3,126544,833600,42.0,84.6,1.6,99.9,100.0,Extreme
+92083,Vista,San Diego County,San Diego & Imperial,38375,11715,12128,49.7,86974,658200,34.7,70.5,6.1,19.7,4.3,Low
+92084,Vista,San Diego County,San Diego & Imperial,49727,15342,16015,60.2,98577,824400,36.0,73.6,3.9,54.0,16.3,Moderate
+92086,Warner Springs,San Diego County,San Diego & Imperial,1406,635,758,82.7,57431,385800,60.8,65.0,1.3,100.0,100.0,Extreme
+92091,Rancho Santa Fe,San Diego County,San Diego & Imperial,972,592,748,68.2,103452,1487900,63.1,36.7,3.2,97.6,92.9,Extreme
+92092,La Jolla,San Diego County,San Diego & Imperial,528,0,0,,,,20.7,,,59.7,0.0,Moderate
+92093,La Jolla,San Diego County,San Diego & Imperial,7167,0,0,,,,19.5,,,59.7,0.0,Moderate
+92101,San Diego,San Diego County,San Diego & Imperial,51805,30214,34605,22.6,91566,793100,37.0,23.1,21.4,3.7,0.0,Low
+92102,San Diego,San Diego County,San Diego & Imperial,38901,14620,15669,32.7,77248,750000,34.3,48.5,7.2,13.9,0.0,Low
+92103,San Diego,San Diego County,San Diego & Imperial,34836,19935,21746,35.2,102626,1061200,40.8,38.8,8.7,18.6,0.0,Low
+92104,San Diego,San Diego County,San Diego & Imperial,47410,23661,25064,28.8,94014,914700,35.2,46.1,6.1,11.0,0.0,Low
+92105,San Diego,San Diego County,San Diego & Imperial,71411,22910,23944,32.6,68563,635600,33.6,56.0,11.9,14.0,0.0,Low
+92106,San Diego,San Diego County,San Diego & Imperial,21651,7647,8062,60.6,142897,1515200,37.3,68.4,3.4,26.2,0.0,Low
+92107,San Diego,San Diego County,San Diego & Imperial,28827,13879,14853,37.7,113117,1379900,37.1,53.5,6.2,4.7,0.0,Low
+92108,San Diego,San Diego County,San Diego & Imperial,26790,14010,14927,28.1,103884,618700,33.5,45.6,5.3,35.3,0.0,Low
+92109,San Diego,San Diego County,San Diego & Imperial,44820,22646,26774,31.2,122128,1226900,33.4,50.7,4.5,20.6,0.0,Low
+92110,San Diego,San Diego County,San Diego & Imperial,30902,12339,13515,36.7,110790,1006800,34.5,55.3,9.2,27.4,0.0,Low
+92111,San Diego,San Diego County,San Diego & Imperial,45249,17229,17876,52.9,99644,817700,38.5,60.7,5.8,35.7,0.0,Low
+92113,San Diego,San Diego County,San Diego & Imperial,48215,13545,14365,30.2,61819,614300,33.2,52.8,12.6,1.6,0.0,Low
+92114,San Diego,San Diego County,San Diego & Imperial,65745,18407,18819,69.8,97794,649200,38.1,77.0,5.6,13.6,0.0,Low
+92115,San Diego,San Diego County,San Diego & Imperial,66264,22528,24035,40.0,79199,799200,28.8,57.1,8.4,28.6,0.0,Low
+92116,San Diego,San Diego County,San Diego & Imperial,31843,17022,18081,32.4,98154,940700,35.7,46.7,5.5,23.5,0.0,Low
+92117,San Diego,San Diego County,San Diego & Imperial,52275,20876,21789,56.5,103661,981200,39.5,67.0,4.5,53.6,0.0,Moderate
+92118,Coronado,San Diego County,San Diego & Imperial,18929,7303,9896,54.6,134534,2000001,42.3,58.9,3.4,17.7,0.0,Low
+92119,San Diego,San Diego County,San Diego & Imperial,24456,9485,9814,68.8,113435,879200,42.6,61.2,4.8,67.4,22.9,High
+92120,San Diego,San Diego County,San Diego & Imperial,31915,12404,13189,65.0,120661,924900,37.0,65.4,3.9,60.1,2.4,Moderate
+92121,San Diego,San Diego County,San Diego & Imperial,3974,1575,1702,49.6,135938,1085200,32.7,62.6,7.2,95.8,38.2,Extreme
+92122,San Diego,San Diego County,San Diego & Imperial,45411,19927,21546,34.4,105177,1046300,31.7,50.3,8.9,29.6,0.0,Low
+92123,San Diego,San Diego County,San Diego & Imperial,33041,12487,13363,44.4,132534,865600,35.3,65.4,3.0,46.6,0.5,Moderate
+92124,San Diego,San Diego County,San Diego & Imperial,30474,11332,12309,46.5,120201,918500,33.0,70.7,2.3,88.1,27.3,High
+92126,San Diego,San Diego County,San Diego & Imperial,76059,25551,26710,52.0,126913,865400,36.1,67.1,4.1,37.5,2.5,Low
+92127,San Diego,San Diego County,San Diego & Imperial,50555,16438,16996,73.4,195520,1232300,39.0,77.3,2.5,90.9,51.7,Extreme
+92128,San Diego,San Diego County,San Diego & Imperial,48992,20281,21284,65.5,131077,927100,44.4,60.7,3.5,61.2,4.3,Moderate
+92129,San Diego,San Diego County,San Diego & Imperial,52965,18616,19346,72.1,156321,1109600,41.6,77.3,1.9,78.4,21.9,High
+92130,San Diego,San Diego County,San Diego & Imperial,60768,22156,23735,62.0,205680,1748100,40.0,69.4,2.7,74.9,23.0,High
+92131,San Diego,San Diego County,San Diego & Imperial,35503,12982,13512,80.1,185256,1189100,43.6,73.8,2.4,90.2,41.0,High
+92134,San Diego,San Diego County,San Diego & Imperial,290,14,14,0.0,,,22.2,100.0,0.0,2.8,0.0,Low
+92135,San Diego,San Diego County,San Diego & Imperial,849,0,0,,,,21.2,,,49.5,0.0,Moderate
+92136,San Diego,San Diego County,San Diego & Imperial,4573,15,27,0.0,,,23.7,0.0,100.0,42.8,0.0,Low
+92139,San Diego,San Diego County,San Diego & Imperial,34703,10001,10642,57.6,95653,630800,36.9,77.0,4.1,29.4,0.0,Low
+92140,San Diego,San Diego County,San Diego & Imperial,2038,0,0,,,,20.5,,,0.0,0.0,Low
+92145,San Diego,San Diego County,San Diego & Imperial,2349,0,0,,,,21.6,,,96.7,100.0,Extreme
+92147,San Diego,San Diego County,San Diego & Imperial,148,0,0,,,,22.2,,,31.5,0.0,Low
+92154,San Diego,San Diego County,San Diego & Imperial,80445,23019,24304,61.1,94901,639200,36.5,72.3,4.4,58.5,10.9,Moderate
+92155,San Diego,San Diego County,San Diego & Imperial,101,0,0,,,,23.0,,,0.0,0.0,Low
+92161,San Diego,San Diego County,San Diego & Imperial,29,0,0,,,,51.6,,,59.7,0.0,Moderate
+92173,San Ysidro,San Diego County,San Diego & Imperial,27585,7952,8396,34.9,69792,535000,35.9,54.4,10.4,17.1,0.3,Low
+92179,San Diego,San Diego County,San Diego & Imperial,3150,0,0,,,,42.3,,,98.0,100.0,Extreme
+92201,Indio,Riverside County,Inland Empire,65825,22600,26506,57.7,66758,402800,37.5,59.1,5.0,35.5,0.0,Low
+92203,Indio,Riverside County,Inland Empire,34735,12178,14947,79.8,97311,553700,41.4,65.6,2.3,70.5,0.0,Moderate
+92210,Indian Wells,Riverside County,Inland Empire,4871,2468,5083,79.8,162990,1078200,67.9,55.0,3.1,68.9,0.0,Moderate
+92211,Palm Desert,Riverside County,Inland Empire,28092,13872,20270,72.2,88477,583900,63.9,44.1,3.0,69.5,0.0,Moderate
+92220,Banning,Riverside County,Inland Empire,33755,12266,13192,70.9,62599,354600,41.6,53.4,7.5,98.8,91.2,Extreme
+92223,Beaumont,Riverside County,Inland Empire,63833,20451,21033,80.5,102761,494600,36.5,70.6,4.1,99.0,100.0,Extreme
+92225,Blythe,Riverside County,Inland Empire,20319,5139,7454,57.8,55725,218000,38.5,61.0,8.3,45.3,0.0,Moderate
+92227,Brawley,Imperial County,San Diego & Imperial,28315,8209,9028,51.8,59362,291500,30.8,59.8,8.0,58.5,0.0,Moderate
+92230,Cabazon,Riverside County,Inland Empire,1887,696,890,60.1,48704,270400,31.5,59.5,7.0,100.0,100.0,Extreme
+92231,Calexico,Imperial County,San Diego & Imperial,38621,10081,12059,50.2,49742,313400,34.6,63.8,8.5,44.3,0.0,Low
+92233,Calipatria,Imperial County,San Diego & Imperial,6836,1282,1587,64.7,53778,203400,35.9,63.3,9.2,86.8,0.0,High
+92234,Cathedral City,Riverside County,Inland Empire,52267,18979,22599,66.5,73572,453100,41.1,62.6,5.0,10.6,0.0,Low
+92236,Coachella,Riverside County,Inland Empire,43642,12575,12785,63.9,68393,369000,33.4,71.8,4.3,64.5,0.0,Moderate
+92239,Desert Center,Riverside County,Inland Empire,144,57,257,54.4,73393,216100,45.5,86.0,0.0,96.1,0.0,Extreme
+92240,Desert Hot Springs,Riverside County,Inland Empire,41615,14115,15798,56.8,54023,333300,35.6,60.2,6.6,73.2,0.0,Moderate
+92241,Desert Hot Springs,Riverside County,Inland Empire,8884,3959,6148,83.1,46888,124000,49.8,47.2,6.4,71.3,0.0,Moderate
+92242,Earp,San Bernardino County,Inland Empire,1359,734,1405,82.3,37500,128100,62.6,61.9,2.2,86.8,0.0,High
+92243,El Centro,Imperial County,San Diego & Imperial,49069,14260,16255,51.5,55057,317900,31.1,63.8,5.7,47.9,0.0,Moderate
+92249,Heber,Imperial County,San Diego & Imperial,7312,1815,2007,68.0,72028,335600,32.0,71.0,1.8,78.5,0.0,Moderate
+92250,Holtville,Imperial County,San Diego & Imperial,7830,2160,2458,53.4,72143,324400,37.4,68.8,6.2,62.8,0.0,Moderate
+92251,Imperial,Imperial County,San Diego & Imperial,27454,6760,7575,70.2,90709,368700,33.5,64.9,2.0,89.8,0.0,High
+92252,Joshua Tree,San Bernardino County,Inland Empire,7538,3240,5189,67.3,66598,353800,44.6,52.1,8.8,92.5,51.5,Extreme
+92253,La Quinta,Riverside County,Inland Empire,38666,15933,24747,75.8,99277,661600,53.4,61.4,4.3,38.8,0.0,Low
+92254,Mecca,Riverside County,Inland Empire,11333,3328,3632,63.8,48272,215800,32.1,73.0,10.0,79.8,0.0,Moderate
+92256,Morongo Valley,San Bernardino County,Inland Empire,4209,1785,1924,70.8,51949,285400,44.1,61.3,5.0,96.7,100.0,Extreme
+92257,Niland,Imperial County,San Diego & Imperial,2158,780,1221,53.3,22611,102200,53.2,40.5,14.1,87.7,0.0,High
+92258,North Palm Springs,Riverside County,Inland Empire,474,157,269,54.1,52757,,45.5,56.1,12.1,83.8,0.0,High
+92259,Ocotillo,Imperial County,San Diego & Imperial,198,138,274,73.9,43500,159200,56.4,50.7,0.0,81.8,0.0,High
+92260,Palm Desert,Riverside County,Inland Empire,30523,14709,21919,63.8,70091,489500,59.2,43.2,4.8,37.2,0.0,Low
+92262,Palm Springs,Riverside County,Inland Empire,26887,13590,19936,64.3,71672,619600,54.8,47.1,7.8,20.1,6.8,Moderate
+92264,Palm Springs,Riverside County,Inland Empire,19899,11448,17482,68.8,77688,560100,61.2,40.1,5.9,43.6,8.9,Moderate
+92266,Palo Verde,Imperial County,San Diego & Imperial,99,77,187,0.0,,,64.5,49.4,19.5,85.5,0.0,High
+92268,Pioneertown,San Bernardino County,Inland Empire,434,221,411,71.5,58798,701400,64.5,77.4,0.0,96.3,18.6,Extreme
+92270,Rancho Mirage,Riverside County,Inland Empire,17563,9003,15026,82.0,107364,807200,66.1,52.5,4.7,70.3,0.0,Moderate
+92273,Seeley,Imperial County,San Diego & Imperial,1090,350,515,49.1,62051,205600,35.5,52.3,0.0,86.7,0.0,High
+92274,Thermal,Riverside County,Inland Empire,18167,5734,6673,72.5,38654,163800,35.0,60.4,2.6,87.3,4.7,High
+92275,Salton City,Imperial County,San Diego & Imperial,1219,478,619,73.6,,160700,42.9,41.0,0.0,50.3,0.0,Moderate
+92276,Thousand Palms,Riverside County,Inland Empire,7720,2752,3756,72.8,77000,268700,36.8,65.4,3.0,48.6,0.0,Moderate
+92277,Twentynine Palms,San Bernardino County,Inland Empire,26277,10501,13213,43.3,60901,247700,28.1,57.0,3.5,57.3,0.0,Moderate
+92278,Twentynine Palms,San Bernardino County,Inland Empire,3913,0,0,,,,21.1,,,62.9,0.0,Moderate
+92281,Westmorland,Imperial County,San Diego & Imperial,2082,561,656,50.8,29375,303700,27.9,53.1,5.9,73.8,0.0,Moderate
+92282,Whitewater,Riverside County,Inland Empire,1419,494,555,80.8,68750,299600,41.8,65.6,4.9,96.7,99.2,Extreme
+92283,Winterhaven,Imperial County,San Diego & Imperial,1732,627,1086,64.3,43393,94200,33.6,49.8,13.7,80.1,0.0,High
+92284,Yucca Valley,San Bernardino County,Inland Empire,25415,10710,12434,65.9,58373,354300,39.4,57.1,7.4,95.1,51.3,Extreme
+92285,Landers,San Bernardino County,Inland Empire,2764,1120,2490,91.2,47734,275000,45.8,67.3,6.2,70.0,9.1,Moderate
+92301,Adelanto,San Bernardino County,Inland Empire,38577,9442,10155,62.2,68676,348100,29.7,68.9,7.7,92.3,32.1,High
+92305,Angelus Oaks,San Bernardino County,Inland Empire,533,175,569,85.7,145536,559900,37.1,82.3,2.3,99.9,100.0,Extreme
+92307,Apple Valley,San Bernardino County,Inland Empire,41180,13581,13929,70.7,77106,428400,35.7,72.2,3.3,90.4,36.3,High
+92308,Apple Valley,San Bernardino County,Inland Empire,42709,14316,15090,71.5,66568,383600,38.4,59.5,6.9,92.8,49.5,High
+92309,Baker,San Bernardino County,Inland Empire,343,136,197,27.2,,,28.5,30.9,22.8,96.8,100.0,Extreme
+92310,Fort Irwin,San Bernardino County,Inland Empire,8419,2798,3007,1.1,76107,,23.6,55.0,1.1,62.4,0.0,Moderate
+92311,Barstow,San Bernardino County,Inland Empire,33954,12225,13586,50.0,61862,246400,33.5,51.8,8.6,49.4,0.2,Moderate
+92313,Grand Terrace,San Bernardino County,Inland Empire,13078,4736,5069,64.4,83628,517600,37.7,69.1,4.6,68.4,0.0,Moderate
+92314,Big Bear City,San Bernardino County,Inland Empire,9334,4242,9437,71.9,74910,457200,45.8,64.2,2.7,97.7,72.3,Extreme
+92315,Big Bear Lake,San Bernardino County,Inland Empire,5215,2396,9956,66.2,77436,590000,47.8,55.1,4.8,88.2,56.7,Extreme
+92316,Bloomington,San Bernardino County,Inland Empire,32765,8272,8605,72.2,83587,474100,34.2,78.1,1.8,32.9,0.0,Low
+92317,Blue Jay,San Bernardino County,Inland Empire,916,401,1075,74.1,99103,571900,45.8,55.4,0.0,99.6,100.0,Extreme
+92320,Calimesa,Riverside County,Inland Empire,10902,3965,4204,89.3,87181,446300,40.0,69.1,2.8,99.7,100.0,Extreme
+92321,Cedar Glen,San Bernardino County,Inland Empire,724,321,1124,81.3,123688,641400,50.7,77.6,0.0,99.4,100.0,Extreme
+92322,Cedarpines Park,San Bernardino County,Inland Empire,770,353,810,93.5,149119,588200,53.8,71.1,0.0,99.6,100.0,Extreme
+92324,Colton,San Bernardino County,Inland Empire,57365,17970,18968,54.7,71078,445100,34.4,68.4,5.4,43.6,16.0,Moderate
+92325,Crestline,San Bernardino County,Inland Empire,9065,3743,6668,74.7,70563,386700,43.2,69.3,0.6,99.4,100.0,Extreme
+92327,Daggett,San Bernardino County,Inland Empire,576,309,355,30.1,,,39.5,44.3,0.0,75.7,12.5,Moderate
+92328,Death Valley,Inyo County,North State & Sierra,725,361,470,13.6,94375,77800,43.6,61.5,2.8,96.7,100.0,Extreme
+92332,Essex,San Bernardino County,Inland Empire,105,25,73,100.0,,370800,43.4,16.0,48.0,96.4,85.4,Extreme
+92333,Fawnskin,San Bernardino County,Inland Empire,302,177,1077,53.1,,413300,56.5,46.3,7.3,99.9,100.0,Extreme
+92335,Fontana,San Bernardino County,Inland Empire,97511,25666,26341,48.2,77949,462400,31.5,72.4,4.1,13.2,0.0,Low
+92336,Fontana,San Bernardino County,Inland Empire,105517,29212,29536,79.8,123363,627700,35.7,84.0,2.4,66.0,14.1,Moderate
+92337,Fontana,San Bernardino County,Inland Empire,36026,9422,9656,75.5,107678,573000,34.9,86.2,2.8,66.3,0.0,Moderate
+92339,Forest Falls,San Bernardino County,Inland Empire,1302,514,748,80.7,77167,492200,36.7,66.9,7.4,99.9,100.0,Extreme
+92341,Green Valley Lake,San Bernardino County,Inland Empire,406,156,997,76.9,97273,366700,43.7,88.5,0.0,99.7,100.0,Extreme
+92342,Helendale,San Bernardino County,Inland Empire,7606,2553,3132,84.7,115058,378900,36.3,71.5,1.6,68.7,0.0,Moderate
+92344,Hesperia,San Bernardino County,Inland Empire,21349,6124,6431,82.0,98071,482500,34.3,87.2,3.3,95.0,32.2,High
+92345,Hesperia,San Bernardino County,Inland Empire,88706,26141,27305,65.7,69485,400800,32.9,74.0,4.8,90.5,8.9,High
+92346,Highland,San Bernardino County,Inland Empire,56179,17169,17789,67.1,85163,499200,36.4,72.6,2.8,69.1,35.4,High
+92347,Hinkley,San Bernardino County,Inland Empire,766,246,303,69.1,58833,194700,47.9,65.4,0.0,70.6,0.0,Moderate
+92350,Loma Linda,San Bernardino County,Inland Empire,344,0,0,,,,22.0,,,78.2,0.0,Moderate
+92352,Lake Arrowhead,San Bernardino County,Inland Empire,6246,2546,7529,88.3,105753,694600,53.9,63.8,3.7,99.6,100.0,Extreme
+92354,Loma Linda,San Bernardino County,Inland Empire,22051,7945,8740,40.1,83847,564400,36.0,54.7,9.4,56.4,20.9,High
+92356,Lucerne Valley,San Bernardino County,Inland Empire,6543,2264,2911,77.8,54923,269900,44.3,68.4,6.2,96.3,80.7,Extreme
+92358,Lytle Creek,San Bernardino County,Inland Empire,672,295,349,96.3,86394,479800,57.1,83.1,0.0,99.7,100.0,Extreme
+92359,Mentone,San Bernardino County,Inland Empire,9284,3415,3526,70.4,77846,431200,37.5,67.1,5.2,98.6,100.0,Extreme
+92363,Needles,San Bernardino County,Inland Empire,5531,2486,4033,54.4,40068,163900,50.1,49.2,9.2,90.8,0.0,High
+92364,Nipton,San Bernardino County,Inland Empire,7,7,13,0.0,,,,0.0,0.0,96.8,100.0,Extreme
+92365,Newberry Springs,San Bernardino County,Inland Empire,2192,934,1242,77.3,67600,183300,58.3,60.7,5.8,96.8,100.0,Extreme
+92368,Oro Grande,San Bernardino County,Inland Empire,906,273,339,61.9,80938,359800,40.0,72.9,2.6,94.8,0.0,High
+92369,Patton,San Bernardino County,Inland Empire,2575,0,0,,,,46.4,,,69.4,0.0,Moderate
+92371,Phelan,San Bernardino County,Inland Empire,21580,6025,6459,81.7,78986,387000,34.0,81.2,1.8,98.5,99.6,Extreme
+92372,Pinon Hills,San Bernardino County,Inland Empire,5149,1752,1991,81.1,66471,459400,37.5,72.8,1.8,98.4,99.8,Extreme
+92373,Redlands,San Bernardino County,Inland Empire,35257,13700,14468,49.6,101271,765700,37.6,57.8,5.8,73.6,53.7,Extreme
+92374,Redlands,San Bernardino County,Inland Empire,45262,14359,14883,57.7,102813,551600,32.4,67.2,3.6,75.9,41.0,High
+92376,Rialto,San Bernardino County,Inland Empire,84394,21905,22738,61.9,79675,463300,32.1,73.6,5.5,24.1,0.0,Moderate
+92377,Rialto,San Bernardino County,Inland Empire,20814,5519,5629,88.5,116223,582900,36.1,80.9,0.7,86.7,52.0,Extreme
+92378,Rimforest,San Bernardino County,Inland Empire,315,180,296,81.7,105294,461500,50.2,61.7,0.0,99.2,100.0,Extreme
+92382,Running Springs,San Bernardino County,Inland Empire,5215,2133,3964,74.0,81493,389300,38.5,60.2,6.8,99.7,100.0,Extreme
+92384,Shoshone,Inyo County,North State & Sierra,18,10,19,0.0,,,,100.0,0.0,96.7,100.0,Extreme
+92385,Skyforest,San Bernardino County,Inland Empire,198,119,219,87.4,,560500,61.5,56.3,0.0,99.7,100.0,Extreme
+92386,Sugarloaf,San Bernardino County,Inland Empire,2042,981,3133,63.3,50694,458600,51.4,48.7,6.0,98.2,100.0,Extreme
+92389,Tecopa,Inyo County,North State & Sierra,201,112,173,90.2,,113800,53.7,70.5,12.5,96.7,100.0,Extreme
+92391,Twin Peaks,San Bernardino County,Inland Empire,2254,948,1622,74.5,81789,340500,34.6,79.7,5.4,99.4,100.0,Extreme
+92392,Victorville,San Bernardino County,Inland Empire,65429,17616,18663,71.0,87681,410100,32.0,77.3,3.5,84.2,25.3,High
+92394,Victorville,San Bernardino County,Inland Empire,41614,10132,10548,63.9,78466,385400,32.8,71.0,4.0,76.9,0.8,Moderate
+92395,Victorville,San Bernardino County,Inland Empire,47375,15566,16682,52.6,62102,375400,33.9,59.0,6.0,69.4,0.2,Moderate
+92397,Wrightwood,Los Angeles County,Los Angeles County,5854,2535,3144,77.2,77250,478000,47.0,61.2,2.1,99.0,100.0,Extreme
+92398,Yermo,San Bernardino County,Inland Empire,2609,769,796,46.8,59888,311500,25.5,55.4,2.9,82.2,0.1,High
+92399,Yucaipa,San Bernardino County,Inland Empire,55366,18842,19743,74.1,92440,511200,36.7,69.5,6.3,92.4,82.6,Extreme
+92401,San Bernardino,San Bernardino County,Inland Empire,1659,646,663,18.3,26596,353700,39.1,25.9,20.6,50.0,0.0,Moderate
+92404,San Bernardino,San Bernardino County,Inland Empire,63243,19020,19743,50.1,66701,426300,32.5,63.2,6.4,39.0,1.9,Moderate
+92405,San Bernardino,San Bernardino County,Inland Empire,31217,9627,9963,51.0,66964,415600,32.2,64.2,4.6,32.2,0.0,Low
+92407,San Bernardino,San Bernardino County,Inland Empire,71711,18645,19311,60.3,94032,514800,30.4,76.3,3.3,89.0,48.7,High
+92408,San Bernardino,San Bernardino County,Inland Empire,14325,4208,4382,38.5,68333,426400,32.8,60.0,10.4,55.2,0.0,Moderate
+92410,San Bernardino,San Bernardino County,Inland Empire,47869,13476,14347,41.7,54181,302600,31.4,60.4,13.0,31.0,0.0,Low
+92411,San Bernardino,San Bernardino County,Inland Empire,27249,6828,7250,55.7,54324,356500,31.2,69.7,4.5,28.0,0.0,Low
+92501,Riverside,Riverside County,Inland Empire,22934,7405,7831,43.3,81886,509300,33.6,59.9,5.2,76.4,13.6,Moderate
+92503,Riverside,Riverside County,Inland Empire,88395,25057,26080,67.0,96268,597300,35.0,74.2,3.6,53.5,24.3,High
+92504,Riverside,Riverside County,Inland Empire,57132,16463,17349,64.4,92477,562600,37.3,70.1,5.3,42.7,12.3,Moderate
+92505,Riverside,Riverside County,Inland Empire,53419,14778,15564,51.5,84906,570200,33.2,68.7,3.0,44.7,1.9,Low
+92506,Riverside,Riverside County,Inland Empire,45086,15430,16017,77.4,121459,669500,40.0,75.6,2.1,65.8,20.6,High
+92507,Riverside,Riverside County,Inland Empire,64015,19153,20771,37.1,75303,536900,27.1,58.2,6.8,69.6,36.2,High
+92508,Riverside,Riverside County,Inland Empire,36909,10467,10634,79.4,147674,711000,37.0,82.8,2.8,93.3,47.1,High
+92509,Riverside,Riverside County,Inland Empire,81182,20773,21527,71.3,95355,540100,33.6,79.2,4.1,87.1,15.6,High
+92518,March Air Reserve Base,Riverside County,Inland Empire,1260,583,838,3.8,79219,,41.9,43.6,20.1,99.7,100.0,Extreme
+92530,Lake Elsinore,Riverside County,Inland Empire,61768,17681,18591,67.9,86862,502200,33.1,75.8,4.2,86.8,69.5,Extreme
+92532,Lake Elsinore,Riverside County,Inland Empire,28055,7911,8362,74.7,122312,610900,34.2,79.0,0.8,98.9,100.0,Extreme
+92536,Aguanga,Riverside County,Inland Empire,2970,1090,1359,92.1,79551,519100,48.0,76.3,0.0,99.9,100.0,Extreme
+92539,Anza,Riverside County,Inland Empire,3774,1211,1847,79.8,90394,350000,35.8,80.9,5.7,100.0,100.0,Extreme
+92543,Hemet,Riverside County,Inland Empire,39937,14235,15549,57.2,49396,278500,40.2,54.0,10.1,54.5,6.4,Moderate
+92544,Hemet,Riverside County,Inland Empire,51751,15808,17290,68.8,73596,404500,35.1,68.6,4.2,85.5,31.4,High
+92545,Hemet,Riverside County,Inland Empire,45982,16564,17589,71.2,63770,379800,41.4,58.9,7.6,85.9,32.0,High
+92548,Homeland,Riverside County,Inland Empire,8312,2385,2731,76.1,61422,277700,32.5,71.8,3.4,99.7,100.0,Extreme
+92549,Idyllwild,Riverside County,Inland Empire,4016,1710,4036,70.4,73750,532300,48.5,52.7,4.8,99.8,100.0,Extreme
+92551,Moreno Valley,Riverside County,Inland Empire,37425,8444,8627,70.0,99970,474000,30.3,80.3,3.4,88.1,59.0,Extreme
+92553,Moreno Valley,Riverside County,Inland Empire,74640,20042,20623,51.9,78246,453100,31.4,71.7,5.2,34.4,0.4,Moderate
+92555,Moreno Valley,Riverside County,Inland Empire,45978,11956,12395,75.6,121425,587300,34.9,79.3,3.7,97.2,82.1,Extreme
+92557,Moreno Valley,Riverside County,Inland Empire,54061,15272,15898,65.1,94804,525100,33.7,79.0,2.5,69.9,26.4,High
+92561,Mountain Center,Riverside County,Inland Empire,2157,825,1052,85.2,94063,614300,40.1,80.1,0.1,99.3,87.4,Extreme
+92562,Murrieta,Riverside County,Inland Empire,64781,21613,22641,70.8,114266,663600,36.9,71.0,3.9,90.2,34.0,High
+92563,Murrieta,Riverside County,Inland Empire,80379,23828,24395,74.8,125397,645700,35.7,78.7,1.6,89.9,46.1,High
+92567,Nuevo,Riverside County,Inland Empire,10867,2703,2776,82.6,107610,527200,31.2,82.9,6.3,99.4,100.0,Extreme
+92570,Perris,Riverside County,Inland Empire,58082,14419,15523,66.5,79393,471200,32.3,76.2,6.6,98.9,95.8,Extreme
+92571,Perris,Riverside County,Inland Empire,60096,13973,14486,71.9,92309,471200,31.3,81.8,3.7,90.5,44.1,High
+92582,San Jacinto,Riverside County,Inland Empire,23356,5542,5851,87.2,105540,485100,31.4,91.9,1.4,95.7,69.4,Extreme
+92583,San Jacinto,Riverside County,Inland Empire,33778,9450,10079,68.6,68351,372500,34.3,62.1,4.6,91.2,43.4,High
+92584,Menifee,Riverside County,Inland Empire,61366,18937,19818,85.3,113767,599200,35.6,80.0,3.0,95.1,63.2,Extreme
+92585,Sun City,Riverside County,Inland Empire,29534,8326,8635,82.3,106667,556100,35.4,83.4,2.5,97.4,74.2,Extreme
+92586,Sun City,Riverside County,Inland Empire,20767,9536,10419,71.8,57708,381800,58.0,49.1,10.7,82.7,0.1,High
+92587,Quail Valley,Riverside County,Inland Empire,18218,6195,6638,81.6,104290,632900,39.2,75.0,3.8,89.6,56.9,Extreme
+92590,Temecula,Riverside County,Inland Empire,5089,2034,2108,33.1,85253,1460700,38.8,60.8,12.5,99.7,100.0,Extreme
+92591,Temecula,Riverside County,Inland Empire,41955,14469,15172,60.5,114160,690600,37.7,69.0,3.5,84.2,45.3,High
+92592,Temecula,Riverside County,Inland Empire,80035,25004,26036,79.3,134313,709000,37.6,79.4,1.4,87.5,61.4,Extreme
+92595,Wildomar,Riverside County,Inland Empire,34438,9888,10372,79.0,106047,562000,37.2,83.1,3.9,98.5,95.0,Extreme
+92596,Winchester,Riverside County,Inland Empire,38981,10256,10791,83.9,132538,648700,33.2,84.8,1.6,95.9,61.5,Extreme
+92602,Irvine,Orange County,Orange County,28261,9713,10342,49.0,161620,1502000,36.0,73.9,3.2,56.1,32.6,High
+92603,Irvine,Orange County,Orange County,18387,7176,7793,55.0,173094,1931700,41.1,70.3,2.8,89.7,28.6,High
+92604,Irvine,Orange County,Orange County,26491,9717,10233,63.4,133869,1058000,44.2,67.8,4.2,9.9,0.0,Low
+92606,Irvine,Orange County,Orange County,23990,8852,9329,35.9,135598,1141100,34.3,59.6,8.1,0.0,0.0,Low
+92610,Foothill Ranch,Orange County,Orange County,12867,4734,4932,82.6,195046,1020500,43.2,75.9,0.4,98.6,100.0,Extreme
+92612,Irvine,Orange County,Orange County,33714,14456,16208,26.1,106226,993800,31.5,44.9,9.6,37.3,0.0,Low
+92614,Irvine,Orange County,Orange County,29239,11624,12214,38.7,122821,1076700,33.7,59.7,5.8,0.0,0.0,Low
+92617,Irvine,Orange County,Orange County,24017,3888,4367,35.6,91529,693700,20.7,41.6,12.6,84.8,0.0,High
+92618,Irvine,Orange County,Orange County,66126,25417,27435,40.5,145731,1283800,34.3,58.5,4.3,57.4,43.1,High
+92620,Irvine,Orange County,Orange County,61631,21248,22285,55.7,146942,1267800,37.5,64.5,3.0,41.3,0.0,Low
+92624,Capistrano Beach,Orange County,Orange County,7211,2829,3291,62.5,140666,1226200,45.0,74.3,3.3,59.9,0.0,Moderate
+92625,Corona Del Mar,Orange County,Orange County,12294,5644,6856,60.9,174904,2000001,51.9,62.3,4.5,27.3,1.8,Low
+92626,Costa Mesa,Orange County,Orange County,50708,20024,21134,40.8,114249,1105900,37.9,61.5,3.1,19.5,0.0,Low
+92627,Costa Mesa,Orange County,Orange County,60393,22511,23536,38.5,108994,1125600,36.0,61.6,6.3,19.4,0.0,Low
+92629,Dana Point,Orange County,Orange County,25579,11031,13193,62.4,142807,1347700,48.0,70.9,1.7,55.7,0.0,Moderate
+92630,Lake Forest,Orange County,Orange County,67152,23277,24296,67.9,125853,910300,39.5,72.1,3.1,50.9,15.9,Moderate
+92637,Laguna Woods,Orange County,Orange County,17289,11706,13336,71.6,59269,394600,74.9,21.3,10.5,28.4,0.0,Low
+92646,Huntington Beach,Orange County,Orange County,54615,21422,22393,74.4,130672,1076500,47.8,69.4,2.3,20.5,0.0,Low
+92647,Huntington Beach,Orange County,Orange County,59047,21550,22574,43.6,105110,1034100,38.2,64.2,3.1,19.8,0.0,Low
+92648,Huntington Beach,Orange County,Orange County,45827,20469,21876,45.5,130164,1239500,44.5,62.9,5.0,14.3,0.0,Low
+92649,Huntington Beach,Orange County,Orange County,35346,14615,15294,59.3,123257,1131500,46.0,66.2,4.1,16.5,0.0,Low
+92651,Laguna Beach,Orange County,Orange County,23557,11178,14014,67.0,146604,2000001,54.1,62.9,3.6,93.7,47.8,High
+92653,Laguna Hills,Orange County,Orange County,29624,10547,11290,69.5,133194,1063300,41.7,72.2,3.1,39.6,0.0,Low
+92655,Midway City,Orange County,Orange County,8026,2632,2900,27.4,66308,788600,42.4,59.0,14.9,27.1,0.0,Low
+92656,Aliso Viejo,Orange County,Orange County,52229,20378,21289,57.5,137639,903200,39.2,62.9,3.7,57.5,13.4,Moderate
+92657,Newport Coast,Orange County,Orange County,9920,3632,4238,68.5,185042,2000001,46.4,73.1,2.8,96.2,65.7,Extreme
+92660,Newport Beach,Orange County,Orange County,34890,15533,17061,49.2,159564,2000001,45.2,59.5,3.8,67.6,0.0,Moderate
+92661,Newport Beach,Orange County,Orange County,3079,1706,2709,38.9,209231,2000001,45.5,59.2,7.5,0.0,0.0,Low
+92662,Newport Beach,Orange County,Orange County,2294,1217,1920,50.3,165955,2000001,61.1,50.1,6.6,0.0,0.0,Low
+92663,Newport Beach,Orange County,Orange County,21368,10233,12401,48.4,141541,2000001,42.7,61.2,5.0,39.5,0.0,Low
+92672,San Clemente,San Diego County,San Diego & Imperial,36939,15239,17531,54.1,111989,1438800,44.6,66.7,3.8,45.8,33.4,High
+92673,San Clemente,Orange County,Orange County,29406,9634,10124,82.4,182178,1375700,43.4,82.4,1.9,95.7,67.2,Extreme
+92675,San Juan Capistrano,Orange County,Orange County,35095,12252,13071,81.0,129457,993800,46.2,77.5,3.4,60.0,33.3,High
+92676,Silverado,Orange County,Orange County,2085,757,799,87.2,116250,891000,44.3,73.4,1.2,97.5,83.1,Extreme
+92677,Laguna Niguel,Orange County,Orange County,64139,25670,27643,67.4,140452,1190900,47.6,67.2,2.4,72.9,0.0,Moderate
+92678,Trabuco Canyon,Orange County,Orange County,664,248,259,86.3,98333,1007500,39.9,81.0,0.0,99.0,100.0,Extreme
+92679,Trabuco Canyon,Orange County,Orange County,30818,10601,10998,89.7,211250,1323600,46.2,84.8,1.0,98.5,86.7,Extreme
+92683,Westminster,Orange County,Orange County,89833,28133,29231,53.5,85585,858300,43.2,68.2,7.5,8.5,0.0,Low
+92688,Rancho Santa Margarita,Orange County,Orange County,43320,15858,16287,68.9,152528,906100,39.1,70.4,4.7,77.9,29.0,High
+92691,Mission Viejo,Orange County,Orange County,45841,15931,16476,77.3,141045,985100,44.3,75.2,3.7,37.9,0.0,Low
+92692,Mission Viejo,Orange County,Orange County,47022,17331,18125,75.1,131175,1037300,46.2,72.0,2.0,71.5,1.6,Moderate
+92694,Ladera Ranch,Orange County,Orange County,35764,11915,12687,74.8,189966,1127200,36.4,71.2,1.8,96.1,53.4,Extreme
+92701,Santa Ana,Orange County,Orange County,47818,13174,13877,27.7,70572,660500,33.4,56.8,9.5,0.0,0.0,Low
+92703,Santa Ana,Orange County,Orange County,62447,14638,14954,51.0,84437,618600,34.8,72.5,5.6,0.0,0.0,Low
+92704,Santa Ana,Orange County,Orange County,82120,20871,21415,49.1,99777,700200,35.9,71.8,4.6,14.5,0.0,Low
+92705,Santa Ana,Orange County,Orange County,48781,16187,16738,61.3,129331,1203400,39.6,73.6,5.6,25.2,0.0,Low
+92706,Santa Ana,Orange County,Orange County,37175,10106,10386,51.6,102857,893700,36.4,68.2,7.8,0.0,0.0,Low
+92707,Santa Ana,Orange County,Orange County,58695,14575,15052,48.9,105168,681300,34.0,74.6,3.8,2.3,0.0,Low
+92708,Fountain Valley,Orange County,Orange County,56258,18778,19227,64.8,115237,1072300,44.4,72.2,5.0,14.5,0.0,Low
+92780,Tustin,Orange County,Orange County,54374,17935,18604,44.1,101017,861700,36.2,64.2,5.0,0.9,0.0,Low
+92782,Tustin,Orange County,Orange County,30073,11567,11879,59.2,146080,1149200,39.9,69.6,2.8,70.0,0.0,Moderate
+92801,Anaheim,Orange County,Orange County,60547,18753,19536,37.0,83725,691400,36.4,65.4,6.5,7.7,0.0,Low
+92802,Anaheim,Orange County,Orange County,43132,12169,12663,36.8,84419,790600,33.5,62.9,6.1,0.0,0.0,Low
+92804,Anaheim,Orange County,Orange County,83537,24621,25556,42.0,76141,799600,37.1,63.8,8.0,5.1,0.0,Low
+92805,Anaheim,Orange County,Orange County,74661,21897,23080,39.9,91252,736600,33.8,66.5,3.8,0.0,0.0,Low
+92806,Anaheim,Orange County,Orange County,41003,12819,13420,40.8,97265,837900,33.8,71.6,5.7,10.9,0.0,Low
+92807,Anaheim,Orange County,Orange County,37296,12806,13189,79.7,138741,963200,42.3,71.4,4.1,58.3,6.4,Moderate
+92808,Anaheim,Orange County,Orange County,21539,7661,7876,73.2,158462,1069300,44.0,74.4,1.7,82.6,28.4,High
+92821,Brea,Orange County,Orange County,41623,14705,15134,57.5,123629,903200,39.8,69.5,5.1,41.1,7.7,Moderate
+92823,Brea,Orange County,Orange County,5846,2082,2239,75.6,169900,1070000,38.3,71.0,0.0,92.4,93.0,Extreme
+92831,Fullerton,Orange County,Orange County,35618,13071,13856,41.0,89278,876800,32.4,59.7,6.2,15.9,0.0,Low
+92832,Fullerton,Orange County,Orange County,27298,8973,9538,37.1,94275,829800,35.5,64.7,6.4,1.3,0.0,Low
+92833,Fullerton,Orange County,Orange County,51842,16721,17247,55.8,114176,884100,38.0,72.3,4.6,15.6,0.0,Low
+92835,Fullerton,Orange County,Orange County,26005,9228,9579,73.7,143817,1052500,43.3,68.8,4.2,23.0,0.0,Low
+92840,Garden Grove,Orange County,Orange County,54534,15789,16762,52.7,98881,789700,39.4,68.4,5.6,0.0,0.0,Low
+92841,Garden Grove,Orange County,Orange County,33219,9809,9929,53.3,84451,813700,41.1,70.6,7.1,8.1,0.0,Low
+92843,Garden Grove,Orange County,Orange County,46414,11747,12159,47.1,81446,747000,38.8,71.0,8.4,0.1,0.0,Low
+92844,Garden Grove,Orange County,Orange County,23188,6862,7139,40.5,79701,753900,41.0,65.6,9.4,17.8,0.0,Low
+92845,Garden Grove,Orange County,Orange County,16143,5802,5858,82.1,136485,926200,44.2,72.1,3.7,26.5,0.0,Low
+92860,Norco,Riverside County,Inland Empire,25109,6641,6867,81.1,127780,783200,40.4,85.5,3.0,91.7,35.1,High
+92861,Villa Park,Orange County,Orange County,5748,1924,1971,89.7,202245,1871700,53.6,81.7,2.4,11.4,0.0,Low
+92865,Orange,Orange County,Orange County,20589,6837,7017,64.2,127431,872700,38.1,79.8,2.4,0.7,0.0,Low
+92866,Orange,Orange County,Orange County,15331,5621,6010,33.1,79886,922400,36.2,59.7,8.5,7.8,0.0,Low
+92867,Orange,Orange County,Orange County,44726,13511,13877,66.1,130741,1015000,36.8,75.2,1.9,37.4,7.8,Moderate
+92868,Orange,Orange County,Orange County,26380,8938,9477,30.9,97500,762000,34.1,56.2,6.7,0.0,0.0,Low
+92869,Orange,Orange County,Orange County,36271,11754,11995,72.9,138204,994400,41.3,77.0,2.6,35.1,3.5,Low
+92870,Placentia,Orange County,Orange County,52826,17182,17890,63.6,115929,921000,39.1,71.3,2.9,19.3,0.4,Low
+92879,Corona,Riverside County,Inland Empire,49317,14826,15223,56.6,92229,616300,36.5,74.5,3.7,39.0,1.6,Low
+92880,Corona,Riverside County,Inland Empire,75043,20545,21061,76.1,151155,811300,37.3,85.1,2.2,77.7,47.2,High
+92881,Corona,Riverside County,Inland Empire,30347,9004,9346,82.5,134932,799700,41.1,81.4,4.3,66.2,34.7,High
+92882,Corona,Riverside County,Inland Empire,68715,20506,21135,64.5,104457,690700,37.2,74.5,2.8,40.4,36.4,High
+92883,Corona,Riverside County,Inland Empire,39990,12828,13077,83.1,132969,723900,38.7,72.2,4.3,98.6,99.7,Extreme
+92886,Yorba Linda,Orange County,Orange County,49704,16781,17550,83.1,153397,1116500,44.0,78.0,2.4,32.5,30.4,High
+92887,Yorba Linda,Orange County,Orange County,19725,6930,7132,83.7,163953,1179100,46.4,77.0,3.2,62.0,49.8,High
+93001,Ventura,Ventura County,Central Coast,32026,12967,14749,44.8,88078,859100,41.2,57.6,5.3,61.3,31.6,High
+93003,Ventura,Ventura County,Central Coast,52906,19786,20487,58.5,103761,816300,41.4,65.1,5.4,46.7,6.5,Moderate
+93004,Ventura,Ventura County,Central Coast,30698,11140,11407,66.3,114012,800900,40.9,70.6,5.1,59.7,11.7,Moderate
+93010,Camarillo,Ventura County,Central Coast,46748,16445,17461,64.4,111176,867100,39.5,70.0,5.9,41.9,23.8,High
+93012,Camarillo,Ventura County,Central Coast,35791,13620,14461,70.1,135217,841800,44.2,68.7,3.8,67.9,26.0,High
+93013,Carpinteria,Santa Barbara County,Central Coast,16317,6447,7694,61.0,110359,1153600,45.4,59.9,2.7,95.8,38.4,Extreme
+93015,Fillmore,Ventura County,Central Coast,19191,5841,6001,66.8,92777,625400,35.5,75.7,5.3,98.0,100.0,Extreme
+93021,Moorpark,Ventura County,Central Coast,37746,11788,12212,79.4,147636,904200,39.6,79.8,1.8,91.1,57.4,Extreme
+93022,Oak View,Ventura County,Central Coast,6078,2185,2312,80.3,110405,816800,46.2,79.9,2.8,97.7,100.0,Extreme
+93023,Ojai,Ventura County,Central Coast,21036,8796,9455,70.4,80927,911400,51.9,62.4,4.1,99.3,100.0,Extreme
+93030,Oxnard,Ventura County,Central Coast,58192,15204,15895,46.2,92958,688300,34.1,70.5,5.7,31.2,0.0,Moderate
+93033,Oxnard,Ventura County,Central Coast,78737,17047,17660,57.2,87309,572300,31.9,75.0,5.0,22.7,1.5,Moderate
+93035,Oxnard,Ventura County,Central Coast,26853,9653,12284,65.2,106611,801600,44.4,66.3,1.4,20.4,0.0,Low
+93036,Oxnard,Ventura County,Central Coast,49394,14569,15243,51.9,101445,678000,35.5,70.5,4.0,46.4,0.9,Moderate
+93040,Piru,Ventura County,Central Coast,1799,493,556,63.9,94556,624300,31.7,81.9,0.0,99.1,100.0,Extreme
+93041,Port Hueneme,Ventura County,Central Coast,23273,8160,9361,45.4,90592,586600,36.5,59.4,5.3,16.0,0.0,Low
+93042,Point Mugu Nawc,Ventura County,Central Coast,99,0,0,,,,21.8,,,55.5,0.0,Moderate
+93043,Port Hueneme Cbc Base,Ventura County,Central Coast,468,0,0,,,,22.2,,,19.9,0.0,Low
+93060,Santa Paula,Ventura County,Central Coast,34501,10529,11111,56.0,80979,635100,35.7,66.8,3.4,71.8,56.1,Extreme
+93063,Simi Valley,Ventura County,Central Coast,55066,19850,20185,73.8,125098,816800,43.2,72.9,3.1,72.8,34.5,High
+93065,Simi Valley,Ventura County,Central Coast,73534,25694,26225,73.0,120519,829000,41.5,71.8,2.6,53.1,40.1,High
+93066,Somis,Ventura County,Central Coast,2898,1092,1133,74.7,156957,1501600,52.5,82.4,4.0,99.2,100.0,Extreme
+93067,Summerland,Santa Barbara County,Central Coast,1101,506,637,55.7,71134,1716500,51.4,79.8,9.9,99.9,100.0,Extreme
+93101,Santa Barbara,Santa Barbara County,Central Coast,31554,12723,13698,22.9,90148,1184000,33.1,44.7,13.0,16.0,0.2,Low
+93103,Santa Barbara,Santa Barbara County,Central Coast,19382,7567,8056,43.1,122159,1663600,41.7,56.5,3.8,54.2,33.1,High
+93105,Santa Barbara,Santa Barbara County,Central Coast,24437,10490,11515,52.8,138286,1663000,48.2,59.4,5.3,71.3,32.9,High
+93106,Santa Barbara,Santa Barbara County,Central Coast,5418,66,70,0.0,,,20.7,48.5,0.0,50.4,0.0,Moderate
+93108,Santa Barbara,Santa Barbara County,Central Coast,11526,4618,5497,78.5,230419,2000001,54.5,72.7,2.7,93.6,68.4,Extreme
+93109,Santa Barbara,Santa Barbara County,Central Coast,10915,4576,4929,55.5,123347,1882500,42.4,66.4,3.2,54.2,0.0,Moderate
+93110,Santa Barbara,Santa Barbara County,Central Coast,15436,6314,6781,63.7,129209,1199500,47.4,58.6,6.4,81.3,2.3,High
+93111,Santa Barbara,Santa Barbara County,Central Coast,18274,6493,6859,65.8,144353,1296700,43.1,70.9,5.2,65.2,4.7,Moderate
+93117,Goleta,Santa Barbara County,Central Coast,52934,17272,18556,38.1,90037,1082400,23.5,60.5,6.6,69.9,10.9,Moderate
+93201,Alpaugh,Tulare County,San Joaquin Valley,1134,295,355,34.9,47063,146900,24.3,73.2,1.0,96.1,15.5,Extreme
+93202,Armona,Kings County,San Joaquin Valley,3890,970,1143,55.5,64276,284100,31.1,65.3,7.8,76.7,0.0,Moderate
+93203,Arvin,Kern County,San Joaquin Valley,20712,5052,5314,53.7,49217,264900,25.4,66.3,5.2,42.7,6.7,Moderate
+93204,Avenal,Kings County,San Joaquin Valley,13657,2813,2927,45.3,55079,228900,32.5,71.0,6.3,76.2,0.0,Moderate
+93205,Bodfish,Kern County,San Joaquin Valley,1708,805,1052,65.8,39590,143100,56.8,52.9,16.8,99.4,100.0,Extreme
+93206,Buttonwillow,Kern County,San Joaquin Valley,1898,542,612,39.1,53654,225000,28.7,55.5,13.5,96.0,7.8,Extreme
+93207,California Hot Springs,Tulare County,San Joaquin Valley,269,93,378,76.3,52125,253600,40.8,62.4,16.1,99.7,100.0,Extreme
+93208,Camp Nelson,Tulare County,San Joaquin Valley,157,124,518,100.0,,245800,65.1,36.3,0.0,99.8,100.0,Extreme
+93210,Coalinga,Fresno County,San Joaquin Valley,18491,4528,4764,53.9,74817,266400,36.4,63.1,8.1,91.6,36.0,High
+93212,Corcoran,Kings County,San Joaquin Valley,23142,4450,4761,51.6,58244,236000,35.5,60.7,6.8,22.7,3.6,Low
+93215,Delano,Kern County,San Joaquin Valley,54556,12858,13444,60.5,66204,302700,33.8,71.3,4.2,49.4,0.2,Moderate
+93218,Ducor,Tulare County,San Joaquin Valley,780,146,180,73.3,91500,261800,27.6,74.0,0.0,95.5,75.2,Extreme
+93219,Earlimart,Tulare County,San Joaquin Valley,9057,2270,2467,53.4,52273,258400,27.1,64.4,4.2,76.0,0.0,Moderate
+93221,Exeter,Tulare County,San Joaquin Valley,14538,4779,5153,60.2,86940,360900,36.3,63.6,6.5,81.1,7.3,High
+93222,Pine Mountain Club,Kern County,San Joaquin Valley,2721,1336,2242,82.7,69337,393000,48.6,61.4,1.0,99.8,100.0,Extreme
+93223,Farmersville,Tulare County,San Joaquin Valley,10405,2589,2690,64.2,60661,248500,28.1,68.0,7.6,76.5,0.0,Moderate
+93224,Fellows,Kern County,San Joaquin Valley,414,134,177,64.2,47000,208800,43.1,70.9,2.2,92.8,66.9,Extreme
+93225,Frazier Park,Ventura County,Central Coast,4663,1960,2354,67.6,67179,354200,42.4,60.9,8.2,99.1,100.0,Extreme
+93226,Glennville,Kern County,San Joaquin Valley,58,34,103,85.3,,,69.2,79.4,0.0,99.9,100.0,Extreme
+93227,Goshen,Tulare County,San Joaquin Valley,221,72,72,44.4,,,30.8,44.4,0.0,84.4,0.0,High
+93230,Hanford,Kings County,San Joaquin Valley,69684,22591,23846,61.3,76023,345000,33.4,64.2,7.3,59.9,0.2,Moderate
+93234,Huron,Fresno County,San Joaquin Valley,6519,1912,1973,24.6,52500,251700,26.8,57.6,16.6,88.2,0.0,High
+93235,Ivanhoe,Tulare County,San Joaquin Valley,4678,1309,1351,64.7,52083,229200,34.2,81.4,5.0,88.2,0.0,High
+93237,Kaweah,Tulare County,San Joaquin Valley,83,69,105,39.1,,,62.6,18.8,0.0,99.7,100.0,Extreme
+93238,Kernville,Tulare County,San Joaquin Valley,887,581,976,83.3,49950,408500,65.5,48.9,4.6,99.2,100.0,Extreme
+93239,Kettleman City,Kings County,San Joaquin Valley,1461,577,577,13.3,48231,138300,44.4,26.0,0.0,95.1,79.5,Extreme
+93240,Lake Isabella,Kern County,San Joaquin Valley,5981,2581,3388,66.7,31267,221000,38.8,43.4,10.5,98.8,100.0,Extreme
+93241,Lamont,Kern County,San Joaquin Valley,15250,4332,4646,43.4,33417,211900,31.5,52.2,9.1,30.2,0.0,Low
+93242,Laton,Fresno County,San Joaquin Valley,2904,964,1072,64.9,73142,353000,33.0,66.0,11.9,79.0,0.0,Moderate
+93243,Lebec,Kern County,San Joaquin Valley,834,419,748,72.8,,422700,43.7,86.4,0.0,99.7,100.0,Extreme
+93244,Lemon Cove,Tulare County,San Joaquin Valley,117,61,109,100.0,,164600,56.4,41.0,32.8,98.4,66.9,Extreme
+93245,Lemoore,Kings County,San Joaquin Valley,37971,11982,12922,46.2,80412,338900,30.2,72.2,2.6,58.5,2.4,Moderate
+93246,Lemoore,Kings County,San Joaquin Valley,852,0,0,,,,22.7,,,81.5,0.0,High
+93247,Lindsay,Tulare County,San Joaquin Valley,18115,5256,5599,54.1,60361,295700,32.0,64.3,7.4,81.0,1.7,High
+93249,Lost Hills,Kern County,San Joaquin Valley,2243,554,617,37.4,46646,170300,25.6,59.0,4.0,97.4,100.0,Extreme
+93250,Mc Farland,Kern County,San Joaquin Valley,15599,3903,4090,53.9,54051,273400,26.9,66.5,6.2,78.5,0.0,Moderate
+93251,Mc Kittrick,Kern County,San Joaquin Valley,274,75,91,28.0,80781,165600,31.7,77.3,0.0,96.9,100.0,Extreme
+93252,Maricopa,Ventura County,Central Coast,1295,540,656,54.8,43947,161700,39.5,63.1,5.7,94.0,65.7,Extreme
+93254,New Cuyama,Santa Barbara County,Central Coast,707,275,416,78.2,60938,223600,39.5,75.6,5.1,98.7,100.0,Extreme
+93255,Onyx,Kern County,San Joaquin Valley,470,214,291,55.1,24583,,32.8,46.3,0.0,98.9,100.0,Extreme
+93256,Pixley,Tulare County,San Joaquin Valley,5578,1316,1471,45.1,56172,249200,22.7,77.1,5.6,95.6,0.0,Extreme
+93257,Porterville,Tulare County,San Joaquin Valley,80467,23999,25373,55.6,59704,288200,30.6,67.4,6.8,61.5,12.6,Moderate
+93258,Porterville,Tulare County,San Joaquin Valley,1398,372,412,45.4,51319,218800,30.2,60.5,11.0,92.8,0.0,High
+93260,Posey,Tulare County,San Joaquin Valley,153,66,507,97.0,56250,359400,51.9,51.5,10.6,99.7,100.0,Extreme
+93261,Richgrove,Tulare County,San Joaquin Valley,2005,513,554,49.5,43850,203500,27.0,55.4,6.8,88.7,0.0,High
+93262,Sequoia National Park,Tulare County,San Joaquin Valley,12,0,119,,,,31.5,,,99.7,100.0,Extreme
+93263,Shafter,Kern County,San Joaquin Valley,24024,6402,6722,62.9,71528,334500,28.3,71.7,3.9,58.3,0.0,Moderate
+93265,Springville,Tulare County,San Joaquin Valley,3397,1229,1880,90.4,99350,467700,44.0,73.9,3.8,99.5,100.0,Extreme
+93266,Stratford,Kings County,San Joaquin Valley,1612,358,439,53.1,62727,291000,26.8,78.2,7.0,96.4,100.0,Extreme
+93267,Strathmore,Tulare County,San Joaquin Valley,5531,1464,1665,67.1,47344,237000,35.4,80.0,0.3,94.6,25.6,High
+93268,Taft,Kern County,San Joaquin Valley,16963,5766,6352,50.2,57778,236700,31.7,52.4,10.3,60.0,4.1,Moderate
+93270,Terra Bella,Tulare County,San Joaquin Valley,5482,1577,1717,67.8,67136,308100,37.5,80.7,1.5,97.1,71.4,Extreme
+93271,Three Rivers,Tulare County,San Joaquin Valley,2199,1098,1459,66.6,85922,493900,53.5,65.8,1.1,99.5,100.0,Extreme
+93272,Tipton,Tulare County,San Joaquin Valley,3818,999,1135,23.8,51523,248000,28.0,75.8,2.9,87.4,0.0,High
+93274,Tulare,Tulare County,San Joaquin Valley,80026,23483,24965,57.1,72650,329800,29.7,71.0,3.8,53.8,0.0,Moderate
+93276,Tupman,Kern County,San Joaquin Valley,157,59,68,61.0,,,36.1,35.6,28.8,96.9,100.0,Extreme
+93277,Visalia,Tulare County,San Joaquin Valley,53985,18504,19479,59.7,80548,350400,35.6,67.9,4.2,29.2,0.0,Low
+93280,Wasco,Kern County,San Joaquin Valley,27407,6619,7074,57.6,51388,274900,30.5,64.8,3.2,57.9,5.8,Moderate
+93283,Weldon,Kern County,San Joaquin Valley,2326,1091,1351,81.3,48053,180600,62.5,59.8,6.7,99.4,100.0,Extreme
+93285,Wofford Heights,Kern County,San Joaquin Valley,2920,1561,2225,78.0,40275,219400,58.4,54.2,5.4,99.9,100.0,Extreme
+93286,Woodlake,Tulare County,San Joaquin Valley,10548,3031,3141,57.4,47574,339700,33.7,71.8,6.1,80.8,2.1,High
+93287,Woody,Kern County,San Joaquin Valley,98,60,103,81.7,49750,261400,51.3,58.3,3.3,99.9,100.0,Extreme
+93291,Visalia,Tulare County,San Joaquin Valley,63568,19241,20172,62.1,82610,409800,33.0,67.9,3.1,41.7,0.0,Low
+93292,Visalia,Tulare County,San Joaquin Valley,45780,14612,15366,62.0,82872,365700,33.3,71.5,2.5,69.4,0.0,Moderate
+93301,Bakersfield,Kern County,San Joaquin Valley,13620,5690,6174,36.5,43561,295700,34.6,38.0,12.4,8.4,0.0,Low
+93304,Bakersfield,Kern County,San Joaquin Valley,51037,15503,16234,46.1,50790,240900,29.9,54.0,13.4,0.0,0.0,Low
+93305,Bakersfield,Kern County,San Joaquin Valley,37714,11227,11750,34.2,43244,251200,29.5,46.6,12.5,0.1,0.0,Low
+93306,Bakersfield,Kern County,San Joaquin Valley,74116,22736,24143,63.8,69805,320600,33.1,63.9,7.6,45.8,4.6,Moderate
+93307,Bakersfield,Kern County,San Joaquin Valley,85945,23173,24398,47.0,56446,272100,28.4,64.7,7.7,41.6,0.1,Low
+93308,Bakersfield,Kern County,San Joaquin Valley,55078,20027,21354,48.7,62445,323000,37.6,56.3,9.0,30.9,9.3,Moderate
+93309,Bakersfield,Kern County,San Joaquin Valley,63217,22453,23656,47.1,63544,320400,32.0,57.2,8.6,1.3,0.0,Low
+93311,Bakersfield,Kern County,San Joaquin Valley,55555,17589,18357,70.9,116263,459500,32.4,72.6,3.9,34.3,2.8,Moderate
+93312,Bakersfield,Kern County,San Joaquin Valley,58384,18330,19166,79.5,114195,440400,34.9,75.8,3.5,37.6,0.0,Low
+93313,Bakersfield,Kern County,San Joaquin Valley,61843,16917,17673,78.6,91943,371900,31.7,78.1,3.6,38.1,0.5,Moderate
+93314,Bakersfield,Kern County,San Joaquin Valley,35407,10979,11508,84.3,126250,543900,34.9,82.5,2.0,59.8,0.0,Moderate
+93401,San Luis Obispo,San Luis Obispo County,Central Coast,29202,13522,14459,47.9,96824,973000,37.1,59.4,6.3,76.8,10.6,Moderate
+93402,Los Osos,San Luis Obispo County,Central Coast,14197,6007,6380,73.0,109090,806800,48.7,64.3,2.7,85.8,1.1,High
+93405,San Luis Obispo,San Luis Obispo County,Central Coast,25002,8883,9858,34.7,60399,949700,22.6,65.1,6.8,92.3,9.9,High
+93407,San Luis Obispo,San Luis Obispo County,Central Coast,347,0,0,,,,19.1,,,89.3,0.0,High
+93408,San Luis Obispo,San Luis Obispo County,Central Coast,6,0,0,,,,,,,98.9,100.0,Extreme
+93409,San Luis Obispo,San Luis Obispo County,Central Coast,2952,0,0,,,,41.9,,,94.7,0.0,High
+93410,San Luis Obispo,San Luis Obispo County,Central Coast,7396,14,14,0.0,,,19.2,0.0,100.0,88.9,0.0,High
+93420,Arroyo Grande,San Luis Obispo County,Central Coast,31345,12672,13618,66.4,110553,917900,48.2,71.0,3.0,77.7,33.8,High
+93422,Atascadero,San Luis Obispo County,Central Coast,33002,12895,13512,65.6,91780,737600,40.7,70.6,3.0,90.4,12.5,High
+93424,Avila Beach,San Luis Obispo County,Central Coast,962,456,951,86.8,,1186700,59.0,80.3,0.0,98.6,100.0,Extreme
+93426,Bradley,Monterey County,Central Coast,1564,598,1471,68.6,102500,458400,44.3,83.9,1.7,99.7,100.0,Extreme
+93427,Buellton,Santa Barbara County,Central Coast,5737,2178,2626,59.2,102857,867500,40.4,73.4,1.7,96.5,20.9,Extreme
+93428,Cambria,San Luis Obispo County,Central Coast,6399,2974,4185,78.1,99762,932500,61.2,58.9,1.9,95.5,8.2,Extreme
+93429,Casmalia,Santa Barbara County,Central Coast,99,58,58,27.6,169063,,43.3,53.4,19.0,94.6,2.7,High
+93430,Cayucos,San Luis Obispo County,Central Coast,3125,1571,2719,63.1,89519,1018200,60.1,68.3,0.7,96.0,24.9,Extreme
+93432,Creston,San Luis Obispo County,Central Coast,1142,377,424,73.5,146938,885700,44.1,81.2,2.9,98.7,100.0,Extreme
+93433,Grover Beach,San Luis Obispo County,Central Coast,12600,4945,5872,50.5,86458,727500,40.5,64.0,2.6,35.2,0.0,Low
+93434,Guadalupe,Santa Barbara County,Central Coast,8603,2111,2225,55.9,67231,498800,28.3,74.2,4.5,87.0,0.2,High
+93436,Lompoc,Santa Barbara County,Central Coast,55820,18468,19258,54.7,80097,504000,36.5,63.0,6.4,55.1,11.4,Moderate
+93437,Lompoc,Santa Barbara County,Central Coast,3477,1138,1154,0.0,84167,,25.1,65.7,0.6,95.1,0.0,Extreme
+93440,Los Alamos,Santa Barbara County,Central Coast,1185,542,697,74.5,79167,831300,58.1,63.3,0.0,98.3,100.0,Extreme
+93441,Los Olivos,Santa Barbara County,Central Coast,1134,499,531,88.4,142760,1503100,58.9,74.3,5.4,99.4,100.0,Extreme
+93442,Morro Bay,San Luis Obispo County,Central Coast,11571,5433,6924,65.9,95623,918700,54.5,59.9,2.7,91.6,2.2,High
+93444,Nipomo,San Luis Obispo County,Central Coast,21611,7776,8563,70.4,110867,816000,42.7,76.0,3.4,90.6,18.9,High
+93445,Oceano,San Luis Obispo County,Central Coast,6857,2874,3226,60.8,72261,573800,46.2,62.7,2.7,48.0,18.8,Moderate
+93446,Paso Robles,San Luis Obispo County,Central Coast,45554,17461,19843,68.2,97943,707500,41.5,69.4,3.4,85.3,38.8,High
+93449,Pismo Beach,San Luis Obispo County,Central Coast,8014,4129,6147,64.6,118072,1021300,55.1,58.0,2.5,79.1,0.1,Moderate
+93450,San Ardo,Monterey County,Central Coast,668,172,187,48.3,,461300,26.6,79.7,0.0,99.9,100.0,Extreme
+93451,San Miguel,Monterey County,Central Coast,5207,1663,1771,62.5,98188,652900,36.9,75.6,4.0,98.6,100.0,Extreme
+93452,San Simeon,San Luis Obispo County,Central Coast,217,128,241,34.4,54625,442900,60.1,46.1,0.0,98.8,100.0,Extreme
+93453,Santa Margarita,San Luis Obispo County,Central Coast,2344,1189,1309,60.8,78288,710000,54.5,71.5,17.3,99.2,100.0,Extreme
+93454,Santa Maria,Santa Barbara County,Central Coast,41896,12050,12461,52.3,81522,525000,30.9,63.5,7.1,51.9,12.4,Moderate
+93455,Santa Maria,Santa Barbara County,Central Coast,44611,15476,16071,76.3,110661,610300,38.6,71.7,3.7,78.7,2.8,Moderate
+93458,Santa Maria,Santa Barbara County,Central Coast,59148,14085,14484,42.9,75257,511800,27.2,70.8,6.3,24.5,0.0,Low
+93460,Santa Ynez,Santa Barbara County,Central Coast,6039,2208,2528,68.9,114139,1205900,42.1,79.8,3.5,99.2,100.0,Extreme
+93461,Shandon,San Luis Obispo County,Central Coast,1548,463,509,78.4,92482,467000,33.4,92.4,2.2,97.8,100.0,Extreme
+93463,Solvang,Santa Barbara County,Central Coast,8130,3535,3860,59.7,118488,1114500,53.7,60.8,6.3,97.7,64.5,Extreme
+93465,Templeton,San Luis Obispo County,Central Coast,11039,4130,4365,77.9,129259,870100,43.0,81.1,2.3,97.0,60.2,Extreme
+93501,Mojave,Kern County,San Joaquin Valley,6435,2186,2382,42.5,56737,196100,33.2,48.9,2.4,95.2,23.5,Extreme
+93505,California City,Kern County,San Joaquin Valley,14353,4579,5242,55.4,59827,278000,33.5,58.8,5.7,76.1,0.0,Moderate
+93510,Acton,Los Angeles County,Los Angeles County,7786,2580,2722,90.2,121023,739700,45.2,78.6,1.4,98.9,99.2,Extreme
+93512,Benton,Mono County,North State & Sierra,206,152,155,82.2,68283,268800,45.0,73.0,3.9,98.1,100.0,Extreme
+93513,Big Pine,Inyo County,North State & Sierra,1632,687,812,74.5,67292,330300,42.2,60.4,4.7,91.7,0.0,High
+93514,Bishop,Mono County,North State & Sierra,14853,6213,7115,71.7,81278,422600,45.0,63.0,5.5,93.4,13.7,High
+93516,Boron,Kern County,San Joaquin Valley,2889,1000,1236,52.3,61000,126600,32.6,64.4,8.3,82.4,0.0,High
+93517,Bridgeport,Mono County,North State & Sierra,459,163,486,94.5,120850,346700,40.4,68.7,2.5,99.2,100.0,Extreme
+93518,Caliente,Kern County,San Joaquin Valley,1205,496,678,93.3,62321,285500,51.2,75.8,1.8,99.7,100.0,Extreme
+93519,Cantil,Kern County,San Joaquin Valley,19,6,27,0.0,,,40.4,0.0,0.0,95.7,9.3,Extreme
+93522,Darwin,Inyo County,North State & Sierra,61,34,47,100.0,,,66.3,14.7,0.0,96.7,100.0,Extreme
+93523,Edwards,Kern County,San Joaquin Valley,3502,1238,1533,20.1,70227,198900,26.1,61.5,5.7,85.6,0.0,High
+93524,Edwards,Kern County,San Joaquin Valley,57,0,0,,,,21.6,,,81.2,0.0,High
+93526,Independence,Inyo County,North State & Sierra,825,337,459,78.9,72950,295900,55.1,53.4,0.6,91.7,0.0,High
+93527,Inyokern,Tulare County,San Joaquin Valley,1831,812,1024,82.9,62596,319000,55.5,72.9,3.7,84.0,19.9,High
+93528,Johannesburg,Kern County,San Joaquin Valley,86,33,99,100.0,,,50.2,51.5,0.0,95.3,0.0,Extreme
+93529,June Lake,Mono County,North State & Sierra,209,116,570,68.1,,,66.3,56.0,15.5,98.1,100.0,Extreme
+93530,Keeler,Inyo County,North State & Sierra,28,28,65,0.0,,,,21.4,0.0,96.7,100.0,Extreme
+93531,Keene,Kern County,San Joaquin Valley,515,196,303,100.0,164318,518500,59.4,95.9,0.0,99.1,100.0,Extreme
+93532,Lake Hughes,Los Angeles County,Los Angeles County,2930,1019,1191,82.2,113363,435300,39.0,72.6,0.8,99.2,100.0,Extreme
+93534,Lancaster,Los Angeles County,Los Angeles County,41430,14947,16338,37.3,61866,375200,35.6,46.4,10.5,47.6,0.3,Moderate
+93535,Lancaster,Los Angeles County,Los Angeles County,79409,22796,24045,66.4,70360,381100,31.9,62.7,6.6,60.3,1.8,Moderate
+93536,Lancaster,Los Angeles County,Los Angeles County,73412,23147,24473,72.1,106903,534200,36.8,72.8,4.4,68.2,8.9,Moderate
+93541,Lee Vining,Mono County,North State & Sierra,970,292,466,76.4,121330,369800,34.0,100.0,0.0,99.2,100.0,Extreme
+93543,Littlerock,Los Angeles County,Los Angeles County,12275,3572,3821,74.0,72488,388400,37.7,76.7,2.9,92.7,28.2,High
+93544,Llano,Los Angeles County,Los Angeles County,1027,436,569,80.0,89792,406500,44.9,69.7,0.0,96.1,47.6,Extreme
+93545,Lone Pine,Inyo County,North State & Sierra,1470,706,886,47.7,43529,217100,45.5,47.3,8.9,93.0,24.5,High
+93546,Mammoth Lakes,Mono County,North State & Sierra,9000,4054,10775,60.3,105577,737600,40.6,65.2,4.2,93.6,8.5,High
+93549,Olancha,Inyo County,North State & Sierra,203,113,127,61.9,73958,427100,60.8,62.8,7.1,96.7,100.0,Extreme
+93550,Palmdale,Los Angeles County,Los Angeles County,80645,22788,23993,51.2,62078,420600,30.7,65.0,6.5,60.5,3.3,Moderate
+93551,Palmdale,Los Angeles County,Los Angeles County,54360,16782,17780,78.8,119801,585100,37.3,76.1,2.7,88.4,13.4,High
+93552,Palmdale,Los Angeles County,Los Angeles County,42639,10959,11231,77.1,85954,451300,33.7,78.1,3.6,70.7,6.3,Moderate
+93553,Pearblossom,Los Angeles County,Los Angeles County,1319,554,779,86.5,74643,381300,57.3,60.5,6.3,95.0,22.7,Extreme
+93554,Randsburg,Kern County,San Joaquin Valley,19,10,18,100.0,,,,0.0,0.0,95.3,0.0,Extreme
+93555,Ridgecrest,Kern County,San Joaquin Valley,33845,13537,14611,62.5,86700,252900,34.9,59.7,6.4,71.8,0.0,Moderate
+93560,Rosamond,Kern County,San Joaquin Valley,22119,7013,7564,77.4,77431,347600,31.3,69.9,4.9,51.0,14.1,Moderate
+93561,Tehachapi,Kern County,San Joaquin Valley,31175,12394,14063,79.8,87357,408800,41.8,73.6,2.3,99.3,100.0,Extreme
+93562,Trona,San Bernardino County,Inland Empire,1849,671,950,68.0,65650,66100,34.8,58.6,9.2,80.4,0.0,High
+93563,Valyermo,Los Angeles County,Los Angeles County,195,31,68,100.0,,,31.1,100.0,0.0,99.3,100.0,Extreme
+93581,Tehachapi,Kern County,San Joaquin Valley,3188,0,0,,,,41.4,,,98.5,100.0,Extreme
+93591,Palmdale,Los Angeles County,Los Angeles County,7051,1878,2107,75.8,63389,347500,32.3,74.8,1.7,94.2,30.1,High
+93601,Ahwahnee,Madera County,San Joaquin Valley,1360,702,819,90.5,76555,434900,61.6,70.9,10.7,99.8,100.0,Extreme
+93602,Auberry,Fresno County,San Joaquin Valley,3330,1190,1595,82.8,78016,370700,48.4,77.9,0.9,99.7,100.0,Extreme
+93603,Badger,Tulare County,San Joaquin Valley,146,88,162,37.5,,,65.7,60.2,0.0,99.7,100.0,Extreme
+93604,Bass Lake,Madera County,San Joaquin Valley,710,264,1302,100.0,134357,935500,51.0,70.5,0.0,99.9,100.0,Extreme
+93605,Big Creek,Fresno County,San Joaquin Valley,69,30,169,70.0,,361800,39.8,76.7,0.0,99.1,100.0,Extreme
+93606,Biola,Fresno County,San Joaquin Valley,988,253,272,64.8,43669,246100,26.7,62.8,4.7,70.0,0.0,Moderate
+93608,Cantua Creek,Fresno County,San Joaquin Valley,683,224,224,47.8,42609,,39.1,68.8,14.3,87.9,2.5,High
+93609,Caruthers,Fresno County,San Joaquin Valley,4740,1218,1375,47.2,78750,333200,31.6,86.7,1.7,75.9,0.0,Moderate
+93610,Chowchilla,Madera County,San Joaquin Valley,23520,5660,6024,53.7,68083,373000,35.1,64.8,7.9,81.6,0.8,High
+93611,Clovis,Fresno County,San Joaquin Valley,46624,15797,16374,72.7,110982,485900,40.3,72.6,4.8,39.3,0.0,Low
+93612,Clovis,Fresno County,San Joaquin Valley,37755,13905,14533,38.4,66683,341000,33.9,56.0,6.4,3.1,0.0,Low
+93614,Coarsegold,Madera County,San Joaquin Valley,11445,4219,4882,86.9,87869,379900,42.0,75.3,0.9,99.7,100.0,Extreme
+93615,Cutler,Tulare County,San Joaquin Valley,5764,1525,1600,39.0,59760,242100,28.2,81.0,2.5,90.4,0.0,High
+93616,Del Rey,Fresno County,San Joaquin Valley,2402,687,692,49.2,55221,241700,26.6,71.2,2.8,72.3,0.0,Moderate
+93618,Dinuba,Tulare County,San Joaquin Valley,32267,8476,8994,56.2,61977,278000,30.1,69.5,4.2,42.2,0.0,Low
+93619,Clovis,Fresno County,San Joaquin Valley,55610,17327,18196,86.4,136966,601100,35.2,78.0,1.6,89.0,50.3,Extreme
+93620,Dos Palos,Merced County,San Joaquin Valley,9927,3532,3617,51.8,45456,323400,37.0,53.4,14.0,76.8,1.4,Moderate
+93621,Dunlap,Fresno County,San Joaquin Valley,441,152,197,100.0,137321,,36.6,93.4,0.0,99.3,100.0,Extreme
+93622,Firebaugh,Fresno County,San Joaquin Valley,9084,2670,2821,46.4,48021,244400,31.9,57.3,8.5,72.4,2.8,Moderate
+93623,Fish Camp,Mariposa County,North State & Sierra,4,0,98,,,,,,,99.4,100.0,Extreme
+93624,Five Points,Fresno County,San Joaquin Valley,735,192,255,16.7,35417,,34.8,52.1,0.0,86.6,5.6,High
+93625,Fowler,Fresno County,San Joaquin Valley,8778,2748,2830,60.2,72500,392700,35.2,66.9,4.6,62.0,0.0,Moderate
+93626,Friant,Madera County,San Joaquin Valley,3304,1212,1285,94.5,173788,631600,38.3,76.5,7.1,99.3,98.7,Extreme
+93627,Helm,Fresno County,San Joaquin Valley,451,111,123,0.0,,,17.7,100.0,0.0,85.5,0.0,High
+93628,Hume,Fresno County,San Joaquin Valley,351,204,436,0.0,26274,,26.5,12.7,0.0,99.4,100.0,Extreme
+93630,Kerman,Fresno County,San Joaquin Valley,21284,6470,6769,52.6,58184,382700,31.5,68.5,8.5,51.9,0.0,Moderate
+93631,Kingsburg,Tulare County,San Joaquin Valley,17583,5842,6190,68.4,79228,396800,37.4,66.7,7.9,73.5,0.0,Moderate
+93633,Kings Canyon National Pk,Tulare County,San Joaquin Valley,31,31,274,100.0,,,,100.0,0.0,99.7,100.0,Extreme
+93634,Lakeshore,Fresno County,San Joaquin Valley,31,7,488,28.6,,,36.5,0.0,0.0,98.8,100.0,Extreme
+93635,Los Banos,Merced County,San Joaquin Valley,50149,14274,15003,58.7,67129,444900,30.8,71.7,7.0,42.8,8.8,Moderate
+93636,Madera,Madera County,San Joaquin Valley,15294,4794,5238,91.8,133274,542100,39.2,83.6,1.8,97.4,79.3,Extreme
+93637,Madera,Madera County,San Joaquin Valley,43785,12213,13044,59.0,71724,384200,32.3,68.0,6.6,56.5,0.0,Moderate
+93638,Madera,Madera County,San Joaquin Valley,50571,12030,12729,56.0,62374,325100,30.0,70.5,6.0,75.1,9.7,Moderate
+93640,Mendota,Fresno County,San Joaquin Valley,14657,3570,3622,42.8,49813,286200,28.7,64.6,8.7,81.8,0.0,High
+93641,Miramonte,Fresno County,San Joaquin Valley,466,228,432,49.1,,,50.0,49.6,31.1,99.2,100.0,Extreme
+93643,North Fork,Madera County,San Joaquin Valley,3041,1287,1631,88.5,71082,381700,61.2,80.7,0.9,99.7,100.0,Extreme
+93644,Oakhurst,Madera County,San Joaquin Valley,7614,2899,3870,79.8,81196,396300,46.9,75.3,0.2,99.9,100.0,Extreme
+93645,O Neals,Madera County,San Joaquin Valley,905,251,251,68.9,79792,340200,20.3,100.0,0.0,99.7,100.0,Extreme
+93646,Orange Cove,Tulare County,San Joaquin Valley,10328,2600,2688,43.8,50847,258900,26.6,53.5,12.9,80.7,0.3,High
+93647,Orosi,Tulare County,San Joaquin Valley,11741,2835,2927,54.9,58309,232800,30.6,68.2,5.4,83.9,2.4,High
+93648,Parlier,Fresno County,San Joaquin Valley,15184,3841,4115,46.2,52348,260300,27.2,62.1,7.9,78.7,0.0,Moderate
+93650,Fresno,Fresno County,San Joaquin Valley,3333,1060,1104,28.4,49031,287300,31.7,41.1,7.2,12.4,0.0,Low
+93651,Prather,Fresno County,San Joaquin Valley,1489,561,599,64.2,107587,520600,31.1,62.4,3.0,99.3,100.0,Extreme
+93652,Raisin City,Fresno County,San Joaquin Valley,216,68,68,76.5,44342,,40.1,54.4,0.0,82.1,0.0,High
+93653,Raymond,Madera County,San Joaquin Valley,1260,467,605,93.8,120568,533700,52.2,85.4,2.4,99.6,100.0,Extreme
+93654,Reedley,Fresno County,San Joaquin Valley,31876,9168,9597,55.8,65574,351200,33.2,66.9,7.6,77.4,1.2,Moderate
+93656,Riverdale,Fresno County,San Joaquin Valley,7172,1690,1879,48.2,72333,294600,30.8,88.8,1.4,83.6,0.0,High
+93657,Sanger,Fresno County,San Joaquin Valley,36205,10492,11346,68.5,78904,396200,33.9,75.5,3.7,73.0,11.0,Moderate
+93660,San Joaquin,Fresno County,San Joaquin Valley,4086,1078,1130,37.9,55063,291100,26.5,56.8,3.6,87.7,0.0,High
+93662,Selma,Fresno County,San Joaquin Valley,29419,8880,9578,58.8,61564,330500,33.2,69.4,4.4,60.3,0.0,Moderate
+93664,Shaver Lake,Fresno County,San Joaquin Valley,345,188,2065,88.8,141786,643900,68.5,71.3,0.0,99.0,100.0,Extreme
+93665,South Dos Palos,Merced County,San Joaquin Valley,114,44,44,0.0,,,,100.0,0.0,73.0,0.0,Moderate
+93666,Sultana,Tulare County,San Joaquin Valley,633,158,177,24.1,42917,336400,31.0,74.7,0.0,83.6,0.0,High
+93667,Tollhouse,Fresno County,San Joaquin Valley,2218,795,969,83.5,75272,366300,38.1,81.3,7.8,99.1,100.0,Extreme
+93668,Tranquillity,Fresno County,San Joaquin Valley,741,258,293,62.4,59861,335000,42.2,67.8,0.0,86.4,0.0,High
+93669,Wishon,Madera County,San Joaquin Valley,196,84,221,100.0,250001,2000001,56.9,45.2,0.0,99.7,100.0,Extreme
+93673,Traver,Tulare County,San Joaquin Valley,348,108,124,70.4,44167,187500,40.8,69.4,0.0,83.9,0.0,High
+93675,Yokuts,Fresno County,San Joaquin Valley,3374,1170,1449,78.9,49808,271700,51.2,85.4,0.5,99.1,100.0,Extreme
+93701,Fresno,Fresno County,San Joaquin Valley,9808,3493,3844,14.4,32768,246400,33.5,40.3,18.2,0.2,0.0,Low
+93702,Fresno,Fresno County,San Joaquin Valley,43875,12725,13373,35.6,47229,243600,30.7,54.1,12.0,2.8,0.0,Low
+93703,Fresno,Fresno County,San Joaquin Valley,33420,10398,11047,39.3,48737,276600,30.7,53.2,12.8,0.1,0.0,Low
+93704,Fresno,Fresno County,San Joaquin Valley,28932,11694,12238,56.0,73234,401600,37.5,56.3,7.0,5.1,0.0,Low
+93705,Fresno,Fresno County,San Joaquin Valley,38888,12849,13458,47.4,57003,305000,31.9,51.9,9.6,0.0,0.0,Low
+93706,Fresno,Fresno County,San Joaquin Valley,40638,11806,12335,35.4,40930,240000,30.5,52.4,12.7,37.2,0.0,Low
+93710,Fresno,Fresno County,San Joaquin Valley,31669,12046,12679,42.2,65851,372800,31.8,57.0,6.4,0.0,0.0,Low
+93711,Fresno,Fresno County,San Joaquin Valley,39245,16246,16737,64.0,104176,494200,40.9,62.2,4.0,18.0,0.0,Low
+93720,Fresno,Fresno County,San Joaquin Valley,50089,18631,19732,56.8,105050,477800,37.3,64.8,3.6,17.2,0.0,Low
+93721,Fresno,Fresno County,San Joaquin Valley,7225,2327,2557,7.6,40033,243800,38.3,16.6,43.4,0.9,0.0,Low
+93722,Fresno,Fresno County,San Joaquin Valley,86110,26888,27900,61.2,80285,378500,32.3,66.3,4.2,47.0,0.0,Moderate
+93723,Fresno,Fresno County,San Joaquin Valley,14726,3924,4089,80.4,128725,492400,31.9,83.3,3.8,83.1,0.0,High
+93725,Fresno,Fresno County,San Joaquin Valley,24575,6647,6991,65.6,72232,281800,32.2,69.6,3.8,65.8,0.0,Moderate
+93726,Fresno,Fresno County,San Joaquin Valley,44527,14858,15493,37.4,55771,294800,31.4,51.5,8.2,8.2,0.0,Low
+93727,Fresno,Fresno County,San Joaquin Valley,84107,24939,26288,63.8,87466,395800,32.0,66.2,8.0,33.9,0.0,Low
+93728,Fresno,Fresno County,San Joaquin Valley,18313,6527,6948,45.5,62986,274200,34.5,55.8,9.6,0.0,0.0,Low
+93730,Fresno,Fresno County,San Joaquin Valley,14263,5150,5394,80.1,155333,728100,40.7,75.0,6.3,70.8,0.0,Moderate
+93737,Fresno,Fresno County,San Joaquin Valley,7279,2088,2100,92.0,127279,525400,33.9,84.7,2.0,79.8,0.2,Moderate
+93740,Fresno,Fresno County,San Joaquin Valley,1179,0,5,,,,19.8,,,0.0,0.0,Low
+93741,Fresno,Fresno County,San Joaquin Valley,73,72,72,100.0,,,,100.0,0.0,0.0,0.0,Low
+93901,Salinas,Monterey County,Central Coast,29724,10654,11264,43.4,91233,788300,37.3,60.9,7.9,37.1,0.7,Low
+93905,Salinas,Monterey County,Central Coast,63898,14150,14597,42.7,80126,616100,28.8,73.7,5.1,18.5,0.4,Low
+93906,Salinas,Monterey County,Central Coast,64199,17842,18341,54.3,97555,638500,33.6,69.6,4.1,36.1,1.0,Low
+93907,Salinas,Monterey County,Central Coast,25146,7238,7576,68.2,104942,750100,37.3,82.6,1.0,78.2,22.8,High
+93908,Salinas,Monterey County,Central Coast,12450,4385,4532,81.8,156394,1091700,42.0,84.9,2.9,91.2,57.1,Extreme
+93920,Big Sur,Monterey County,Central Coast,1464,449,675,36.7,76542,1906300,37.6,70.8,0.0,98.1,100.0,Extreme
+93921,Carmel By The Sea,Monterey County,Central Coast,2322,1336,3038,53.0,96923,2000001,69.2,45.6,9.2,22.1,0.0,Low
+93923,Carmel,Monterey County,Central Coast,12565,5427,7366,76.7,142474,1767800,59.4,65.3,5.8,88.2,46.4,High
+93924,Carmel Valley,Monterey County,Central Coast,6316,2641,2978,80.2,148563,1222600,55.3,70.7,2.7,98.3,100.0,Extreme
+93925,Chualar,Monterey County,Central Coast,1241,337,396,39.5,72604,679300,35.1,80.1,3.9,96.8,84.1,Extreme
+93926,Gonzales,Monterey County,Central Coast,8724,2355,2378,54.2,77694,621900,28.8,66.3,4.5,95.0,58.7,Extreme
+93927,Greenfield,Monterey County,Central Coast,21574,4856,5098,52.0,82500,532000,29.2,76.7,3.8,62.9,10.1,Moderate
+93928,Jolon,Monterey County,Central Coast,1175,0,0,,,,23.3,,,99.7,100.0,Extreme
+93930,King City,Monterey County,Central Coast,17243,4364,4669,51.7,75577,444700,31.4,68.8,3.4,61.3,17.5,Moderate
+93932,Lockwood,Monterey County,Central Coast,482,158,166,85.4,134342,793300,51.4,84.2,0.0,99.9,100.0,Extreme
+93933,Marina,Monterey County,Central Coast,28122,9707,10202,43.0,99826,833800,35.8,67.2,4.8,64.8,0.0,Moderate
+93940,Monterey,Monterey County,Central Coast,30605,14028,15764,41.3,106044,1099300,43.0,54.2,6.5,61.2,8.5,Moderate
+93943,Monterey,Monterey County,Central Coast,10,5,5,0.0,,,,0.0,0.0,33.5,0.0,Low
+93944,Monterey,Monterey County,Central Coast,2665,5,5,0.0,,,22.3,0.0,0.0,56.6,0.0,Moderate
+93950,Pacific Grove,Monterey County,Central Coast,14951,6992,8286,50.4,106065,1190400,51.2,52.4,4.9,19.8,0.0,Low
+93953,Pebble Beach,Monterey County,Central Coast,3613,1672,2988,87.2,142763,2000001,63.4,70.4,8.0,78.7,0.0,Moderate
+93954,San Lucas,Monterey County,Central Coast,191,48,71,45.8,60417,340000,25.2,81.2,0.0,96.5,9.9,Extreme
+93955,Seaside,Monterey County,Central Coast,32266,10579,11106,35.1,85282,788300,33.9,66.5,6.1,46.7,0.0,Moderate
+93960,Soledad,Monterey County,Central Coast,27471,5161,5305,56.3,96049,595000,35.4,81.0,1.2,57.3,1.5,Moderate
+93962,Spreckels,Monterey County,Central Coast,174,99,99,75.8,,843800,68.8,64.6,0.0,77.8,9.0,Moderate
+94002,Belmont,San Mateo County,Bay Area,27534,10567,11437,55.0,203965,2000001,39.8,65.9,5.1,55.8,0.0,Moderate
+94005,Brisbane,San Mateo County,Bay Area,4692,1912,2104,54.7,156169,1232200,43.6,62.5,3.3,87.7,0.0,High
+94010,Burlingame,San Mateo County,Bay Area,43025,16317,18060,59.6,196882,2000001,42.5,62.4,3.0,49.7,0.0,Moderate
+94014,Daly City,San Mateo County,Bay Area,45315,14101,15941,59.7,122966,1036900,42.9,61.8,8.7,33.6,0.0,Low
+94015,Daly City,San Mateo County,Bay Area,64091,20350,22409,60.4,127056,1165500,41.6,63.8,7.6,39.3,0.0,Low
+94018,El Granada,San Mateo County,Bay Area,3834,1563,1576,83.7,230053,1430200,51.4,72.2,0.0,93.0,0.0,High
+94019,Half Moon Bay,San Mateo County,Bay Area,14419,5221,5745,73.8,153781,1556800,46.9,66.8,3.6,89.9,24.7,High
+94020,La Honda,San Mateo County,Bay Area,1694,829,1008,70.1,250001,995900,46.8,55.2,3.0,98.4,100.0,Extreme
+94021,Loma Mar,San Mateo County,Bay Area,321,128,140,71.9,250001,1073100,46.8,77.3,0.0,98.4,100.0,Extreme
+94022,Los Altos,Santa Clara County,Bay Area,20027,7275,8144,81.7,250001,2000001,48.5,76.9,3.0,57.7,2.5,Moderate
+94024,Los Altos,Santa Clara County,Bay Area,23051,7938,8447,87.4,250001,2000001,47.6,80.8,2.6,44.7,0.5,Low
+94025,Menlo Park,San Mateo County,Bay Area,40721,14619,16617,58.5,216601,2000001,39.6,60.9,6.8,37.4,0.0,Low
+94027,Atherton,San Mateo County,Bay Area,7002,2236,2676,87.6,250001,2000001,49.1,86.0,1.7,62.4,0.0,Moderate
+94028,Portola Valley,San Mateo County,Bay Area,6531,2637,2808,81.9,250001,2000001,57.2,71.7,2.7,97.3,100.0,Extreme
+94030,Millbrae,San Mateo County,Bay Area,22689,8121,8705,60.8,163476,1934900,43.7,62.9,7.8,41.7,0.0,Low
+94037,Montara,San Mateo County,Bay Area,2917,1003,1211,78.2,233826,1580700,50.5,81.5,0.0,87.2,0.0,High
+94038,Moss Beach,San Mateo County,Bay Area,2683,915,1039,99.0,99680,1123100,47.1,65.0,9.7,90.5,0.0,High
+94040,Mountain View,Santa Clara County,Bay Area,35632,15754,17302,36.8,187781,2000001,35.6,48.2,7.9,23.5,0.0,Low
+94041,Mountain View,Santa Clara County,Bay Area,16050,6960,7686,28.1,178558,2000001,34.1,36.9,9.2,21.2,0.0,Low
+94043,Mountain View,Santa Clara County,Bay Area,33176,13369,14794,45.3,203298,1641100,36.1,52.3,7.5,7.1,0.0,Low
+94044,Pacifica,San Mateo County,Bay Area,37274,13928,14678,67.6,160408,1249800,44.6,68.4,2.6,65.2,0.0,Moderate
+94060,Pescadero,San Mateo County,Bay Area,1465,362,634,69.6,127973,1401500,41.3,87.0,3.6,98.4,100.0,Extreme
+94061,Redwood City,San Mateo County,Bay Area,37048,12805,13838,54.0,146265,1900500,38.0,66.1,5.0,15.0,0.0,Low
+94062,Redwood City,San Mateo County,Bay Area,25759,9729,10502,72.7,233262,2000001,44.0,75.6,2.2,55.7,18.8,Moderate
+94063,Redwood City,San Mateo County,Bay Area,34433,11427,12259,31.3,116760,1042500,33.4,54.2,9.2,7.5,0.0,Low
+94065,Redwood City,San Mateo County,Bay Area,11673,4569,4852,65.9,215955,1811800,43.0,64.4,4.8,42.0,0.0,Low
+94066,San Bruno,San Mateo County,Bay Area,42728,15224,16433,62.1,141272,1207500,39.7,62.7,4.9,39.3,0.0,Low
+94070,San Carlos,San Mateo County,Bay Area,30447,11279,11905,68.6,240074,2000001,41.6,69.4,4.0,48.6,0.0,Moderate
+94074,San Gregorio,San Mateo County,Bay Area,126,35,35,65.7,250001,,48.2,65.7,0.0,98.4,100.0,Extreme
+94080,South San Francisco,San Mateo County,Bay Area,64761,21966,23654,58.9,136733,1188700,43.1,63.4,7.5,37.6,0.0,Low
+94085,Sunnyvale,Santa Clara County,Bay Area,24024,9631,10146,38.1,192417,1534400,33.0,54.0,7.0,8.6,0.0,Low
+94086,Sunnyvale,Santa Clara County,Bay Area,49746,20832,21955,30.5,177054,1810200,33.5,46.2,10.0,7.7,0.0,Low
+94087,Sunnyvale,Santa Clara County,Bay Area,57767,20612,21617,55.8,207742,2000001,37.9,62.0,4.1,25.3,0.0,Low
+94089,Sunnyvale,Santa Clara County,Bay Area,22699,9218,9521,52.9,158304,387800,37.0,52.4,6.7,0.7,0.0,Low
+94102,San Francisco,San Francisco County,Bay Area,35976,19935,23629,8.0,60431,935900,42.2,6.4,68.8,1.7,0.0,Low
+94103,San Francisco,San Francisco County,Bay Area,34964,17952,21609,19.7,116438,1022800,37.6,7.1,53.4,0.0,0.0,Low
+94104,San Francisco,San Francisco County,Bay Area,498,260,301,31.9,,,58.1,0.0,74.2,0.0,0.0,Low
+94105,San Francisco,San Francisco County,Bay Area,13861,8300,10003,34.8,225000,1398000,35.1,9.6,35.7,1.1,0.0,Low
+94107,San Francisco,San Francisco County,Bay Area,31823,16451,19605,35.7,182897,1222500,35.2,14.8,29.3,0.0,0.0,Low
+94108,San Francisco,San Francisco County,Bay Area,11305,6471,7950,10.9,65388,1134100,45.3,6.7,70.2,0.0,0.0,Low
+94109,San Francisco,San Francisco County,Bay Area,54553,31491,39490,16.8,106018,1300300,39.4,7.4,51.8,0.0,0.0,Low
+94110,San Francisco,San Francisco County,Bay Area,66865,27208,30758,41.8,158351,1450400,39.3,23.8,25.8,4.1,0.0,Low
+94111,San Francisco,San Francisco County,Bay Area,4579,2432,2968,21.2,152697,1248900,45.6,3.9,39.3,0.3,0.0,Low
+94112,San Francisco,San Francisco County,Bay Area,79277,23225,24559,65.6,135119,1174100,42.8,51.9,13.9,11.7,0.0,Low
+94114,San Francisco,San Francisco County,Bay Area,33020,16856,18771,45.2,204134,1737300,41.9,22.1,25.4,15.4,0.0,Low
+94115,San Francisco,San Francisco County,Bay Area,32629,16956,19239,25.6,151524,1679000,37.1,15.1,34.7,2.4,0.0,Low
+94116,San Francisco,San Francisco County,Bay Area,43791,15476,16546,73.1,158921,1502700,45.6,51.6,11.0,19.5,0.0,Low
+94117,San Francisco,San Francisco County,Bay Area,36198,17567,19801,28.8,167066,1601100,35.2,17.2,33.3,18.8,0.0,Low
+94118,San Francisco,San Francisco County,Bay Area,39130,17130,19266,35.1,163995,1784700,38.8,26.7,22.7,18.2,0.0,Low
+94121,San Francisco,San Francisco County,Bay Area,41995,18206,19777,43.9,133358,1611400,44.5,33.6,19.8,21.2,0.0,Low
+94122,San Francisco,San Francisco County,Bay Area,55819,22354,24208,48.2,146250,1517700,43.1,38.9,16.1,18.4,0.0,Low
+94123,San Francisco,San Francisco County,Bay Area,24054,12605,15129,30.4,218603,2000001,32.9,20.7,26.1,0.0,0.0,Low
+94124,San Francisco,San Francisco County,Bay Area,34475,10995,11700,50.3,80509,1035000,39.7,38.6,16.8,10.5,0.0,Low
+94127,San Francisco,San Francisco County,Bay Area,20288,7390,7673,82.9,214167,1847400,46.7,64.0,6.8,25.5,0.0,Low
+94129,San Francisco,San Francisco County,Bay Area,3836,1337,1428,0.0,220972,,31.7,46.6,1.6,47.9,0.0,Moderate
+94130,San Francisco,San Francisco County,Bay Area,2429,616,740,0.0,93269,,33.9,45.5,23.2,27.1,0.0,Low
+94131,San Francisco,San Francisco County,Bay Area,28504,12522,13920,54.0,199211,1713300,39.9,37.6,10.5,34.0,0.0,Low
+94132,San Francisco,San Francisco County,Bay Area,26859,10533,12039,47.9,112292,1470700,40.6,38.7,14.2,13.8,0.0,Low
+94133,San Francisco,San Francisco County,Bay Area,23804,12653,15594,16.5,87191,1558000,45.5,14.3,48.8,0.9,0.0,Low
+94134,San Francisco,San Francisco County,Bay Area,38633,12262,12850,63.8,119567,1068400,42.8,51.6,14.1,16.7,0.0,Low
+94158,San Francisco,San Francisco County,Bay Area,11314,4861,5123,34.5,196506,1429600,32.7,6.9,23.3,0.0,0.0,Low
+94301,Palo Alto,Santa Clara County,Bay Area,17508,7167,8429,53.0,242006,2000001,46.7,52.0,13.0,36.9,0.0,Low
+94303,Palo Alto,Santa Clara County,Bay Area,46879,14466,15891,57.8,151609,1826200,39.5,68.3,4.8,18.3,0.0,Low
+94304,Palo Alto,Santa Clara County,Bay Area,5000,2218,2560,23.2,154141,2000001,38.6,22.2,12.4,54.7,2.5,Moderate
+94305,Stanford,Santa Clara County,Bay Area,18509,3264,4002,28.4,83088,2000001,21.9,29.8,32.0,62.0,0.0,Moderate
+94306,Palo Alto,Santa Clara County,Bay Area,27183,10640,11744,52.6,210000,2000001,42.3,56.0,8.5,25.4,0.0,Low
+94401,San Mateo,San Mateo County,Bay Area,35295,13026,13818,43.4,122227,1184500,35.9,54.2,8.7,9.0,0.0,Low
+94402,San Mateo,San Mateo County,Bay Area,25475,10125,10764,58.4,172522,2000001,40.8,57.5,3.9,26.2,0.0,Low
+94403,San Mateo,San Mateo County,Bay Area,43276,16414,17799,52.5,174917,1746300,38.9,59.3,6.5,23.1,0.0,Low
+94404,San Mateo,San Mateo County,Bay Area,35881,14717,15350,51.2,192332,1714400,39.8,53.7,5.9,19.0,0.0,Low
+94501,Alameda,Alameda County,Bay Area,63808,25208,27300,44.0,127906,1250300,40.4,48.1,9.3,13.8,0.0,Low
+94502,Alameda,Alameda County,Bay Area,13430,4780,4991,86.0,180938,1204200,44.8,66.6,1.7,28.1,0.0,Low
+94503,American Canyon,Napa County,Bay Area,21841,6063,6206,74.3,121088,697400,37.0,77.3,2.9,57.0,9.7,Moderate
+94505,Discovery Bay,Contra Costa County,Bay Area,14970,5446,6092,90.2,146480,830500,45.8,73.7,2.3,37.8,0.3,Moderate
+94506,Danville,Contra Costa County,Bay Area,27055,9185,9444,88.1,250001,1956800,45.3,84.1,1.1,92.0,2.3,High
+94507,Alamo,Contra Costa County,Bay Area,14586,5098,5343,91.9,250001,2000001,49.5,85.7,2.6,88.3,43.0,High
+94508,Angwin,Napa County,Bay Area,3495,1034,1186,61.9,116667,775600,32.5,72.6,0.0,99.3,100.0,Extreme
+94509,Antioch,Contra Costa County,Bay Area,70090,23476,24390,58.0,86196,584100,38.1,65.8,6.6,26.1,1.5,Low
+94510,Benicia,Solano County,Bay Area,26749,11051,11571,69.5,121204,810000,44.9,59.9,3.0,70.5,4.5,Moderate
+94511,Bethel Island,Contra Costa County,Bay Area,1864,863,1038,64.2,74972,682700,56.6,66.0,15.6,96.7,100.0,Extreme
+94512,Birds Landing,Solano County,Bay Area,130,88,88,0.0,,,46.8,75.0,0.0,94.1,0.0,High
+94513,Brentwood,Contra Costa County,Bay Area,69755,22390,22931,81.9,142223,837800,40.0,73.0,3.6,68.2,12.2,Moderate
+94514,Byron,Contra Costa County,Bay Area,1953,576,583,60.4,76511,735600,45.7,86.3,0.0,96.6,36.5,Extreme
+94515,Calistoga,Sonoma County,Bay Area,6946,2615,3124,54.4,94464,824900,48.6,67.2,4.6,97.2,95.1,Extreme
+94516,Canyon,Contra Costa County,Bay Area,214,76,77,72.4,113333,784700,56.0,90.8,0.0,91.9,0.0,High
+94517,Clayton,Contra Costa County,Bay Area,12316,4511,4519,89.2,168921,1032100,43.0,76.2,3.4,95.7,70.8,Extreme
+94518,Concord,Contra Costa County,Bay Area,27345,10124,10317,69.3,112094,859000,41.2,63.5,4.4,41.4,0.0,Low
+94519,Concord,Contra Costa County,Bay Area,19058,7043,7484,70.9,122418,783700,40.1,68.4,5.1,75.1,0.0,Moderate
+94520,Concord,Contra Costa County,Bay Area,37381,13721,14085,37.5,82479,601000,35.0,48.6,10.3,14.4,0.0,Low
+94521,Concord,Contra Costa County,Bay Area,41909,15938,16451,74.3,125899,853200,42.9,66.8,4.0,65.3,4.3,Moderate
+94523,Pleasant Hill,Contra Costa County,Bay Area,34592,13452,14133,62.3,142586,1076600,42.0,63.1,4.9,32.2,0.9,Low
+94525,Crockett,Contra Costa County,Bay Area,3372,1539,1713,56.5,110899,776100,47.5,64.7,4.0,81.1,0.0,High
+94526,Danville,Contra Costa County,Bay Area,32584,11843,12185,84.1,225097,1677700,46.0,78.3,0.6,75.3,1.3,Moderate
+94528,Diablo,Contra Costa County,Bay Area,1049,424,463,100.0,207500,2000001,43.0,82.5,17.5,96.8,100.0,Extreme
+94530,El Cerrito,Contra Costa County,Bay Area,26401,11021,11437,59.2,128529,1114100,41.8,51.1,7.4,39.3,0.0,Low
+94531,Antioch,Contra Costa County,Bay Area,46387,13905,14239,73.2,120927,701600,38.8,79.1,2.8,49.0,0.0,Moderate
+94533,Fairfield,Solano County,Bay Area,78805,25174,26060,55.9,87384,542200,36.2,67.5,6.3,44.6,12.9,Moderate
+94534,Fairfield,Solano County,Bay Area,41203,14036,14481,77.7,140198,744500,41.5,78.3,2.7,85.4,29.3,High
+94535,Travis Afb,Solano County,Bay Area,3952,1054,1412,1.1,83879,,22.8,80.0,2.8,90.2,35.6,High
+94536,Fremont,Alameda County,Bay Area,70619,25205,26533,58.6,167662,1287800,38.9,64.7,5.8,29.3,0.0,Moderate
+94538,Fremont,Alameda County,Bay Area,67781,23628,24854,44.7,147301,1136600,36.7,56.4,6.2,8.6,0.0,Low
+94539,Fremont,Alameda County,Bay Area,52396,17375,18127,79.0,243552,1950900,43.7,80.1,2.6,49.7,0.5,Moderate
+94541,Hayward,Alameda County,Bay Area,67139,21584,22934,46.7,105729,812000,38.2,66.1,7.1,18.5,0.0,Low
+94542,Hayward,Alameda County,Bay Area,14871,4936,5201,72.6,133734,1148000,43.1,69.7,2.5,82.2,12.9,High
+94544,Hayward,Alameda County,Bay Area,76947,22991,24194,56.2,107785,827200,38.0,69.1,4.7,36.5,0.1,Low
+94545,Hayward,Alameda County,Bay Area,32843,10085,10373,71.1,114356,879400,40.7,67.0,8.4,28.2,0.0,Low
+94546,Castro Valley,Alameda County,Bay Area,44855,15565,16233,66.3,128385,1043500,41.7,68.6,6.7,38.5,1.7,Low
+94547,Hercules,Contra Costa County,Bay Area,26302,9355,9581,79.2,129397,769400,43.9,66.0,4.1,56.5,0.7,Moderate
+94548,Knightsen,Contra Costa County,Bay Area,832,259,259,100.0,189653,959900,44.2,67.6,14.7,89.9,0.0,High
+94549,Lafayette,Contra Costa County,Bay Area,28420,10682,11057,78.9,234516,2000001,46.3,75.0,2.8,78.2,13.6,Moderate
+94550,Livermore,Alameda County,Bay Area,49873,17564,18443,73.5,180295,1202500,42.3,73.6,5.7,50.7,12.9,Moderate
+94551,Livermore,Alameda County,Bay Area,37885,14052,14290,70.6,145392,978500,39.7,74.0,4.2,74.8,25.7,High
+94552,Castro Valley,Alameda County,Bay Area,14506,5021,5088,93.2,212605,1394300,48.9,84.0,2.4,96.2,78.7,Extreme
+94553,Martinez,Contra Costa County,Bay Area,48643,19141,19677,72.3,124130,825900,42.6,68.6,3.5,65.2,11.7,Moderate
+94555,Fremont,Alameda County,Bay Area,37501,11847,12066,71.0,219938,1376600,38.9,74.4,2.3,7.5,0.0,Low
+94556,Moraga,Contra Costa County,Bay Area,15998,5614,5801,82.9,215720,1659600,42.4,74.1,0.8,95.9,49.4,Extreme
+94558,Napa,Napa County,Bay Area,63657,24521,27493,67.5,113269,890500,44.5,68.5,5.0,53.3,13.3,Moderate
+94559,Napa,Napa County,Bay Area,27714,10651,11661,49.0,105188,898600,39.6,61.6,5.3,48.2,13.2,Moderate
+94560,Newark,Alameda County,Bay Area,46903,15252,16015,69.4,169064,1142800,37.9,73.5,3.9,15.2,0.0,Low
+94561,Oakley,Contra Costa County,Bay Area,46368,14105,14603,77.9,134678,659800,36.4,81.4,3.9,54.5,1.5,Moderate
+94563,Orinda,Contra Costa County,Bay Area,19378,7218,7416,91.2,250001,1866500,47.4,75.8,4.2,95.2,22.6,Extreme
+94564,Pinole,Contra Costa County,Bay Area,18761,6588,7056,79.4,127717,718600,44.7,71.1,7.7,64.5,0.0,Moderate
+94565,Pittsburg,Contra Costa County,Bay Area,100488,30537,31396,60.9,95556,583800,35.4,71.0,6.8,42.9,1.3,Low
+94566,Pleasanton,Alameda County,Bay Area,44222,15921,16724,70.6,191155,1656900,45.1,71.0,4.6,57.6,4.5,Moderate
+94567,Pope Valley,Napa County,Bay Area,668,228,272,62.3,80833,471400,42.2,81.1,2.2,98.8,100.0,Extreme
+94568,Dublin,Alameda County,Bay Area,70803,24165,25157,65.7,214385,1317100,37.4,69.3,2.4,60.4,25.9,High
+94569,Port Costa,Contra Costa County,Bay Area,296,210,210,56.2,38929,600000,67.3,91.4,8.6,90.5,0.0,High
+94571,Rio Vista,Solano County,Bay Area,10974,5219,5361,81.9,87740,490200,61.2,60.9,0.7,94.4,39.0,High
+94572,Rodeo,Contra Costa County,Bay Area,8976,3015,3190,59.0,91484,663200,41.8,61.3,6.0,82.8,2.6,High
+94573,Rutherford,Napa County,Bay Area,84,72,108,59.7,250001,,75.2,33.3,0.0,98.1,100.0,Extreme
+94574,Saint Helena,Napa County,Bay Area,7457,3220,4135,66.0,139474,1637800,50.0,70.4,5.0,93.6,44.2,High
+94575,Moraga,Contra Costa County,Bay Area,975,0,0,,,,20.1,,,96.8,100.0,Extreme
+94576,Deer Park,Napa County,Bay Area,103,51,51,100.0,170677,986100,49.4,84.3,0.0,99.3,100.0,Extreme
+94577,San Leandro,Alameda County,Bay Area,46317,16555,17494,55.5,108772,856100,41.3,58.5,9.3,12.2,0.0,Low
+94578,San Leandro,Alameda County,Bay Area,41769,13904,14672,44.1,94084,823000,37.9,57.4,8.3,16.2,0.0,Low
+94579,San Leandro,Alameda County,Bay Area,20017,6628,6850,73.7,99040,850300,45.9,66.4,8.0,5.0,0.0,Low
+94580,San Lorenzo,Alameda County,Bay Area,29420,8992,9207,71.9,110729,846700,41.9,71.7,6.3,10.4,0.0,Low
+94582,San Ramon,Contra Costa County,Bay Area,47424,16466,16781,70.3,214677,1635700,42.3,66.1,3.4,86.5,0.0,High
+94583,San Ramon,Contra Costa County,Bay Area,39583,13890,14345,72.1,184898,1383600,40.8,73.1,4.0,64.7,0.0,Moderate
+94585,Suisun City,Solano County,Bay Area,29357,9643,9822,60.4,94740,580800,35.7,70.2,5.0,43.8,4.6,Low
+94586,Sunol,Alameda County,Bay Area,971,319,359,83.1,204931,1511000,42.4,86.8,2.5,99.0,100.0,Extreme
+94587,Union City,Alameda County,Bay Area,67464,21240,21901,64.7,133715,1104900,43.0,70.7,5.9,32.0,0.9,Low
+94588,Pleasanton,Alameda County,Bay Area,34328,12465,12797,63.1,191073,1384300,41.3,65.1,3.0,50.4,10.0,Moderate
+94589,Vallejo,Solano County,Bay Area,29990,9531,9996,59.6,92735,540400,40.6,68.8,5.8,53.1,0.0,Moderate
+94590,Vallejo,Solano County,Bay Area,37128,15762,16827,42.4,65290,530500,39.3,48.0,10.2,18.0,0.0,Low
+94591,Vallejo,Solano County,Bay Area,58193,20040,20838,66.8,104550,630500,42.0,74.6,4.7,35.8,5.9,Moderate
+94592,Vallejo,Solano County,Bay Area,1049,479,505,80.8,115536,772000,40.6,78.1,9.6,84.3,0.0,High
+94595,Walnut Creek,Contra Costa County,Bay Area,16988,9368,9828,81.9,100552,860600,69.2,38.0,9.2,82.1,0.0,High
+94596,Walnut Creek,Contra Costa County,Bay Area,23417,11009,11461,43.6,135635,1277800,37.1,48.9,5.6,44.8,0.0,Low
+94597,Walnut Creek,Contra Costa County,Bay Area,23129,10782,11249,46.4,132063,1026800,39.1,48.2,6.5,29.0,0.0,Low
+94598,Walnut Creek,Contra Costa County,Bay Area,27206,10828,10928,76.3,186225,1339900,45.9,68.0,4.0,73.7,12.6,Moderate
+94599,Yountville,Napa County,Bay Area,3348,1491,1850,67.5,80372,808900,65.6,38.3,10.4,83.1,1.9,High
+94601,Oakland,Alameda County,Bay Area,53259,16734,17631,36.4,72359,710000,36.1,48.1,14.3,4.8,0.0,Low
+94602,Oakland,Alameda County,Bay Area,31759,12496,13192,60.2,122263,1129500,41.9,54.1,9.7,20.2,0.0,Low
+94603,Oakland,Alameda County,Bay Area,35742,10527,11133,47.9,76723,614700,34.8,60.8,13.2,0.6,0.0,Low
+94605,Oakland,Alameda County,Bay Area,44103,16594,17618,62.9,106068,849300,38.6,54.5,9.3,34.5,0.0,Low
+94606,Oakland,Alameda County,Bay Area,39966,16337,17905,20.2,72470,802700,37.9,32.4,20.2,1.0,0.0,Low
+94607,Oakland,Alameda County,Bay Area,28804,13453,15116,30.1,94863,720600,35.6,25.4,27.3,10.2,0.0,Low
+94608,Emeryville,Alameda County,Bay Area,34395,16568,18319,31.1,120239,849600,35.2,32.9,15.7,0.4,0.0,Low
+94609,Oakland,Alameda County,Bay Area,23928,11049,12042,32.9,107834,1207700,35.6,35.7,14.1,0.0,0.0,Low
+94610,Oakland,Alameda County,Bay Area,32628,16372,18221,38.0,134507,1379700,40.6,33.8,13.4,28.5,0.0,Low
+94611,Oakland,Alameda County,Bay Area,40116,18387,19726,60.6,180549,1537700,43.5,51.0,10.3,49.4,12.8,Moderate
+94612,Oakland,Alameda County,Bay Area,18175,11097,12949,8.6,74037,827800,38.0,12.9,46.5,9.8,0.0,Low
+94613,Oakland,Alameda County,Bay Area,472,0,0,,,,20.0,,,32.4,0.0,Low
+94618,Oakland,Alameda County,Bay Area,16958,7553,8052,67.4,201780,1753100,44.4,47.6,9.7,27.4,4.3,Low
+94619,Oakland,Alameda County,Bay Area,26831,9809,10286,69.7,129867,1025300,39.0,58.8,6.3,26.5,1.4,Low
+94621,Oakland,Alameda County,Bay Area,33840,10359,11063,36.4,52049,543700,33.3,46.2,14.2,6.8,0.0,Low
+94702,Berkeley,Alameda County,Bay Area,17635,7662,8388,51.3,99775,1202100,41.5,29.2,17.7,0.0,0.0,Low
+94703,Berkeley,Alameda County,Bay Area,20934,8662,9750,40.8,109881,1359000,37.0,37.8,15.9,0.0,0.0,Low
+94704,Berkeley,Alameda County,Bay Area,23788,8227,9971,12.4,50129,906100,21.9,15.6,51.8,23.7,0.0,Low
+94705,Berkeley,Alameda County,Bay Area,13991,5886,6474,59.4,167970,1992800,44.1,42.3,9.1,41.8,0.0,Low
+94706,Albany,Alameda County,Bay Area,19969,7945,8447,53.3,143398,1203500,39.1,45.5,8.9,19.5,0.0,Low
+94707,Berkeley,Alameda County,Bay Area,12811,5267,5410,87.5,212776,1649300,52.9,58.9,3.8,46.7,0.0,Moderate
+94708,Berkeley,Contra Costa County,Bay Area,11947,4800,5105,85.0,234923,1593000,48.6,65.0,2.1,64.2,1.8,Moderate
+94709,Berkeley,Alameda County,Bay Area,12146,5429,6326,24.3,89054,1375000,30.4,25.9,26.3,22.2,0.0,Low
+94710,Berkeley,Alameda County,Bay Area,8380,3780,4188,36.8,102227,1081000,39.6,33.6,12.6,2.6,0.0,Low
+94720,Berkeley,Alameda County,Bay Area,5763,222,412,24.8,,507800,19.9,28.8,59.5,39.5,0.0,Low
+94801,Richmond,Contra Costa County,Bay Area,33591,10593,11075,48.5,81728,609000,34.7,56.1,11.8,17.4,0.0,Low
+94803,El Sobrante,Contra Costa County,Bay Area,27659,9562,10127,72.8,118447,783900,42.3,73.0,2.2,67.8,1.1,Moderate
+94804,Richmond,Contra Costa County,Bay Area,44891,16250,16962,53.6,91037,631900,36.9,52.9,7.6,27.1,0.0,Low
+94805,Richmond,Contra Costa County,Bay Area,14670,5493,5908,66.4,111152,791900,43.0,62.8,6.1,19.8,0.0,Low
+94806,San Pablo,Contra Costa County,Bay Area,62546,20538,21101,49.9,86034,607800,36.7,63.1,8.5,30.9,0.0,Low
+94901,San Rafael,Marin County,Bay Area,41307,15631,16233,51.0,115330,1512600,41.6,55.4,7.3,55.0,0.0,Moderate
+94903,San Rafael,Marin County,Bay Area,30615,12013,12665,65.8,142083,1197300,49.5,59.5,8.3,83.6,0.0,High
+94904,Greenbrae,Marin County,Bay Area,12815,5558,5975,62.8,169118,2000001,50.9,58.0,6.5,50.2,0.0,Moderate
+94920,Belvedere Tiburon,Marin County,Bay Area,12609,4934,5816,72.3,246045,2000001,51.4,71.1,1.4,64.4,0.0,Moderate
+94922,Bodega,Sonoma County,Bay Area,6,3,34,100.0,,,,0.0,100.0,96.8,100.0,Extreme
+94923,Bodega Bay,Sonoma County,Bay Area,1483,693,1473,72.9,147546,1186500,53.4,69.0,0.0,96.9,100.0,Extreme
+94924,Bolinas,Marin County,Bay Area,1372,653,1068,75.8,101458,2000001,61.8,70.3,0.0,94.8,20.1,High
+94925,Corte Madera,Marin County,Bay Area,10077,4036,4171,68.8,232763,1755200,45.9,56.4,1.8,74.9,0.0,Moderate
+94928,Rohnert Park,Sonoma County,Bay Area,46829,17200,17826,49.9,99280,666000,33.8,67.6,4.7,51.3,1.2,Moderate
+94929,Dillon Beach,Marin County,Bay Area,293,137,468,83.2,209536,1660000,61.1,100.0,0.0,99.3,100.0,Extreme
+94930,Fairfax,Marin County,Bay Area,8406,3565,3729,69.8,145362,1170000,48.2,68.8,1.0,91.3,0.0,High
+94931,Cotati,Sonoma County,Bay Area,9487,4072,4134,59.2,101994,820000,39.2,66.2,4.9,91.5,8.2,High
+94933,Forest Knolls,Marin County,Bay Area,1033,563,601,78.2,133006,862100,62.2,59.9,9.8,97.2,100.0,Extreme
+94937,Inverness,Marin County,Bay Area,1009,600,836,73.7,78281,1791700,65.1,53.7,6.7,96.8,100.0,Extreme
+94938,Lagunitas,Marin County,Bay Area,437,223,300,68.6,,1149700,43.5,55.2,10.3,97.1,100.0,Extreme
+94939,Larkspur,Marin County,Bay Area,7315,3323,3676,49.8,203988,2000001,48.4,48.1,5.5,72.8,0.0,Moderate
+94940,Marshall,Marin County,Bay Area,148,97,162,38.1,47021,2000001,57.4,38.1,0.0,99.3,100.0,Extreme
+94941,Mill Valley,Marin County,Bay Area,32706,12916,14315,68.2,209870,2000001,45.9,63.6,3.1,77.2,0.0,Moderate
+94945,Novato,Marin County,Bay Area,17635,7081,7343,70.4,107790,1124100,49.6,67.9,4.1,85.3,0.1,High
+94946,Nicasio,Marin County,Bay Area,715,265,311,81.5,154688,2000001,49.1,87.2,0.0,99.2,100.0,Extreme
+94947,Novato,Marin County,Bay Area,24100,8854,9369,70.5,128766,1017600,47.6,68.6,5.6,85.6,28.4,High
+94949,Novato,Marin County,Bay Area,17787,6955,7359,63.1,120758,1150500,47.5,63.3,3.9,85.8,0.0,High
+94950,Olema,Marin County,Bay Area,22,11,11,100.0,,,60.3,72.7,0.0,96.8,100.0,Extreme
+94951,Penngrove,Sonoma County,Bay Area,3294,1419,1548,71.4,106332,1207000,44.2,57.7,4.1,94.6,77.4,Extreme
+94952,Petaluma,Marin County,Bay Area,33785,13985,14908,60.3,117343,1041100,43.8,64.0,3.3,79.5,49.8,High
+94954,Petaluma,Sonoma County,Bay Area,37574,14876,15249,67.3,113527,840500,45.3,66.8,6.2,53.1,23.6,High
+94956,Point Reyes Station,Marin County,Bay Area,1080,633,918,65.1,82205,1681300,71.5,45.7,0.0,97.4,100.0,Extreme
+94957,Ross,Marin County,Bay Area,2321,717,791,86.5,250001,2000001,42.1,83.7,0.8,84.1,0.0,High
+94960,San Anselmo,Marin County,Bay Area,16232,6546,6882,72.5,185170,1674500,47.0,69.0,3.7,87.6,0.0,High
+94963,San Geronimo,Marin County,Bay Area,739,239,239,91.6,210823,1156300,46.1,66.5,0.0,97.2,100.0,Extreme
+94964,San Quentin,Marin County,Bay Area,2344,204,244,44.6,115192,,49.2,55.4,0.0,26.4,0.0,Low
+94965,Sausalito,Marin County,Bay Area,11724,6043,6709,55.7,146946,1537800,51.0,48.5,5.8,29.7,0.0,Low
+94970,Stinson Beach,Marin County,Bay Area,255,144,693,95.8,132857,1493400,71.1,70.1,13.2,94.2,0.0,High
+94971,Tomales,Marin County,Bay Area,276,77,166,84.4,119028,883500,62.8,100.0,0.0,99.3,100.0,Extreme
+94973,Woodacre,Marin County,Bay Area,1689,646,674,91.6,231094,1076300,58.3,79.4,0.0,97.2,100.0,Extreme
+95002,Alviso,Santa Clara County,Bay Area,1542,521,559,73.3,121953,1080800,48.2,73.1,1.7,46.1,0.0,Moderate
+95003,Aptos,Santa Cruz County,Central Coast,24951,9905,11843,70.6,148412,1198700,48.4,73.1,1.9,81.7,23.0,High
+95004,Aromas,Monterey County,Central Coast,4363,1597,1677,74.5,130744,877300,45.1,83.3,1.5,97.2,100.0,Extreme
+95005,Ben Lomond,Santa Cruz County,Central Coast,7277,2878,3046,71.9,104375,967300,45.2,73.5,2.6,96.7,67.0,Extreme
+95006,Boulder Creek,Santa Cruz County,Central Coast,7561,3222,3607,76.5,102167,843200,47.6,78.6,2.8,98.1,100.0,Extreme
+95007,Brookdale,Santa Cruz County,Central Coast,396,186,279,19.9,91352,,35.4,72.6,0.0,97.7,100.0,Extreme
+95008,Campbell,Santa Clara County,Bay Area,48333,19052,20353,49.6,141131,1633600,39.7,60.4,5.6,16.7,0.0,Low
+95010,Capitola,Santa Cruz County,Central Coast,8707,4242,4838,48.9,105236,828700,49.7,51.2,6.9,31.0,0.0,Low
+95012,Castroville,Monterey County,Central Coast,10814,2627,2735,48.3,80288,598900,28.5,78.0,3.2,51.4,0.0,Moderate
+95013,Coyote,Santa Clara County,Bay Area,57,21,21,81.0,173646,,58.5,100.0,0.0,97.6,100.0,Extreme
+95014,Cupertino,Santa Clara County,Bay Area,60932,21868,23104,58.7,230913,2000001,41.0,67.1,4.0,34.7,1.5,Low
+95017,Davenport,Santa Cruz County,Central Coast,616,205,227,37.6,102625,953100,39.3,62.9,1.5,96.7,100.0,Extreme
+95018,Felton,Santa Cruz County,Central Coast,6594,2799,3037,81.3,129464,838600,45.3,72.0,1.4,96.5,56.3,Extreme
+95019,Freedom,Santa Cruz County,Central Coast,5933,1805,1855,29.7,67474,735200,32.5,60.5,12.2,24.7,0.0,Low
+95020,Gilroy,Santa Clara County,Bay Area,67181,19984,20822,63.8,137117,1059100,37.6,77.8,4.2,58.2,7.3,Moderate
+95023,Hollister,San Benito County,Central Coast,59889,17897,18404,68.1,116314,784100,35.6,80.4,3.3,72.5,17.6,Moderate
+95030,Los Gatos,Santa Clara County,Bay Area,13151,5122,5837,79.0,250001,2000001,51.6,76.8,1.4,75.7,5.4,Moderate
+95032,Los Gatos,Santa Clara County,Bay Area,27313,10450,10966,65.4,203727,2000001,44.0,66.8,3.4,53.1,25.9,High
+95033,Los Gatos,Santa Cruz County,Central Coast,9600,3766,4164,76.7,189118,1417200,45.3,80.6,0.8,99.1,100.0,Extreme
+95035,Milpitas,Santa Clara County,Bay Area,78810,25124,26098,58.5,178654,1253200,36.8,64.2,6.3,24.3,0.0,Moderate
+95037,Morgan Hill,Santa Clara County,Bay Area,51943,16742,17571,70.6,163182,1243900,39.2,77.0,3.5,83.9,17.0,High
+95039,Moss Landing,Monterey County,Central Coast,948,277,395,63.2,49410,453400,49.9,44.0,11.2,89.8,0.0,High
+95041,Mount Hermon,Santa Cruz County,Central Coast,623,309,384,52.4,96898,929900,33.7,83.5,0.0,94.1,0.0,High
+95043,Paicines,San Benito County,Central Coast,805,232,315,65.1,150441,1062500,34.6,87.9,0.0,99.8,100.0,Extreme
+95045,San Juan Bautista,San Benito County,Central Coast,3659,1493,1598,67.4,110438,896700,46.2,76.2,1.7,98.7,100.0,Extreme
+95046,San Martin,Santa Clara County,Bay Area,6324,1797,1855,75.7,158550,1477900,47.3,92.5,3.1,96.1,26.1,Extreme
+95050,Santa Clara,Santa Clara County,Bay Area,39834,15831,16804,41.5,138466,1464700,36.2,56.0,6.6,13.0,0.0,Low
+95051,Santa Clara,Santa Clara County,Bay Area,62054,24240,25655,43.9,196690,1680600,35.0,55.8,5.3,24.7,0.0,Low
+95053,Santa Clara,Santa Clara County,Bay Area,3049,42,42,0.0,,,19.7,100.0,0.0,0.0,0.0,Low
+95054,Santa Clara,Santa Clara County,Bay Area,25704,9963,10508,32.6,207895,1493100,34.2,50.3,6.1,22.9,0.0,Low
+95060,Santa Cruz,Santa Cruz County,Central Coast,46268,18415,20417,51.5,108591,1207200,36.5,61.0,7.8,50.7,9.6,Moderate
+95062,Santa Cruz,Santa Cruz County,Central Coast,35607,15470,16979,53.5,112106,1076500,43.3,60.4,5.4,41.2,0.0,Low
+95064,Santa Cruz,Santa Cruz County,Central Coast,10168,495,536,34.7,121042,467000,19.6,29.7,10.1,90.1,0.0,High
+95065,Santa Cruz,Santa Cruz County,Central Coast,7997,2898,3102,71.7,153222,1228500,43.6,71.9,5.8,92.7,40.7,High
+95066,Scotts Valley,Santa Cruz County,Central Coast,15135,6195,6664,76.5,151250,1136400,47.1,73.3,4.7,94.4,35.3,High
+95070,Saratoga,Santa Clara County,Bay Area,31417,11194,11887,86.6,250001,2000001,51.6,83.6,1.1,60.1,25.7,High
+95073,Soquel,Santa Cruz County,Central Coast,11639,4516,4879,73.3,118169,1062800,43.1,66.4,3.8,79.6,70.4,Extreme
+95075,Tres Pinos,San Benito County,Central Coast,693,192,194,88.0,135417,867900,38.1,90.6,1.0,98.5,100.0,Extreme
+95076,Watsonville,Santa Cruz County,Central Coast,82806,24656,26567,56.7,91099,808900,36.4,73.3,5.0,54.1,16.2,Moderate
+95110,San Jose,Santa Clara County,Bay Area,19963,6791,7621,40.1,131491,998900,35.3,53.0,7.8,14.2,0.0,Low
+95111,San Jose,Santa Clara County,Bay Area,57202,15578,16166,59.9,101435,850700,37.8,68.8,8.9,13.1,0.0,Low
+95112,San Jose,Santa Clara County,Bay Area,57373,21574,23628,26.4,89103,974300,31.9,45.5,14.6,16.3,0.0,Low
+95113,San Jose,Santa Clara County,Bay Area,2640,1421,1842,13.7,151685,956500,30.6,14.3,19.7,0.0,0.0,Low
+95116,San Jose,Santa Clara County,Bay Area,48042,13394,13978,42.4,85818,860900,37.5,62.1,9.9,10.9,0.0,Low
+95117,San Jose,Santa Clara County,Bay Area,26953,10422,11366,35.6,116348,1520700,37.2,52.7,7.0,0.1,0.0,Low
+95118,San Jose,Santa Clara County,Bay Area,32015,11404,12011,61.7,152682,1494600,39.5,67.1,4.8,16.3,0.0,Low
+95119,San Jose,Santa Clara County,Bay Area,10841,3649,3683,73.5,174375,1247800,40.0,71.4,1.4,68.9,5.1,Moderate
+95120,San Jose,Santa Clara County,Bay Area,36967,12660,12981,89.1,250001,2000001,47.5,81.1,3.0,59.2,12.5,Moderate
+95121,San Jose,Santa Clara County,Bay Area,36463,9828,10005,77.8,150605,1051900,42.8,78.1,5.0,27.8,0.0,Low
+95122,San Jose,Santa Clara County,Bay Area,50775,11829,12465,53.4,103549,872900,37.0,73.3,6.3,17.1,0.0,Low
+95123,San Jose,Santa Clara County,Bay Area,69677,24377,25037,60.7,144276,1166800,38.0,66.6,4.2,21.1,0.2,Low
+95124,San Jose,Santa Clara County,Bay Area,52096,17586,18175,70.9,185926,1666300,39.7,77.2,2.3,19.1,1.3,Low
+95125,San Jose,Santa Clara County,Bay Area,54419,20779,22000,61.1,160738,1694300,41.0,62.9,4.4,19.0,0.0,Low
+95126,San Jose,Santa Clara County,Bay Area,38327,16187,17222,32.9,128983,1214300,34.9,48.7,7.5,4.4,0.0,Low
+95127,San Jose,Santa Clara County,Bay Area,58825,15230,16257,65.3,128786,1035800,38.7,77.9,3.2,19.8,7.7,Moderate
+95128,San Jose,Santa Clara County,Bay Area,33165,13805,14951,44.7,131152,1262600,39.3,51.8,7.0,7.2,0.0,Low
+95129,San Jose,Santa Clara County,Bay Area,41321,14105,15087,58.6,195708,2000001,40.9,66.1,5.3,14.6,0.0,Low
+95130,San Jose,Santa Clara County,Bay Area,13511,4750,5128,64.1,159556,1839600,38.4,68.6,3.5,13.6,0.0,Low
+95131,San Jose,Santa Clara County,Bay Area,31179,9976,10308,61.8,170255,1164800,37.7,70.4,2.5,19.8,0.0,Low
+95132,San Jose,Santa Clara County,Bay Area,40334,12068,12477,74.0,178611,1349100,41.9,77.9,5.1,30.2,0.1,Moderate
+95133,San Jose,Santa Clara County,Bay Area,29710,9309,9671,55.4,142170,1082400,38.1,65.3,9.0,13.7,0.0,Low
+95134,San Jose,Santa Clara County,Bay Area,30471,14050,14752,13.8,203649,,31.3,33.3,7.4,23.3,0.0,Low
+95135,San Jose,Santa Clara County,Bay Area,20129,7515,7764,85.9,190750,1547400,53.1,64.5,4.7,73.8,1.0,Moderate
+95136,San Jose,Santa Clara County,Bay Area,48056,16306,16730,58.9,142433,1144000,37.0,64.3,4.8,18.2,0.0,Low
+95138,San Jose,Santa Clara County,Bay Area,18960,5580,5729,80.9,204476,1497200,38.9,78.4,2.3,64.9,0.1,Moderate
+95139,San Jose,Santa Clara County,Bay Area,7035,2174,2195,76.5,178790,1169300,39.5,76.2,3.6,55.0,0.0,Moderate
+95140,Mount Hamilton,Santa Clara County,Bay Area,42,29,35,100.0,163594,,62.1,79.3,0.0,95.6,11.6,Extreme
+95148,San Jose,Santa Clara County,Bay Area,44995,12110,12369,79.6,167257,1279500,41.1,85.5,3.8,25.5,0.0,Low
+95202,Stockton,San Joaquin County,San Joaquin Valley,7066,3380,4071,8.9,31020,377400,35.1,19.3,33.3,0.0,0.0,Low
+95203,Stockton,San Joaquin County,San Joaquin Valley,15930,5392,5754,43.0,63411,370000,35.2,53.8,8.1,0.5,0.0,Low
+95204,Stockton,San Joaquin County,San Joaquin Valley,31035,11405,12344,59.4,75548,387100,36.7,59.5,7.2,7.6,0.0,Low
+95205,Stockton,San Joaquin County,San Joaquin Valley,39608,10646,11707,49.6,60325,324200,30.6,61.7,9.2,9.2,0.0,Low
+95206,Stockton,San Joaquin County,San Joaquin Valley,68558,17629,18787,60.3,83432,424600,31.4,73.4,6.0,19.6,0.0,Low
+95207,Stockton,San Joaquin County,San Joaquin Valley,52414,18971,20339,41.6,69455,432800,33.1,52.1,7.9,7.9,0.0,Low
+95209,Stockton,San Joaquin County,San Joaquin Valley,47409,13759,14106,74.1,108675,494900,36.4,75.7,3.5,15.4,0.0,Low
+95210,Stockton,San Joaquin County,San Joaquin Valley,41549,11898,12509,50.6,67991,362300,33.1,59.9,6.7,18.6,0.0,Low
+95211,Stockton,San Joaquin County,San Joaquin Valley,765,0,0,,,,20.0,,,19.6,0.0,Low
+95212,Stockton,San Joaquin County,San Joaquin Valley,28437,8187,8357,77.8,111720,538500,38.8,78.2,5.0,42.9,1.2,Low
+95215,Stockton,San Joaquin County,San Joaquin Valley,24847,6580,7276,59.1,71888,398300,36.9,69.1,3.3,67.5,0.0,Moderate
+95219,Stockton,San Joaquin County,San Joaquin Valley,31713,11517,12023,60.6,112268,581300,37.4,64.2,3.0,21.1,9.2,Moderate
+95220,Acampo,San Joaquin County,San Joaquin Valley,7931,2609,2840,71.1,114637,706600,40.0,83.2,2.0,90.1,0.0,High
+95221,Altaville,Calaveras County,North State & Sierra,259,142,215,85.2,,395200,64.8,55.6,21.8,99.5,100.0,Extreme
+95222,Angels Camp,Calaveras County,North State & Sierra,5597,2203,2778,83.1,70930,515100,50.7,77.8,3.4,99.5,100.0,Extreme
+95223,Arnold,Alpine County,North State & Sierra,3056,1584,7318,85.9,106694,476000,63.2,66.2,3.3,99.2,100.0,Extreme
+95224,Avery,Calaveras County,North State & Sierra,316,145,247,80.7,46815,427400,51.7,56.6,23.4,99.1,100.0,Extreme
+95225,Burson,Calaveras County,North State & Sierra,1609,482,528,68.5,,558700,51.6,88.2,0.0,99.5,100.0,Extreme
+95227,Clements,San Joaquin County,San Joaquin Valley,910,309,340,100.0,150750,673800,55.5,96.8,0.0,96.2,35.8,Extreme
+95228,Copperopolis,Calaveras County,North State & Sierra,4611,1847,2584,84.6,107899,484500,51.4,72.4,2.4,99.4,100.0,Extreme
+95230,Farmington,Stanislaus County,San Joaquin Valley,403,177,194,78.0,128339,379700,68.4,37.9,5.1,97.9,72.1,Extreme
+95231,French Camp,San Joaquin County,San Joaquin Valley,3896,538,647,57.8,90417,455400,35.5,74.2,9.1,79.0,0.0,Moderate
+95232,Glencoe,Calaveras County,North State & Sierra,135,51,71,100.0,71023,379700,56.1,100.0,0.0,99.9,100.0,Extreme
+95233,Hathaway Pines,Calaveras County,North State & Sierra,134,85,121,100.0,50972,342600,58.5,100.0,0.0,99.8,100.0,Extreme
+95236,Linden,San Joaquin County,San Joaquin Valley,4490,1670,1881,59.3,104703,650500,39.6,81.5,2.2,96.3,41.6,Extreme
+95237,Lockeford,San Joaquin County,San Joaquin Valley,3639,1529,1529,75.0,87117,490500,42.6,56.9,2.2,84.1,3.1,High
+95240,Lodi,San Joaquin County,San Joaquin Valley,50517,16064,17354,51.0,82137,472100,34.1,62.5,7.4,25.0,4.1,Low
+95242,Lodi,San Joaquin County,San Joaquin Valley,28427,10691,11441,70.1,104721,567100,41.1,68.6,3.2,31.2,0.0,Low
+95245,Mokelumne Hill,Calaveras County,North State & Sierra,2727,1140,1328,83.9,84405,482000,58.0,81.7,2.2,99.6,100.0,Extreme
+95246,Mountain Ranch,Calaveras County,North State & Sierra,1672,624,769,87.7,98269,417100,53.7,95.2,0.0,99.7,100.0,Extreme
+95247,Murphys,Calaveras County,North State & Sierra,3858,1844,2622,81.0,76333,537400,57.5,74.4,3.7,99.8,100.0,Extreme
+95248,Rail Road Flat,Calaveras County,North State & Sierra,60,13,92,100.0,,,11.8,100.0,0.0,99.9,100.0,Extreme
+95249,San Andreas,Calaveras County,North State & Sierra,4295,1713,2061,72.6,45302,429700,55.1,66.6,1.2,99.6,100.0,Extreme
+95251,Vallecito,Calaveras County,North State & Sierra,701,364,425,87.4,127775,561000,52.6,78.6,5.2,99.7,100.0,Extreme
+95252,Valley Springs,Calaveras County,North State & Sierra,14252,4804,5327,90.2,89651,457000,44.0,88.2,0.8,99.6,100.0,Extreme
+95253,Victor,San Joaquin County,San Joaquin Valley,609,157,157,29.3,144659,,22.6,71.3,0.0,95.5,79.5,Extreme
+95254,Wallace,Calaveras County,North State & Sierra,313,178,178,51.1,,466000,64.3,100.0,0.0,99.6,100.0,Extreme
+95255,West Point,Calaveras County,North State & Sierra,1955,860,1040,82.0,51364,275700,57.6,84.1,3.6,99.9,100.0,Extreme
+95257,Wilseyville,Calaveras County,North State & Sierra,569,298,402,84.2,71437,352900,66.2,81.2,0.0,99.9,100.0,Extreme
+95258,Woodbridge,San Joaquin County,San Joaquin Valley,4144,1622,1648,83.5,93854,559800,41.7,65.5,1.4,81.5,0.0,High
+95301,Atwater,Merced County,San Joaquin Valley,43009,12573,12831,56.6,68349,390900,33.5,66.4,6.9,69.6,0.0,Moderate
+95303,Ballico,Merced County,San Joaquin Valley,784,274,283,65.0,144375,569400,42.0,80.7,0.0,92.5,4.4,High
+95304,Tracy,San Joaquin County,San Joaquin Valley,15841,4949,5410,60.1,115007,893600,37.3,75.2,1.5,78.8,4.8,Moderate
+95305,Big Oak Flat,Tuolumne County,North State & Sierra,267,58,63,48.3,,,52.4,41.4,0.0,99.5,100.0,Extreme
+95306,Catheys Valley,Mariposa County,North State & Sierra,939,460,518,100.0,81302,400000,60.7,63.7,1.3,99.7,100.0,Extreme
+95307,Ceres,Stanislaus County,San Joaquin Valley,46310,13092,13531,67.0,80627,429500,33.3,75.1,5.7,31.8,0.0,Low
+95310,Columbia,Tuolumne County,North State & Sierra,1356,618,849,71.5,54697,434800,61.4,65.9,4.5,99.2,100.0,Extreme
+95311,Coulterville,Mariposa County,North State & Sierra,2245,1090,1447,85.0,56029,316000,45.3,85.2,1.0,99.8,100.0,Extreme
+95312,Cressey,Merced County,San Joaquin Valley,232,73,73,64.4,80625,,52.5,71.2,20.5,87.2,0.0,High
+95313,Crows Landing,Stanislaus County,San Joaquin Valley,1119,425,478,43.5,90018,428100,42.1,63.1,4.7,83.6,9.4,High
+95315,Delhi,Merced County,San Joaquin Valley,13598,3716,3819,67.2,71352,349600,30.4,74.9,3.8,59.7,0.0,Moderate
+95316,Denair,Stanislaus County,San Joaquin Valley,8022,2565,2642,62.0,97764,483900,35.0,79.0,2.0,71.0,19.6,Moderate
+95317,El Nido,Merced County,San Joaquin Valley,827,265,287,24.9,57153,366700,35.4,69.4,0.0,95.3,0.0,Extreme
+95318,El Portal,Mariposa County,North State & Sierra,582,323,357,58.2,57097,276900,45.3,64.4,0.0,99.6,100.0,Extreme
+95319,Empire,Stanislaus County,San Joaquin Valley,1327,442,529,53.2,45400,354100,37.6,34.2,0.0,89.5,0.0,High
+95320,Escalon,San Joaquin County,San Joaquin Valley,13500,4662,5037,70.8,82572,521900,34.7,72.0,2.6,84.3,0.0,High
+95321,Groveland,Tuolumne County,North State & Sierra,3464,1556,3665,87.3,74000,393100,58.1,64.3,3.7,99.3,100.0,Extreme
+95322,Gustine,Merced County,San Joaquin Valley,9506,3602,3985,54.7,65761,444100,40.7,69.2,4.0,93.2,13.3,High
+95323,Hickman,Stanislaus County,San Joaquin Valley,1644,456,477,64.5,75938,568200,40.1,86.6,1.5,98.1,100.0,Extreme
+95324,Hilmar,Merced County,San Joaquin Valley,7636,2546,2732,52.4,76316,462900,38.2,68.1,4.7,76.4,0.0,Moderate
+95326,Hughson,Stanislaus County,San Joaquin Valley,10593,3906,4072,60.3,87500,533100,38.6,63.0,6.0,70.8,5.4,Moderate
+95327,Jamestown,Tuolumne County,North State & Sierra,8752,2931,3257,69.5,68040,372300,41.0,62.6,2.9,97.5,71.1,Extreme
+95328,Keyes,Stanislaus County,San Joaquin Valley,4133,1213,1312,62.3,62743,399000,32.6,90.3,6.0,87.9,0.0,High
+95329,La Grange,Tuolumne County,North State & Sierra,2954,1156,1559,88.5,79500,420100,48.2,77.1,4.6,98.3,100.0,Extreme
+95330,Lathrop,San Joaquin County,San Joaquin Valley,35395,8892,9202,84.9,125421,643400,33.8,83.9,1.8,39.3,0.0,Low
+95333,Le Grand,Merced County,San Joaquin Valley,2963,796,910,64.3,62813,340200,31.8,66.3,6.7,95.8,0.0,Extreme
+95334,Livingston,Merced County,San Joaquin Valley,17363,4222,4401,58.8,76277,377000,32.7,76.1,5.8,63.2,0.0,Moderate
+95335,Long Barn,Tuolumne County,North State & Sierra,83,78,834,100.0,67857,310000,63.9,34.6,7.7,99.8,100.0,Extreme
+95336,Manteca,San Joaquin County,San Joaquin Valley,50185,16200,17154,70.5,89172,546400,38.2,73.0,3.3,40.8,0.0,Low
+95337,Manteca,San Joaquin County,San Joaquin Valley,48731,14079,14536,73.9,117137,645200,35.3,78.5,2.8,48.6,0.0,Moderate
+95338,Mariposa,Mariposa County,North State & Sierra,10006,4750,5802,73.3,67485,393400,55.2,68.3,5.1,99.8,100.0,Extreme
+95340,Merced,Merced County,San Joaquin Valley,38303,12822,13724,57.2,71193,399100,32.4,60.1,8.3,52.5,0.3,Moderate
+95341,Merced,Merced County,San Joaquin Valley,36385,9323,9683,38.5,57342,334400,26.6,59.5,9.8,56.5,0.0,Moderate
+95345,Midpines,Mariposa County,North State & Sierra,279,183,185,76.5,68464,450000,65.6,62.8,0.0,99.8,100.0,Extreme
+95346,Mi Wuk Village,Tuolumne County,North State & Sierra,923,477,1378,79.9,92057,508900,56.2,78.0,0.0,99.5,100.0,Extreme
+95348,Merced,Merced County,San Joaquin Valley,37540,11550,12448,51.3,64944,383600,31.2,61.7,6.8,47.6,1.3,Moderate
+95350,Modesto,Stanislaus County,San Joaquin Valley,57136,19783,20439,56.8,75621,429400,35.7,62.0,7.2,3.0,0.0,Low
+95351,Modesto,Stanislaus County,San Joaquin Valley,48498,13229,13736,48.3,58275,343500,29.7,63.2,9.1,10.7,0.0,Low
+95354,Modesto,Stanislaus County,San Joaquin Valley,25684,9089,9707,50.4,72879,389600,36.1,55.4,9.5,25.3,0.0,Low
+95355,Modesto,Stanislaus County,San Joaquin Valley,60710,21565,22339,62.3,86849,469000,37.6,66.2,4.8,27.2,0.0,Low
+95356,Modesto,Stanislaus County,San Joaquin Valley,33233,11553,11875,67.6,96886,532600,37.6,65.3,5.3,51.2,0.0,Moderate
+95357,Modesto,Stanislaus County,San Joaquin Valley,13599,4190,4259,71.4,95707,445400,35.8,81.2,1.0,67.5,0.0,Moderate
+95358,Modesto,Stanislaus County,San Joaquin Valley,30469,8273,8736,62.0,76924,431900,32.0,79.2,2.0,44.4,0.1,Low
+95360,Newman,Stanislaus County,San Joaquin Valley,13779,4102,4564,63.2,79213,419800,35.1,76.2,3.7,62.3,2.3,Moderate
+95361,Oakdale,Stanislaus County,San Joaquin Valley,34810,12242,12888,68.3,92963,516000,39.1,70.0,6.4,79.1,12.4,Moderate
+95363,Patterson,Stanislaus County,San Joaquin Valley,30769,8202,8682,69.7,95679,470700,31.9,77.0,4.0,53.6,20.1,High
+95365,Planada,Merced County,San Joaquin Valley,3963,1239,1319,45.1,39741,266400,32.3,66.4,10.2,95.7,0.0,Extreme
+95366,Ripon,San Joaquin County,San Joaquin Valley,18954,6736,6970,66.0,112097,707800,40.9,76.6,1.6,83.2,0.0,High
+95367,Riverbank,Stanislaus County,San Joaquin Valley,25593,7847,7931,72.2,87487,464700,34.6,74.4,2.6,61.9,0.0,Moderate
+95368,Salida,Stanislaus County,San Joaquin Valley,13900,4286,4286,77.3,94935,461100,35.3,80.0,2.2,22.4,0.0,Low
+95369,Snelling,Merced County,San Joaquin Valley,740,301,381,56.1,75750,354900,44.6,56.1,7.0,97.3,75.5,Extreme
+95370,Sonora,Tuolumne County,North State & Sierra,28355,12249,14074,69.1,82990,448400,49.1,65.3,6.7,99.0,100.0,Extreme
+95372,Soulsbyville,Tuolumne County,North State & Sierra,1811,701,739,85.4,97398,408300,44.3,90.0,0.0,99.6,100.0,Extreme
+95374,Stevinson,Merced County,San Joaquin Valley,1921,591,686,55.3,57538,463300,31.0,80.5,10.7,89.3,0.0,High
+95375,Strawberry,Tuolumne County,North State & Sierra,56,55,498,27.3,,,75.3,0.0,72.7,99.9,100.0,Extreme
+95376,Tracy,San Joaquin County,San Joaquin Valley,54488,16981,17699,61.6,102555,618100,34.7,70.8,4.2,10.4,0.0,Low
+95377,Tracy,San Joaquin County,San Joaquin Valley,37739,10170,10584,74.6,158158,834600,36.7,83.7,2.1,48.8,4.6,Moderate
+95379,Tuolumne,Tuolumne County,North State & Sierra,3598,1515,1680,83.2,74230,416000,49.8,66.1,8.4,99.6,100.0,Extreme
+95380,Turlock,Stanislaus County,San Joaquin Valley,43960,14896,15736,48.8,74534,433600,32.7,64.6,8.0,33.2,0.0,Low
+95382,Turlock,Stanislaus County,San Joaquin Valley,39083,13759,14118,62.7,95282,491700,37.1,68.0,4.2,9.2,0.0,Low
+95383,Twain Harte,Tuolumne County,North State & Sierra,3782,1682,3292,83.6,86970,461100,50.9,77.6,0.3,99.3,100.0,Extreme
+95385,Vernalis,Stanislaus County,San Joaquin Valley,602,202,210,55.4,53409,,29.6,68.8,10.4,98.0,95.1,Extreme
+95386,Waterford,Stanislaus County,San Joaquin Valley,10666,3090,3273,57.4,73196,416500,33.5,76.7,3.2,95.6,79.9,Extreme
+95387,Westley,Stanislaus County,San Joaquin Valley,1032,242,242,37.6,66857,478100,19.0,85.1,7.4,98.9,100.0,Extreme
+95388,Winton,Merced County,San Joaquin Valley,13319,3849,4078,49.5,57493,345100,30.3,67.9,6.5,82.3,0.0,High
+95389,Yosemite National Park,Mariposa County,North State & Sierra,2181,302,638,24.2,51500,,34.5,30.1,14.9,99.1,100.0,Extreme
+95391,Tracy,Alameda County,Bay Area,25574,7097,7412,70.0,176952,947000,35.1,68.1,3.4,76.7,3.2,Moderate
+95401,Santa Rosa,Sonoma County,Bay Area,36861,13840,14384,53.9,93615,630900,39.2,61.9,5.2,55.4,0.0,Moderate
+95403,Santa Rosa,Sonoma County,Bay Area,45806,16823,17832,54.8,98191,693000,40.2,62.3,6.7,59.0,10.2,Moderate
+95404,Santa Rosa,Sonoma County,Bay Area,37011,15478,16861,60.9,105437,903900,43.4,63.6,7.2,62.6,26.5,High
+95405,Santa Rosa,Sonoma County,Bay Area,22744,9429,9651,63.5,118299,788000,45.5,63.4,3.9,51.2,3.9,Moderate
+95407,Santa Rosa,Sonoma County,Bay Area,42036,13168,13494,52.4,82863,627100,34.4,68.4,3.9,64.7,0.0,Moderate
+95409,Santa Rosa,Sonoma County,Bay Area,25616,11444,12280,69.7,107867,802000,52.7,59.7,6.1,78.0,29.1,High
+95410,Albion,Mendocino County,North State & Sierra,842,433,564,53.8,,693800,51.1,56.8,0.0,96.9,100.0,Extreme
+95412,Annapolis,Sonoma County,Bay Area,331,137,171,59.1,,716900,36.9,48.9,0.0,97.2,100.0,Extreme
+95415,Boonville,Mendocino County,North State & Sierra,956,326,464,52.1,45147,760200,59.8,74.2,2.5,98.3,100.0,Extreme
+95417,Branscomb,Mendocino County,North State & Sierra,220,52,52,100.0,,,35.1,100.0,0.0,98.8,100.0,Extreme
+95419,Camp Meeker,Sonoma County,Bay Area,152,88,132,85.2,,669300,57.6,85.2,0.0,96.8,100.0,Extreme
+95420,Caspar,Mendocino County,North State & Sierra,271,149,160,65.1,,1098600,61.0,46.3,0.0,95.7,0.0,Extreme
+95421,Cazadero,Sonoma County,Bay Area,1570,663,1145,79.3,78906,633400,59.3,70.1,5.1,96.3,85.9,Extreme
+95422,Clearlake,Lake County,North State & Sierra,17054,6283,8173,60.3,42241,217000,38.9,56.4,8.6,91.8,33.0,High
+95423,Clearlake Oaks,Lake County,North State & Sierra,3513,1708,2464,72.8,41143,293600,60.4,58.5,3.0,98.4,100.0,Extreme
+95425,Cloverdale,Sonoma County,Bay Area,10978,4309,4480,72.4,119092,653200,46.4,75.9,1.8,95.5,14.2,Extreme
+95426,Cobb,Lake County,North State & Sierra,1257,586,1038,97.4,84000,311900,56.3,73.2,10.6,99.0,100.0,Extreme
+95427,Comptche,Mendocino County,North State & Sierra,666,220,294,84.1,58421,777200,60.3,100.0,0.0,98.3,100.0,Extreme
+95428,Covelo,Mendocino County,North State & Sierra,2347,918,1273,54.4,46339,437200,40.5,53.5,11.0,98.6,100.0,Extreme
+95429,Dos Rios,Mendocino County,North State & Sierra,128,94,136,100.0,13333,400000,74.7,30.9,0.0,98.6,100.0,Extreme
+95431,Eldridge,Sonoma County,Bay Area,43,0,0,,,,57.4,,,97.1,100.0,Extreme
+95432,Elk,Mendocino County,North State & Sierra,707,284,398,55.3,,773700,60.3,38.7,0.0,97.4,100.0,Extreme
+95436,Forestville,Sonoma County,Bay Area,5821,2354,2687,68.1,109531,739600,42.0,66.1,1.7,95.0,0.0,Extreme
+95437,Fort Bragg,Mendocino County,North State & Sierra,14982,6440,7791,61.3,57759,554200,49.4,62.4,6.5,86.4,30.6,High
+95439,Fulton,Sonoma County,Bay Area,486,203,236,83.3,,721700,44.7,91.6,0.0,88.5,0.0,High
+95441,Geyserville,Sonoma County,Bay Area,1648,705,902,67.2,126806,1282300,57.2,77.4,5.8,97.2,52.7,Extreme
+95442,Glen Ellen,Sonoma County,Bay Area,3449,1642,1781,71.1,164750,1328100,58.6,63.2,5.1,97.3,90.8,Extreme
+95443,Glenhaven,Lake County,North State & Sierra,81,23,43,56.5,,,6.8,0.0,43.5,99.6,100.0,Extreme
+95444,Graton,Sonoma County,Bay Area,625,283,283,84.1,105179,801000,56.9,79.9,0.0,92.9,0.0,High
+95445,Gualala,Mendocino County,North State & Sierra,2766,926,1368,73.9,127206,707200,42.1,73.7,4.4,97.1,100.0,Extreme
+95446,Guerneville,Sonoma County,Bay Area,4607,2374,3252,68.2,85833,610600,53.2,58.9,8.1,95.7,8.7,Extreme
+95448,Healdsburg,Sonoma County,Bay Area,16077,6741,7716,63.6,105120,1048300,46.5,69.3,1.2,82.4,13.2,High
+95449,Hopland,Mendocino County,North State & Sierra,1763,541,697,43.8,90469,640600,36.0,80.0,8.5,99.4,100.0,Extreme
+95450,Jenner,Sonoma County,Bay Area,224,114,311,81.6,123125,871100,65.1,51.8,6.1,94.7,22.8,High
+95451,Kelseyville,Lake County,North State & Sierra,12592,5074,6401,72.9,62568,352000,46.8,67.5,1.9,99.3,100.0,Extreme
+95452,Kenwood,Sonoma County,Bay Area,1762,620,757,70.6,118986,948400,35.6,68.7,0.0,97.3,100.0,Extreme
+95453,Lakeport,Lake County,North State & Sierra,11741,4587,5443,78.2,71419,403300,42.5,62.3,6.1,97.2,56.9,Extreme
+95454,Laytonville,Mendocino County,North State & Sierra,1670,814,1057,78.3,42447,393700,59.0,39.9,12.8,98.8,100.0,Extreme
+95456,Little River,Mendocino County,North State & Sierra,860,420,776,61.4,63750,539100,55.6,63.3,3.6,96.9,100.0,Extreme
+95457,Lower Lake,Lake County,North State & Sierra,3122,1361,1689,73.3,63594,488800,54.8,63.4,7.3,99.2,100.0,Extreme
+95458,Lucerne,Lake County,North State & Sierra,3638,1559,2152,70.1,57674,249500,43.0,70.0,11.7,98.2,100.0,Extreme
+95459,Manchester,Mendocino County,North State & Sierra,761,334,557,53.3,68700,710400,45.4,81.7,0.0,97.1,100.0,Extreme
+95460,Mendocino,Mendocino County,North State & Sierra,2199,1136,1451,74.2,73576,708200,66.6,60.7,0.9,97.0,97.8,Extreme
+95461,Middletown,Lake County,North State & Sierra,3422,1176,1453,68.5,78667,387400,45.5,75.9,1.3,99.4,100.0,Extreme
+95462,Monte Rio,Sonoma County,Bay Area,1058,583,960,85.6,85536,680900,62.7,65.0,0.0,96.0,67.0,Extreme
+95463,Navarro,Mendocino County,North State & Sierra,14,7,67,100.0,,,51.0,100.0,0.0,98.9,100.0,Extreme
+95464,Nice,Lake County,North State & Sierra,2484,989,1347,65.5,61705,155100,40.3,64.7,6.4,98.5,100.0,Extreme
+95465,Occidental,Sonoma County,Bay Area,1203,545,1091,77.4,120781,1079500,57.7,69.5,6.8,96.6,82.4,Extreme
+95466,Philo,Mendocino County,North State & Sierra,722,280,459,68.6,108013,672400,44.7,66.8,5.0,98.7,100.0,Extreme
+95467,Hidden Valley Lake,Lake County,North State & Sierra,5778,2242,2550,88.2,84152,393100,52.2,66.2,1.2,99.0,100.0,Extreme
+95468,Point Arena,Mendocino County,North State & Sierra,2037,680,772,69.1,115955,489900,39.6,73.8,1.3,97.1,100.0,Extreme
+95469,Potter Valley,Mendocino County,North State & Sierra,1315,560,871,75.5,82683,529200,51.9,77.7,0.0,98.7,100.0,Extreme
+95470,Redwood Valley,Mendocino County,North State & Sierra,6226,2206,2445,70.4,76250,627500,35.6,68.4,1.9,98.3,100.0,Extreme
+95471,Rio Nido,Sonoma County,Bay Area,394,286,498,76.2,,603400,54.5,17.5,0.0,96.0,0.0,Extreme
+95472,Sebastopol,Sonoma County,Bay Area,28747,11734,12612,73.1,108925,1020100,50.7,69.5,5.3,93.9,29.6,High
+95476,Sonoma,Sonoma County,Bay Area,35196,15072,17223,67.2,105374,896900,52.1,62.1,3.9,86.9,20.0,High
+95480,Stewarts Point,Sonoma County,Bay Area,8,3,4,66.7,,,29.0,33.3,0.0,97.2,100.0,Extreme
+95482,Ukiah,Mendocino County,North State & Sierra,33164,11789,13014,55.3,69772,491300,39.6,56.1,11.1,90.8,43.6,High
+95485,Upper Lake,Lake County,North State & Sierra,3242,1274,1355,73.8,104667,370100,42.7,71.1,6.1,99.0,100.0,Extreme
+95486,Villa Grande,Sonoma County,Bay Area,17,17,17,29.4,,,,29.4,0.0,95.4,0.0,Extreme
+95488,Westport,Mendocino County,North State & Sierra,226,193,302,96.9,,,63.3,13.0,0.0,98.8,100.0,Extreme
+95490,Willits,Mendocino County,North State & Sierra,14677,5701,6324,65.2,79594,392700,44.0,57.4,6.8,98.1,100.0,Extreme
+95492,Windsor,Sonoma County,Bay Area,27429,9627,10128,76.4,134211,810200,42.4,73.7,3.9,64.1,0.5,Moderate
+95493,Witter Springs,Lake County,North State & Sierra,228,78,88,100.0,74531,625000,45.2,100.0,0.0,99.3,100.0,Extreme
+95494,Yorkville,Mendocino County,North State & Sierra,130,77,111,24.7,58650,,50.1,23.4,0.0,97.7,100.0,Extreme
+95497,The Sea Ranch,Sonoma County,Bay Area,1275,692,1853,95.2,138125,1381800,70.3,60.3,7.4,89.4,0.0,High
+95501,Eureka,Humboldt County,North State & Sierra,22890,9264,10545,41.0,54137,412300,39.5,45.4,12.1,51.1,0.0,Moderate
+95503,Eureka,Humboldt County,North State & Sierra,25054,9982,10677,69.5,71855,444700,41.4,57.1,5.8,75.3,0.0,Moderate
+95511,Alderpoint,Humboldt County,North State & Sierra,71,37,57,100.0,,,,100.0,0.0,97.8,100.0,Extreme
+95514,Blocksburg,Humboldt County,North State & Sierra,85,24,95,100.0,,,46.7,100.0,0.0,97.8,100.0,Extreme
+95519,Mckinleyville,Humboldt County,North State & Sierra,18728,7429,8152,64.2,73280,469400,41.7,67.7,1.2,74.3,0.0,Moderate
+95521,Arcata,Humboldt County,North State & Sierra,21980,9225,10198,40.2,53114,501000,29.2,50.9,6.9,63.9,0.0,Moderate
+95524,Bayside,Humboldt County,North State & Sierra,1634,658,671,80.1,87500,601600,46.7,76.6,0.0,89.0,0.0,High
+95525,Blue Lake,Humboldt County,North State & Sierra,1441,761,895,57.0,57379,478600,59.4,62.5,4.7,96.1,9.6,Extreme
+95526,Bridgeville,Humboldt County,North State & Sierra,745,272,440,62.9,39583,280600,50.9,68.8,0.0,96.8,100.0,Extreme
+95527,Burnt Ranch,Trinity County,North State & Sierra,622,226,419,81.9,76667,337500,56.5,64.6,0.0,99.6,100.0,Extreme
+95528,Carlotta,Humboldt County,North State & Sierra,1286,527,651,81.2,55481,506300,54.2,67.7,3.6,96.6,100.0,Extreme
+95531,Crescent City,Del Norte County,North State & Sierra,22291,7708,8919,66.6,67458,351400,39.9,61.9,9.8,77.2,6.0,Moderate
+95536,Ferndale,Humboldt County,North State & Sierra,3050,1307,1610,65.5,73375,566000,51.7,65.5,7.2,94.9,0.0,High
+95537,Fields Landing,Humboldt County,North State & Sierra,532,128,168,31.2,78686,435500,27.3,85.9,0.0,91.3,0.0,High
+95538,Fort Dick,Del Norte County,North State & Sierra,1158,367,400,97.0,67024,292900,63.1,90.5,0.0,94.3,0.0,High
+95540,Fortuna,Humboldt County,North State & Sierra,14469,5689,6059,56.4,63695,389500,39.1,63.3,4.9,84.9,2.1,High
+95542,Garberville,Humboldt County,North State & Sierra,2463,1202,1414,66.6,46104,395500,48.8,50.1,11.2,97.2,89.9,Extreme
+95543,Gasquet,Del Norte County,North State & Sierra,523,322,456,94.1,50203,195000,43.2,65.8,2.8,98.1,100.0,Extreme
+95545,Honeydew,Humboldt County,North State & Sierra,194,55,99,80.0,,576900,43.6,70.9,3.6,95.1,0.0,Extreme
+95546,Hoopa,Humboldt County,North State & Sierra,2397,776,1012,75.1,61607,253400,32.1,66.0,5.4,98.1,100.0,Extreme
+95547,Hydesville,Humboldt County,North State & Sierra,1263,491,558,91.9,96827,481100,52.4,91.6,1.4,92.6,56.3,Extreme
+95548,Klamath,Del Norte County,North State & Sierra,1024,346,529,75.1,43333,215400,36.2,56.4,4.0,94.4,2.7,High
+95549,Kneeland,Humboldt County,North State & Sierra,1024,333,358,80.8,95179,651600,36.2,84.7,0.0,94.2,19.1,High
+95550,Korbel,Humboldt County,North State & Sierra,140,68,115,45.6,104063,2000001,28.9,97.1,0.0,94.4,0.0,High
+95551,Loleta,Humboldt County,North State & Sierra,1880,711,792,41.4,64519,558100,34.9,61.6,2.8,91.7,0.0,High
+95552,Mad River,Trinity County,North State & Sierra,586,223,529,34.1,77796,,57.4,31.8,3.1,97.9,70.0,Extreme
+95553,Miranda,Humboldt County,North State & Sierra,789,317,459,84.2,41450,446200,34.3,72.6,0.0,96.7,79.4,Extreme
+95554,Myers Flat,Humboldt County,North State & Sierra,368,137,167,78.1,33125,594800,28.6,41.6,36.5,97.8,100.0,Extreme
+95555,Orick,Humboldt County,North State & Sierra,216,115,208,48.7,39583,433300,60.8,43.5,13.9,95.7,21.9,Extreme
+95556,Orleans,Humboldt County,North State & Sierra,949,333,377,71.8,,311300,33.1,83.8,1.5,99.2,100.0,Extreme
+95558,Petrolia,Humboldt County,North State & Sierra,230,125,203,69.6,51719,566200,50.6,58.4,0.0,94.7,0.0,High
+95559,Phillipsville,Humboldt County,North State & Sierra,41,41,91,0.0,,,,0.0,0.0,97.8,100.0,Extreme
+95560,Redway,Humboldt County,North State & Sierra,1213,611,883,33.6,23720,391500,47.0,60.9,0.0,96.7,100.0,Extreme
+95562,Rio Dell,Humboldt County,North State & Sierra,3422,1518,1694,57.9,42975,305000,36.0,56.5,6.9,95.1,0.0,Extreme
+95563,Salyer,Trinity County,North State & Sierra,577,161,338,50.3,62893,407100,43.5,87.0,0.0,99.6,100.0,Extreme
+95564,Samoa,Humboldt County,North State & Sierra,444,171,219,49.7,78750,480800,44.7,59.6,0.0,72.8,0.0,Moderate
+95565,Scotia,Humboldt County,North State & Sierra,764,275,366,56.0,57083,364600,36.8,58.9,0.0,95.1,0.0,Extreme
+95567,Smith River,Del Norte County,North State & Sierra,2058,751,898,79.0,102734,373100,38.4,72.8,0.4,98.1,100.0,Extreme
+95568,Somes Bar,Siskiyou County,North State & Sierra,223,25,50,60.0,,282100,35.4,52.0,20.0,99.4,100.0,Extreme
+95569,Redcrest,Humboldt County,North State & Sierra,99,65,110,66.2,,287500,72.4,43.1,0.0,97.0,68.8,Extreme
+95570,Trinidad,Humboldt County,North State & Sierra,2640,1171,1556,71.1,74777,635400,47.7,66.2,1.2,94.5,0.0,High
+95571,Weott,Humboldt County,North State & Sierra,104,49,76,0.0,,,37.9,100.0,0.0,95.2,3.7,Extreme
+95573,Willow Creek,Humboldt County,North State & Sierra,1089,618,1031,62.1,47258,388100,60.7,79.3,3.4,99.2,100.0,Extreme
+95585,Leggett,Mendocino County,North State & Sierra,522,218,324,45.9,36190,,46.3,33.5,12.4,98.8,100.0,Extreme
+95589,Whitethorn,Humboldt County,North State & Sierra,1115,574,1104,71.4,43040,450000,52.7,39.5,11.5,96.6,53.0,Extreme
+95595,Zenia,Trinity County,North State & Sierra,133,74,126,63.5,28704,553600,56.6,17.6,0.0,99.9,100.0,Extreme
+95601,Amador City,Amador County,North State & Sierra,294,152,188,75.7,94023,448700,45.1,24.3,0.7,99.1,100.0,Extreme
+95602,Auburn,Placer County,Sacramento Region,19701,7597,8182,80.1,97466,688500,51.9,77.3,3.2,97.7,69.6,Extreme
+95603,Auburn,Placer County,Sacramento Region,28432,11738,12467,69.6,85357,650500,48.6,63.9,4.8,96.2,47.2,Extreme
+95604,Auburn,Placer County,Sacramento Region,27,13,79,0.0,,,,100.0,0.0,92.3,0.0,High
+95605,West Sacramento,Yolo County,Sacramento Region,14896,4925,5684,43.3,71924,428900,32.1,53.3,10.7,5.7,0.0,Low
+95606,Brooks,Yolo County,Sacramento Region,232,105,107,94.3,,2000001,64.9,100.0,0.0,98.4,100.0,Extreme
+95607,Capay,Yolo County,Sacramento Region,330,133,133,78.9,149236,495000,63.2,70.7,0.0,98.4,100.0,Extreme
+95608,Carmichael,Sacramento County,Sacramento Region,61440,25577,27195,52.7,86563,599100,42.9,57.6,7.1,24.0,0.0,Low
+95610,Citrus Heights,Sacramento County,Sacramento Region,46928,17478,18133,52.9,83327,485900,36.6,60.0,4.7,11.0,0.0,Low
+95612,Clarksburg,Yolo County,Sacramento Region,1865,486,538,43.6,104063,1023300,41.6,81.9,2.3,84.8,8.0,High
+95613,Coloma,El Dorado County,Sacramento Region,29,14,39,100.0,,,,100.0,0.0,99.9,100.0,Extreme
+95614,Cool,El Dorado County,Sacramento Region,3954,1596,1691,94.5,133426,584600,52.1,83.4,1.2,99.7,100.0,Extreme
+95615,Courtland,Sacramento County,Sacramento Region,918,381,381,55.6,73406,729400,54.7,33.6,7.3,79.2,0.0,Moderate
+95616,Davis,Yolo County,Sacramento Region,53630,18459,20176,35.9,74359,895600,23.0,49.3,11.3,25.7,0.1,Low
+95618,Davis,Yolo County,Sacramento Region,26267,9831,10531,55.8,115591,867400,31.9,66.4,3.7,22.2,0.0,Low
+95619,Diamond Springs,El Dorado County,Sacramento Region,4974,2208,2455,62.9,66429,373900,51.1,59.7,6.3,99.0,100.0,Extreme
+95620,Dixon,Solano County,Bay Area,22223,7651,8080,62.1,103054,619800,35.0,75.7,4.8,52.6,4.7,Moderate
+95621,Citrus Heights,Sacramento County,Sacramento Region,42442,16952,17556,68.1,80901,432500,40.1,60.1,4.0,10.6,0.0,Low
+95623,El Dorado,El Dorado County,Sacramento Region,4844,1653,1705,80.5,109102,601800,47.5,84.0,3.7,99.1,100.0,Extreme
+95624,Elk Grove,Sacramento County,Sacramento Region,67630,20437,20827,77.3,125332,633300,39.4,78.5,3.6,65.0,0.2,Moderate
+95625,Elmira,Solano County,Bay Area,319,146,146,26.7,86349,,29.0,100.0,0.0,94.9,0.0,High
+95626,Elverta,Sacramento County,Sacramento Region,5595,1855,1992,78.9,90897,467000,44.3,83.2,0.8,91.0,0.0,High
+95627,Esparto,Yolo County,Sacramento Region,3999,1162,1482,78.1,101994,457700,35.5,74.4,0.9,97.6,81.9,Extreme
+95628,Fair Oaks,Sacramento County,Sacramento Region,44855,17008,17570,71.6,115803,651400,43.3,67.8,3.0,36.7,0.0,Low
+95629,Fiddletown,Amador County,North State & Sierra,813,355,463,92.4,90469,618900,51.7,78.0,2.8,99.2,100.0,Extreme
+95630,Folsom,Sacramento County,Sacramento Region,79484,29917,30822,69.9,139642,755200,41.1,68.3,3.5,73.2,19.2,Moderate
+95631,Foresthill,Placer County,Sacramento Region,6946,2705,2784,87.7,104402,496900,43.6,77.4,5.1,99.8,100.0,Extreme
+95632,Galt,Sacramento County,Sacramento Region,32493,10275,10712,76.1,102239,522200,38.4,76.2,4.2,79.9,2.6,Moderate
+95633,Garden Valley,El Dorado County,Sacramento Region,2653,1083,1160,90.0,74258,434200,44.2,84.6,1.0,99.6,100.0,Extreme
+95634,Georgetown,El Dorado County,Sacramento Region,3536,1684,1993,82.7,57328,361300,59.5,60.3,4.3,99.5,100.0,Extreme
+95635,Greenwood,El Dorado County,Sacramento Region,1298,460,503,93.0,101250,485200,49.5,68.9,0.0,99.9,100.0,Extreme
+95636,Grizzly Flats,El Dorado County,Sacramento Region,1410,476,603,91.8,92004,384400,44.3,85.5,0.0,99.8,100.0,Extreme
+95637,Guinda,Yolo County,Sacramento Region,402,203,218,71.9,,1031300,57.9,72.4,0.0,98.4,100.0,Extreme
+95638,Herald,Sacramento County,Sacramento Region,2517,904,920,85.5,91500,713600,47.9,68.8,11.8,97.6,97.6,Extreme
+95639,Hood,Sacramento County,Sacramento Region,317,75,75,81.3,,,21.7,65.3,0.0,79.2,0.0,Moderate
+95640,Ione,Amador County,North State & Sierra,13926,4182,4305,84.1,97000,450500,41.6,71.1,5.1,98.7,100.0,Extreme
+95641,Isleton,Sacramento County,Sacramento Region,2214,809,1097,80.8,74886,246700,52.0,68.6,0.0,85.6,0.0,High
+95642,Jackson,Amador County,North State & Sierra,7135,3205,3582,66.8,81438,456100,51.0,63.6,8.8,99.1,100.0,Extreme
+95645,Knights Landing,Yolo County,Sacramento Region,1314,477,505,78.6,61652,411600,36.3,87.0,7.3,88.5,0.0,High
+95646,Kirkwood,Alpine County,North State & Sierra,218,60,715,73.3,,783300,53.3,56.7,0.0,99.2,100.0,Extreme
+95648,Lincoln,Placer County,Sacramento Region,57459,21742,22613,84.3,112333,657800,43.2,67.9,2.2,77.2,10.1,Moderate
+95650,Loomis,Placer County,Sacramento Region,13405,5222,5449,90.6,117912,751700,45.6,77.1,1.6,96.3,88.1,Extreme
+95651,Lotus,El Dorado County,Sacramento Region,729,290,305,61.7,103537,597200,44.5,55.9,23.8,99.8,100.0,Extreme
+95652,Mcclellan,Sacramento County,Sacramento Region,1486,487,487,0.0,23750,,25.2,31.6,13.8,64.6,0.0,Moderate
+95653,Madison,Yolo County,Sacramento Region,805,235,257,93.6,,344400,36.9,44.3,0.0,98.4,100.0,Extreme
+95655,Mather,Sacramento County,Sacramento Region,4901,1570,1570,77.3,143958,587800,35.3,64.9,13.8,88.5,0.0,High
+95658,Newcastle,Placer County,Sacramento Region,5894,2241,2399,91.8,126581,837700,49.4,79.8,3.6,98.3,100.0,Extreme
+95659,Nicolaus,Sutter County,Sacramento Region,617,248,281,71.4,68929,536900,39.3,68.1,2.0,92.2,0.0,High
+95660,North Highlands,Sacramento County,Sacramento Region,35451,10820,11422,62.0,68235,356200,33.3,63.1,7.9,10.4,0.0,Low
+95661,Roseville,Placer County,Sacramento Region,32589,13193,13777,62.7,105925,687800,43.5,62.6,6.3,38.4,0.0,Low
+95662,Orangevale,Sacramento County,Sacramento Region,32600,12464,13115,75.0,96689,558300,42.1,69.7,4.9,12.4,0.0,Low
+95663,Penryn,Placer County,Sacramento Region,3090,1155,1203,89.2,155917,960800,50.4,76.8,5.0,97.3,99.0,Extreme
+95664,Pilot Hill,El Dorado County,Sacramento Region,1341,657,657,93.8,117901,506500,61.9,85.7,0.0,99.6,100.0,Extreme
+95665,Pine Grove,Amador County,North State & Sierra,4465,1871,2205,83.8,87366,418900,51.2,75.4,1.0,99.3,100.0,Extreme
+95666,Pioneer,Amador County,North State & Sierra,5994,2581,3560,88.1,84311,386500,56.4,75.8,2.8,99.6,100.0,Extreme
+95667,Placerville,El Dorado County,Sacramento Region,36830,14975,16103,75.3,89938,547600,49.1,69.2,4.6,99.1,100.0,Extreme
+95668,Pleasant Grove,Sutter County,Sacramento Region,515,216,258,77.8,90750,667900,56.3,78.7,0.0,93.4,0.0,High
+95669,Plymouth,Amador County,North State & Sierra,2118,905,1008,92.2,89609,582900,50.7,70.5,1.9,98.9,100.0,Extreme
+95670,Rancho Cordova,Sacramento County,Sacramento Region,58819,22011,22973,55.5,89484,491100,37.7,61.1,6.6,27.2,0.0,Low
+95671,Represa,Sacramento County,Sacramento Region,4432,46,46,0.0,232700,,40.0,87.0,0.0,79.5,0.0,Moderate
+95672,Rescue,El Dorado County,Sacramento Region,5764,1979,2017,94.4,146769,767400,46.4,81.9,1.0,98.7,100.0,Extreme
+95673,Rio Linda,Sacramento County,Sacramento Region,16512,5251,5407,72.5,95824,459100,39.8,75.2,3.6,71.4,0.0,Moderate
+95674,Rio Oso,Sutter County,Sacramento Region,998,318,366,70.1,104750,542800,42.4,73.9,2.8,92.2,0.0,High
+95675,River Pines,Amador County,North State & Sierra,374,80,99,100.0,,316700,36.3,77.5,0.0,99.1,100.0,Extreme
+95676,Robbins,Sutter County,Sacramento Region,10,4,18,100.0,,,32.7,100.0,0.0,65.8,0.0,Moderate
+95677,Rocklin,Placer County,Sacramento Region,29206,10981,11364,66.3,105713,654200,38.5,69.6,4.5,63.8,3.1,Moderate
+95678,Roseville,Placer County,Sacramento Region,45346,18028,18748,55.1,100554,570600,38.2,61.0,6.9,19.1,0.0,Low
+95679,Rumsey,Yolo County,Sacramento Region,80,27,27,100.0,,,40.2,100.0,0.0,98.4,100.0,Extreme
+95680,Ryde,Sacramento County,Sacramento Region,11,11,47,100.0,,,,0.0,0.0,79.2,0.0,Moderate
+95681,Sheridan,Placer County,Sacramento Region,1267,336,336,78.9,95978,494400,28.7,90.5,0.0,99.1,98.8,Extreme
+95682,Shingle Springs,El Dorado County,Sacramento Region,30065,11546,12098,75.8,122436,722800,45.3,75.5,2.6,96.1,52.5,Extreme
+95683,Sloughhouse,Sacramento County,Sacramento Region,6515,2726,2742,96.4,140457,718900,56.3,76.4,4.0,97.1,100.0,Extreme
+95684,Somerset,El Dorado County,Sacramento Region,2708,1259,1530,82.2,87175,621700,55.5,69.6,2.1,99.7,100.0,Extreme
+95685,Sutter Creek,Amador County,North State & Sierra,4690,2092,2447,70.0,83878,569100,53.9,70.0,0.9,99.2,100.0,Extreme
+95686,Thornton,San Joaquin County,San Joaquin Valley,1171,395,429,57.2,52109,448900,36.1,69.1,11.1,81.6,0.0,High
+95687,Vacaville,Solano County,Bay Area,69390,22802,23876,66.9,109566,606300,38.5,68.6,3.6,58.4,0.7,Moderate
+95688,Vacaville,Solano County,Bay Area,40201,14158,14915,70.7,118186,687100,39.0,74.3,4.4,68.3,9.0,Moderate
+95689,Volcano,Amador County,North State & Sierra,1429,615,825,92.5,122936,454400,58.4,84.7,2.0,99.6,100.0,Extreme
+95690,Walnut Grove,Sacramento County,Sacramento Region,2431,758,857,46.2,90104,682200,31.8,68.5,0.0,86.5,40.2,High
+95691,West Sacramento,Yolo County,Sacramento Region,40143,14499,15223,65.8,104750,555800,36.0,61.8,6.7,52.8,0.0,Moderate
+95692,Wheatland,Yuba County,Sacramento Region,5032,1836,1845,67.3,95877,471800,39.1,66.7,5.3,92.7,9.2,High
+95693,Wilton,Sacramento County,Sacramento Region,7961,2275,2532,91.4,161354,918300,44.6,86.5,3.2,98.0,79.5,Extreme
+95694,Winters,Yolo County,Sacramento Region,10759,3503,3703,63.9,109696,658400,37.2,76.8,6.5,87.7,30.9,High
+95695,Woodland,Yolo County,Sacramento Region,37702,14079,15136,54.5,79486,547400,37.9,63.2,8.2,26.8,1.2,Low
+95697,Yolo,Yolo County,Sacramento Region,800,201,201,0.0,,,15.5,100.0,0.0,93.9,0.0,High
+95698,Zamora,Yolo County,Sacramento Region,217,122,122,91.0,143182,851700,73.0,85.2,0.0,93.9,0.0,High
+95699,Drytown,Amador County,North State & Sierra,147,57,63,93.0,250001,856000,70.2,100.0,0.0,99.1,100.0,Extreme
+95701,Alta,Placer County,Sacramento Region,984,393,577,91.9,98125,503600,52.3,77.1,0.8,99.7,100.0,Extreme
+95703,Applegate,Placer County,Sacramento Region,2589,873,925,84.7,100214,603900,45.1,84.5,5.5,99.1,100.0,Extreme
+95709,Camino,El Dorado County,Sacramento Region,6000,2364,2514,72.8,79780,578700,49.8,83.6,0.7,99.1,100.0,Extreme
+95713,Colfax,Placer County,Sacramento Region,9448,3653,3927,78.9,87839,487000,46.1,73.9,4.2,99.6,100.0,Extreme
+95714,Dutch Flat,Placer County,Sacramento Region,394,177,293,77.4,95795,478400,57.3,68.9,0.0,99.7,100.0,Extreme
+95715,Emigrant Gap,Placer County,Sacramento Region,61,30,127,100.0,163625,365200,50.7,33.3,66.7,99.7,100.0,Extreme
+95717,Gold Run,Placer County,Sacramento Region,55,33,70,54.5,,425000,68.0,54.5,21.2,99.8,100.0,Extreme
+95720,Kyburz,El Dorado County,Sacramento Region,29,20,325,70.0,,,65.4,45.0,25.0,99.6,100.0,Extreme
+95722,Meadow Vista,Placer County,Sacramento Region,4092,1712,1890,91.2,125625,697800,60.1,83.7,1.5,98.7,100.0,Extreme
+95726,Pollock Pines,El Dorado County,Sacramento Region,8450,3611,4567,81.3,91128,424200,44.8,72.9,6.6,99.3,100.0,Extreme
+95728,Soda Springs,Placer County,Sacramento Region,516,245,1161,89.8,89375,949100,53.9,64.9,0.0,98.8,100.0,Extreme
+95735,Twin Bridges,El Dorado County,Sacramento Region,51,23,613,100.0,111125,541700,46.7,82.6,0.0,99.7,100.0,Extreme
+95736,Weimar,Placer County,Sacramento Region,331,115,159,0.0,190670,,37.1,87.8,0.0,99.2,100.0,Extreme
+95742,Rancho Cordova,Sacramento County,Sacramento Region,17768,5360,5509,86.6,155855,634200,37.2,73.0,4.3,86.3,1.4,High
+95746,Granite Bay,Placer County,Sacramento Region,22985,7955,8402,88.8,183305,1099500,48.0,86.2,3.2,74.1,26.0,High
+95747,Roseville,Placer County,Sacramento Region,83902,30086,30845,80.9,136750,687600,40.2,68.0,4.4,55.2,0.0,Moderate
+95757,Elk Grove,Sacramento County,Sacramento Region,56764,16184,16590,73.5,138198,677800,38.3,78.1,2.9,48.2,0.0,Moderate
+95758,Elk Grove,Sacramento County,Sacramento Region,65725,21937,22691,69.7,117017,582000,40.2,69.1,4.5,14.8,0.0,Low
+95762,El Dorado Hills,El Dorado County,Sacramento Region,47657,17080,17673,86.8,165467,916000,45.7,78.2,2.4,96.9,68.6,Extreme
+95765,Rocklin,Placer County,Sacramento Region,43871,14882,15541,69.6,138090,732500,38.4,73.3,3.2,59.5,0.0,Moderate
+95776,Woodland,Yolo County,Sacramento Region,28718,8682,8888,68.1,106698,575700,34.4,72.0,4.7,38.3,0.0,Low
+95811,Sacramento,Sacramento County,Sacramento Region,8810,4911,5219,18.9,80827,761000,34.3,30.2,15.1,30.7,0.0,Low
+95814,Sacramento,Sacramento County,Sacramento Region,12355,7154,8266,11.2,58284,633200,37.7,14.8,40.3,12.7,0.0,Low
+95815,Sacramento,Sacramento County,Sacramento Region,26658,9668,10603,39.8,60097,346500,33.7,48.3,10.7,16.4,0.0,Low
+95816,Sacramento,Sacramento County,Sacramento Region,19225,11109,11694,29.4,90839,839700,37.0,37.9,14.0,8.8,0.0,Low
+95817,Sacramento,Sacramento County,Sacramento Region,14219,6754,7195,37.3,64212,543900,34.8,41.9,12.5,0.0,0.0,Low
+95818,Sacramento,Sacramento County,Sacramento Region,22581,10916,11812,54.1,118196,790200,40.5,51.9,6.8,0.0,0.0,Low
+95819,Sacramento,Sacramento County,Sacramento Region,19737,8417,9047,70.9,136306,753500,37.9,57.3,5.3,24.1,0.0,Low
+95820,Sacramento,Sacramento County,Sacramento Region,35410,13511,14136,58.8,78436,416900,37.2,58.4,6.7,9.9,0.0,Low
+95821,Sacramento,Sacramento County,Sacramento Region,38064,15500,16427,48.5,64963,496500,38.2,48.7,11.0,11.9,0.0,Low
+95822,Sacramento,Sacramento County,Sacramento Region,46569,16695,17407,63.2,86801,466000,38.1,62.7,7.1,9.2,0.0,Low
+95823,Sacramento,Sacramento County,Sacramento Region,83607,24323,25255,47.6,66895,401500,33.3,60.9,8.7,17.0,0.0,Low
+95824,Sacramento,Sacramento County,Sacramento Region,33083,9245,9658,44.5,56477,345300,31.2,54.8,12.0,11.5,0.2,Low
+95825,Sacramento,Sacramento County,Sacramento Region,36156,15717,16739,25.0,64602,440200,31.9,36.6,9.4,9.4,0.0,Low
+95826,Sacramento,Sacramento County,Sacramento Region,40165,15877,16683,55.5,82127,463300,33.9,57.4,5.3,9.8,0.9,Low
+95827,Sacramento,Sacramento County,Sacramento Region,21742,7542,7940,63.3,85841,437300,36.3,64.5,6.4,16.5,1.3,Low
+95828,Sacramento,Sacramento County,Sacramento Region,61686,17912,18462,64.1,81778,409700,36.6,68.7,6.8,22.3,1.9,Low
+95829,Sacramento,Sacramento County,Sacramento Region,31865,9397,9566,75.7,105395,621100,37.3,77.6,3.0,64.0,13.6,Moderate
+95830,Sacramento,Sacramento County,Sacramento Region,695,188,224,90.4,135938,952200,38.7,80.3,9.0,91.2,19.2,High
+95831,Sacramento,Sacramento County,Sacramento Region,43545,19059,20038,56.7,100751,642700,41.9,56.4,4.9,11.6,0.0,Low
+95832,Sacramento,Sacramento County,Sacramento Region,12850,3280,3428,61.8,82318,399600,33.1,75.7,6.8,51.1,0.0,Moderate
+95833,Sacramento,Sacramento County,Sacramento Region,42265,15712,16875,51.2,97792,464400,35.3,59.7,4.2,21.2,0.0,Low
+95834,Sacramento,Sacramento County,Sacramento Region,36245,13070,14118,52.4,101260,557600,35.3,55.5,5.2,35.3,0.0,Low
+95835,Sacramento,Sacramento County,Sacramento Region,42004,15071,15908,69.9,114468,607200,38.2,65.0,3.6,39.8,0.0,Low
+95837,Sacramento,Sacramento County,Sacramento Region,317,128,128,75.8,193500,1162500,55.6,93.0,0.8,72.3,0.0,Moderate
+95838,Sacramento,Sacramento County,Sacramento Region,40677,12016,12315,56.2,68349,389200,32.9,63.2,6.3,14.7,0.0,Low
+95841,Sacramento,Sacramento County,Sacramento Region,20500,8232,8769,34.7,61054,424500,35.2,51.0,8.8,5.3,0.0,Low
+95842,Sacramento,Sacramento County,Sacramento Region,34034,11660,12117,50.5,68276,413700,33.7,57.7,8.7,7.2,0.0,Low
+95843,Antelope,Sacramento County,Sacramento Region,47695,15019,15278,69.5,98274,489700,36.7,69.1,4.0,38.4,0.0,Low
+95864,Sacramento,Sacramento County,Sacramento Region,25500,10041,10530,75.1,127953,810400,44.6,69.9,3.2,30.1,0.0,Low
+95901,Marysville,Yuba County,Sacramento Region,37732,13380,14119,54.0,69776,381000,34.5,61.7,8.8,77.7,17.8,Moderate
+95903,Beale Afb,Yuba County,Sacramento Region,2242,662,716,4.7,60122,546100,22.7,53.0,3.5,96.7,100.0,Extreme
+95910,Alleghany,Sierra County,North State & Sierra,19,10,51,0.0,,,,0.0,0.0,99.9,100.0,Extreme
+95912,Arbuckle,Colusa County,North State & Sierra,4855,1580,1679,69.1,86457,435800,35.4,71.9,1.1,90.9,0.8,High
+95913,Artois,Glenn County,North State & Sierra,377,120,120,87.5,121912,196500,40.3,87.5,0.0,99.5,100.0,Extreme
+95914,Bangor,Butte County,North State & Sierra,409,187,275,83.4,102188,439000,66.2,80.2,1.6,99.3,100.0,Extreme
+95916,Berry Creek,Butte County,North State & Sierra,667,272,365,89.3,28333,206000,52.8,75.4,1.1,99.4,100.0,Extreme
+95917,Biggs,Butte County,North State & Sierra,3752,1199,1298,70.6,90563,362800,32.2,73.6,5.8,91.0,0.8,High
+95918,Browns Valley,Yuba County,Sacramento Region,1566,799,871,100.0,56750,579800,64.1,83.4,2.1,99.0,100.0,Extreme
+95919,Brownsville,Yuba County,Sacramento Region,1172,516,738,76.7,,344600,37.9,70.3,8.3,99.6,100.0,Extreme
+95920,Butte City,Glenn County,North State & Sierra,278,135,165,43.0,,273900,30.9,28.9,20.0,91.9,0.0,High
+95922,Camptonville,Yuba County,Sacramento Region,425,279,328,69.2,36528,277100,65.6,62.0,5.0,99.9,100.0,Extreme
+95923,Canyon Dam,Plumas County,North State & Sierra,68,35,212,100.0,,1019700,63.6,100.0,0.0,99.2,100.0,Extreme
+95925,Challenge,Yuba County,Sacramento Region,69,35,35,62.9,,,61.1,74.3,0.0,99.9,100.0,Extreme
+95926,Chico,Butte County,North State & Sierra,40567,17099,18549,40.5,61920,473600,27.3,56.9,6.2,24.3,0.5,Low
+95928,Chico,Butte County,North State & Sierra,37409,16285,17988,42.4,64949,503100,33.5,60.1,7.8,78.2,34.1,High
+95930,Clipper Mills,Butte County,North State & Sierra,463,155,202,15.5,2499,,17.6,38.1,0.0,99.8,100.0,Extreme
+95932,Colusa,Colusa County,North State & Sierra,7701,2994,3106,60.4,66964,389600,40.0,56.7,7.7,79.6,2.3,Moderate
+95934,Crescent Mills,Plumas County,North State & Sierra,63,50,111,100.0,,,75.5,100.0,0.0,99.8,100.0,Extreme
+95935,Dobbins,Yuba County,Sacramento Region,934,302,426,86.4,54110,419000,50.5,73.5,2.0,99.4,100.0,Extreme
+95936,Downieville,Sierra County,North State & Sierra,144,51,286,66.7,,,64.3,43.1,0.0,99.9,100.0,Extreme
+95937,Dunnigan,Yolo County,Sacramento Region,701,392,420,65.3,,164300,66.0,71.7,9.9,95.1,26.3,Extreme
+95938,Durham,Butte County,North State & Sierra,3943,1513,1603,64.6,82974,611700,44.0,72.6,3.3,95.2,1.7,Extreme
+95939,Elk Creek,Glenn County,North State & Sierra,325,167,239,50.3,40568,423500,56.7,52.1,13.2,99.5,100.0,Extreme
+95941,Forbestown,Butte County,North State & Sierra,106,32,63,93.8,,,42.5,6.2,34.4,99.8,100.0,Extreme
+95942,Forest Ranch,Butte County,North State & Sierra,2089,782,1075,97.3,116400,448000,44.0,85.0,0.0,99.3,100.0,Extreme
+95943,Glenn,Glenn County,North State & Sierra,621,273,328,59.3,49744,1173100,41.3,61.9,4.8,90.5,0.0,High
+95944,Goodyears Bar,Sierra County,North State & Sierra,122,122,122,9.8,,,61.3,9.8,29.5,99.9,100.0,Extreme
+95945,Grass Valley,Nevada County,North State & Sierra,27470,12001,12944,57.8,65989,539500,49.5,55.6,8.4,98.3,100.0,Extreme
+95946,Penn Valley,Nevada County,North State & Sierra,9958,4093,4504,84.7,84795,565700,57.0,73.2,4.1,99.1,100.0,Extreme
+95947,Greenville,Plumas County,North State & Sierra,1505,598,819,91.1,82500,339400,47.0,80.1,7.5,99.8,100.0,Extreme
+95948,Gridley,Butte County,North State & Sierra,11200,3836,4285,56.3,60294,354100,35.2,71.9,5.0,92.8,0.0,High
+95949,Grass Valley,Nevada County,North State & Sierra,20552,8380,8905,87.1,98181,550800,53.7,75.7,1.9,98.6,100.0,Extreme
+95950,Grimes,Colusa County,North State & Sierra,287,100,139,55.0,,,57.8,45.0,0.0,94.0,0.0,High
+95951,Hamilton City,Glenn County,North State & Sierra,2698,788,820,63.8,70294,330100,29.4,81.7,1.4,88.5,0.0,High
+95953,Live Oak,Sutter County,Sacramento Region,11028,3420,3613,70.1,74786,376900,38.3,67.3,12.1,86.0,0.0,High
+95954,Magalia,Butte County,North State & Sierra,8165,3353,3939,84.1,61280,292400,48.4,69.2,1.9,98.8,99.2,Extreme
+95955,Maxwell,Colusa County,North State & Sierra,1405,487,541,71.3,,405400,31.7,68.4,1.0,91.9,61.0,Extreme
+95956,Meadow Valley,Plumas County,North State & Sierra,373,186,503,64.0,61324,306400,61.5,68.3,0.0,99.6,100.0,Extreme
+95957,Meridian,Sutter County,Sacramento Region,680,260,325,61.2,78333,336200,45.6,75.0,1.9,69.0,0.0,Moderate
+95959,Nevada City,Nevada County,North State & Sierra,17683,7437,8815,80.5,86524,627100,56.0,70.0,3.1,99.4,100.0,Extreme
+95960,North San Juan,Sierra County,North State & Sierra,540,272,351,57.7,52917,460400,42.5,58.8,12.5,99.9,100.0,Extreme
+95961,Olivehurst,Yuba County,Sacramento Region,33999,10211,10866,73.4,89561,435500,32.6,69.8,4.8,80.8,0.0,High
+95962,Oregon House,Yuba County,Sacramento Region,1110,458,489,77.5,77903,376800,42.5,77.1,0.0,99.0,100.0,Extreme
+95963,Orland,Glenn County,North State & Sierra,16070,5544,6250,63.1,68091,372900,37.2,68.3,4.2,89.1,12.1,High
+95965,Oroville,Butte County,North State & Sierra,21181,7178,8067,62.9,53198,308500,35.7,59.6,9.5,88.5,44.2,High
+95966,Oroville,Butte County,North State & Sierra,28503,11466,13755,73.4,65586,333100,43.6,66.0,5.3,95.4,68.0,Extreme
+95968,Palermo,Butte County,North State & Sierra,1364,608,638,51.2,42000,,47.3,69.9,2.6,98.5,100.0,Extreme
+95969,Paradise,Butte County,North State & Sierra,8339,3764,4128,76.7,69067,455500,57.7,59.0,6.0,96.5,48.8,Extreme
+95970,Princeton,Colusa County,North State & Sierra,453,166,232,68.7,69000,371400,33.4,84.9,0.0,95.2,46.9,Extreme
+95971,Quincy,Plumas County,North State & Sierra,6419,2304,2900,68.3,83269,327100,47.2,65.6,6.0,99.7,100.0,Extreme
+95973,Chico,Butte County,North State & Sierra,39031,15323,16353,62.1,92813,489900,37.6,65.0,4.7,69.9,34.5,High
+95974,Richvale,Butte County,North State & Sierra,98,62,62,100.0,,,76.1,100.0,0.0,90.8,0.0,High
+95975,Rough And Ready,Nevada County,North State & Sierra,1088,517,573,90.9,103216,652600,56.5,74.5,0.0,99.3,100.0,Extreme
+95977,Smartsville,Yuba County,Sacramento Region,1780,710,830,96.1,104545,441700,40.7,72.3,0.0,98.6,100.0,Extreme
+95978,Stirling City,Butte County,North State & Sierra,142,30,64,100.0,,,6.6,100.0,0.0,99.4,100.0,Extreme
+95979,Stonyford,Colusa County,North State & Sierra,558,285,440,56.5,24766,184400,64.1,70.5,4.6,98.9,100.0,Extreme
+95981,Strawberry Valley,Plumas County,North State & Sierra,99,39,256,100.0,91016,325000,63.8,74.4,25.6,99.8,100.0,Extreme
+95982,Sutter,Sutter County,Sacramento Region,2795,1130,1173,79.1,96224,417000,43.1,80.1,1.0,95.7,0.0,Extreme
+95983,Taylorsville,Plumas County,North State & Sierra,302,183,259,32.8,54968,,45.2,56.3,0.0,99.8,100.0,Extreme
+95984,Twain,Plumas County,North State & Sierra,51,51,105,80.4,,,68.6,58.8,0.0,99.7,100.0,Extreme
+95986,Washington,Nevada County,North State & Sierra,115,51,59,68.6,,323900,61.6,49.0,0.0,99.9,100.0,Extreme
+95987,Williams,Colusa County,North State & Sierra,6786,1928,2087,57.7,95122,388700,32.2,69.0,4.2,76.5,32.6,High
+95988,Willows,Glenn County,North State & Sierra,8808,3046,3481,58.6,66339,297200,37.7,66.5,3.8,39.3,8.6,Moderate
+95991,Yuba City,Sutter County,Sacramento Region,42579,14630,15358,50.7,70590,406800,33.7,65.3,5.9,34.6,0.0,Low
+95993,Yuba City,Sutter County,Sacramento Region,39046,12838,13185,68.9,93763,467400,38.8,72.5,4.2,56.0,0.0,Moderate
+96001,Redding,Shasta County,North State & Sierra,33817,13089,14506,61.0,72484,401500,41.5,61.9,8.1,84.9,41.9,High
+96002,Redding,Shasta County,North State & Sierra,33783,12882,13736,60.2,73222,367200,39.6,64.4,5.0,82.7,21.1,High
+96003,Redding,Shasta County,North State & Sierra,44923,18047,20065,58.5,72445,402900,39.6,61.0,7.1,94.8,65.0,Extreme
+96006,Adin,Lassen County,North State & Sierra,512,195,272,76.9,46094,300000,60.4,70.3,0.0,98.3,100.0,Extreme
+96007,Anderson,Shasta County,North State & Sierra,24768,9663,10683,70.4,61357,309700,40.1,59.4,7.7,95.0,71.1,Extreme
+96008,Bella Vista,Shasta County,North State & Sierra,1054,402,413,83.8,92313,345800,52.8,77.6,12.2,99.2,100.0,Extreme
+96009,Bieber,Lassen County,North State & Sierra,307,107,209,82.2,,155600,30.7,82.2,0.0,99.2,100.0,Extreme
+96010,Big Bar,Trinity County,North State & Sierra,212,25,78,100.0,28958,267100,9.5,64.0,0.0,99.6,100.0,Extreme
+96011,Big Bend,Shasta County,North State & Sierra,75,39,92,64.1,25208,,61.9,82.1,0.0,99.9,100.0,Extreme
+96013,Burney,Shasta County,North State & Sierra,3779,1598,2001,61.7,53688,227500,50.8,58.4,9.9,98.9,100.0,Extreme
+96014,Callahan,Siskiyou County,North State & Sierra,307,118,143,66.1,,,52.1,72.0,0.0,99.8,100.0,Extreme
+96015,Canby,Modoc County,North State & Sierra,437,122,209,76.2,45991,530700,70.9,52.5,0.0,99.0,100.0,Extreme
+96016,Cassel,Shasta County,North State & Sierra,193,113,196,100.0,54526,316100,66.8,70.8,0.0,98.3,100.0,Extreme
+96017,Castella,Shasta County,North State & Sierra,122,70,187,68.6,48500,280000,68.2,52.9,0.0,99.8,100.0,Extreme
+96019,Shasta Lake,Shasta County,North State & Sierra,10350,4040,4352,68.2,67446,294600,41.8,65.6,6.5,95.8,24.1,Extreme
+96020,Chester,Plumas County,North State & Sierra,2222,1119,1983,71.6,50489,350200,63.4,55.5,9.7,97.8,100.0,Extreme
+96021,Corning,Tehama County,North State & Sierra,14812,5310,5873,66.0,59592,314000,35.3,62.8,6.9,95.0,61.6,Extreme
+96022,Cottonwood,Tehama County,North State & Sierra,17092,6246,6725,77.2,89338,366700,41.8,77.7,3.2,99.4,100.0,Extreme
+96023,Dorris,Siskiyou County,North State & Sierra,1178,498,552,59.8,47237,171800,40.7,52.0,11.0,95.5,0.0,Extreme
+96024,Douglas City,Trinity County,North State & Sierra,1082,394,518,65.7,43750,350000,42.8,49.5,5.3,99.9,100.0,Extreme
+96025,Dunsmuir,Siskiyou County,North State & Sierra,1906,949,1524,66.9,46036,282900,52.6,56.9,8.1,99.1,100.0,Extreme
+96027,Etna,Siskiyou County,North State & Sierra,1908,813,957,76.6,64308,312700,49.7,70.4,3.9,99.8,100.0,Extreme
+96028,Fall River Mills,Shasta County,North State & Sierra,1526,599,921,71.6,76295,392000,56.1,64.3,10.9,98.0,100.0,Extreme
+96029,Flournoy,Tehama County,North State & Sierra,121,46,54,89.1,85682,525000,42.3,65.2,0.0,99.9,100.0,Extreme
+96031,Forks Of Salmon,Siskiyou County,North State & Sierra,66,40,83,75.0,,180000,67.9,52.5,22.5,99.8,100.0,Extreme
+96032,Fort Jones,Siskiyou County,North State & Sierra,2408,1036,1307,74.4,72951,320100,47.5,81.2,4.4,99.5,100.0,Extreme
+96033,French Gulch,Shasta County,North State & Sierra,172,81,130,86.4,44375,85700,61.3,66.7,9.9,99.9,100.0,Extreme
+96034,Gazelle,Siskiyou County,North State & Sierra,332,148,170,83.1,73750,341900,44.1,78.4,0.0,99.1,100.0,Extreme
+96035,Gerber,Tehama County,North State & Sierra,3326,1421,1572,65.0,49760,237900,44.0,63.3,0.0,97.0,100.0,Extreme
+96037,Greenview,Siskiyou County,North State & Sierra,168,81,81,100.0,117379,342100,45.9,100.0,0.0,99.8,100.0,Extreme
+96038,Grenada,Siskiyou County,North State & Sierra,504,230,253,72.6,59435,439500,51.7,83.0,3.9,99.3,100.0,Extreme
+96039,Happy Camp,Siskiyou County,North State & Sierra,583,279,360,63.8,41813,169700,57.4,54.8,3.6,99.3,100.0,Extreme
+96040,Hat Creek,Shasta County,North State & Sierra,57,22,85,100.0,,,78.3,100.0,0.0,98.4,100.0,Extreme
+96041,Hayfork,Trinity County,North State & Sierra,2889,1223,1590,67.7,,283600,60.4,63.2,13.2,99.9,100.0,Extreme
+96044,Hornbrook,Siskiyou County,North State & Sierra,1143,467,616,78.8,51688,222600,45.7,64.0,3.6,99.1,100.0,Extreme
+96046,Hyampom,Trinity County,North State & Sierra,489,63,76,44.4,,,60.6,100.0,0.0,99.9,100.0,Extreme
+96047,Igo,Shasta County,North State & Sierra,841,341,440,82.1,,356300,47.5,77.7,0.0,99.9,100.0,Extreme
+96048,Junction City,Trinity County,North State & Sierra,1297,319,442,73.7,50521,284000,46.3,60.5,6.6,99.7,100.0,Extreme
+96050,Klamath River,Siskiyou County,North State & Sierra,413,218,247,86.2,40909,283300,63.7,57.8,0.0,99.4,100.0,Extreme
+96051,Lakehead,Shasta County,North State & Sierra,1070,443,853,83.1,69688,360000,58.0,81.3,4.3,99.8,100.0,Extreme
+96052,Lewiston,Trinity County,North State & Sierra,2366,622,929,69.3,37222,289500,30.8,49.5,5.8,99.9,100.0,Extreme
+96054,Lookout,Modoc County,North State & Sierra,183,88,211,83.0,,155200,60.6,79.5,0.0,97.8,100.0,Extreme
+96055,Los Molinos,Tehama County,North State & Sierra,3473,1397,1654,68.1,59798,305200,41.9,72.0,7.9,98.3,100.0,Extreme
+96056,Mcarthur,Lassen County,North State & Sierra,1584,669,925,90.3,61442,375600,55.1,66.7,0.0,98.2,100.0,Extreme
+96057,Mccloud,Siskiyou County,North State & Sierra,1025,510,895,81.4,50179,332800,64.6,66.7,9.0,98.5,100.0,Extreme
+96058,Macdoel,Siskiyou County,North State & Sierra,661,223,323,65.9,47266,143100,39.3,52.9,12.6,95.7,24.0,Extreme
+96059,Manton,Tehama County,North State & Sierra,826,302,470,55.0,,406700,35.8,64.2,0.0,99.6,100.0,Extreme
+96061,Mill Creek,Tehama County,North State & Sierra,59,51,107,15.7,,,62.7,84.3,15.7,99.3,100.0,Extreme
+96062,Millville,Shasta County,North State & Sierra,1243,412,464,89.1,129688,481100,46.2,87.6,1.0,99.2,100.0,Extreme
+96063,Mineral,Tehama County,North State & Sierra,133,66,243,0.0,,,66.3,83.3,0.0,99.3,100.0,Extreme
+96064,Montague,Siskiyou County,North State & Sierra,4665,1809,2115,78.7,61157,262400,42.7,75.8,2.8,98.1,99.9,Extreme
+96065,Montgomery Creek,Shasta County,North State & Sierra,221,98,185,84.7,61250,365200,59.3,54.1,3.1,99.9,100.0,Extreme
+96067,Mount Shasta,Siskiyou County,North State & Sierra,7839,3836,4623,67.3,65000,415400,53.4,63.6,5.6,98.4,100.0,Extreme
+96068,Nubieber,Lassen County,North State & Sierra,94,9,39,22.2,,,35.6,0.0,0.0,99.2,100.0,Extreme
+96069,Oak Run,Shasta County,North State & Sierra,1426,557,640,86.4,71250,381900,49.0,81.5,0.7,99.5,100.0,Extreme
+96071,Old Station,Shasta County,North State & Sierra,20,20,154,100.0,,,,60.0,0.0,98.8,100.0,Extreme
+96073,Palo Cedro,Shasta County,North State & Sierra,5750,2016,2053,90.2,120469,567000,41.6,82.7,0.5,99.1,100.0,Extreme
+96074,Paskenta,Tehama County,North State & Sierra,290,54,70,79.6,51346,177100,35.2,70.4,0.0,99.9,100.0,Extreme
+96075,Paynes Creek,Tehama County,North State & Sierra,221,93,146,33.3,,53200,40.7,28.0,45.2,99.4,100.0,Extreme
+96076,Platina,Trinity County,North State & Sierra,148,53,53,75.5,29156,,56.9,24.5,0.0,99.9,100.0,Extreme
+96078,Proberta,Tehama County,North State & Sierra,454,88,88,100.0,,,20.3,100.0,0.0,96.9,100.0,Extreme
+96080,Red Bluff,Tehama County,North State & Sierra,31554,12340,13376,63.7,66076,343700,39.7,58.6,7.1,94.8,36.4,High
+96084,Round Mountain,Shasta County,North State & Sierra,671,282,354,77.0,60769,279900,45.5,64.9,12.1,99.9,100.0,Extreme
+96085,Scott Bar,Siskiyou County,North State & Sierra,71,39,53,100.0,105179,,59.7,41.0,17.9,99.5,100.0,Extreme
+96086,Seiad Valley,Siskiyou County,North State & Sierra,348,144,204,72.2,88750,319200,54.1,69.4,6.2,99.3,100.0,Extreme
+96087,Shasta,Shasta County,North State & Sierra,899,311,355,100.0,110375,359500,50.4,89.4,0.0,99.9,100.0,Extreme
+96088,Shingletown,Shasta County,North State & Sierra,4239,2113,2677,90.8,65958,292000,59.5,72.7,3.5,99.6,100.0,Extreme
+96090,Tehama,Tehama County,North State & Sierra,366,161,188,74.5,70893,318900,52.1,73.3,4.3,97.4,100.0,Extreme
+96091,Trinity Center,Trinity County,North State & Sierra,932,395,873,95.4,61058,380600,63.3,67.8,5.3,99.8,100.0,Extreme
+96092,Vina,Tehama County,North State & Sierra,327,107,107,83.2,40855,116900,62.4,83.2,0.0,97.6,100.0,Extreme
+96093,Weaverville,Trinity County,North State & Sierra,4320,1690,1959,75.7,65741,339500,55.6,74.5,2.4,99.8,100.0,Extreme
+96094,Weed,Siskiyou County,North State & Sierra,6656,2823,3258,71.0,68103,332300,48.2,65.1,5.1,98.3,100.0,Extreme
+96096,Whitmore,Shasta County,North State & Sierra,577,268,352,87.3,64444,412900,59.6,72.4,2.6,99.3,100.0,Extreme
+96097,Yreka,Siskiyou County,North State & Sierra,9964,4397,4754,62.1,53059,277600,41.9,54.6,8.4,98.0,65.7,Extreme
+96101,Alturas,Modoc County,North State & Sierra,5142,1928,2517,73.0,61680,211200,45.4,61.7,7.5,97.0,27.8,Extreme
+96103,Blairsden Graeagle,Plumas County,North State & Sierra,1112,521,1757,95.6,82589,469400,67.1,78.3,0.0,99.6,100.0,Extreme
+96104,Cedarville,Modoc County,North State & Sierra,713,364,457,71.4,52794,242600,62.0,63.5,0.0,97.5,100.0,Extreme
+96105,Chilcoot,Plumas County,North State & Sierra,799,220,279,90.9,122750,447200,30.5,97.3,0.0,99.8,100.0,Extreme
+96106,Clio,Plumas County,North State & Sierra,300,110,454,36.4,,588700,30.5,40.9,46.4,99.6,100.0,Extreme
+96107,Coleville,Mono County,North State & Sierra,793,332,463,68.1,61563,384400,61.9,66.6,3.6,99.2,100.0,Extreme
+96108,Davis Creek,Modoc County,North State & Sierra,110,33,33,100.0,,,46.4,100.0,0.0,99.1,100.0,Extreme
+96109,Doyle,Lassen County,North State & Sierra,1299,523,641,88.1,43988,259900,47.9,70.0,5.7,99.6,100.0,Extreme
+96110,Eagleville,Modoc County,North State & Sierra,65,50,111,84.0,78333,207700,69.8,80.0,0.0,97.5,100.0,Extreme
+96111,Floriston,Nevada County,North State & Sierra,26,15,15,100.0,,765600,76.6,100.0,0.0,99.9,100.0,Extreme
+96112,Fort Bidwell,Modoc County,North State & Sierra,193,64,149,68.8,,172200,38.8,42.2,6.2,97.5,100.0,Extreme
+96113,Herlong,Lassen County,North State & Sierra,2039,219,284,42.9,67083,73900,36.7,59.8,1.4,99.6,100.0,Extreme
+96114,Janesville,Lassen County,North State & Sierra,2959,1151,1394,79.2,79688,338600,51.6,77.0,3.1,99.5,100.0,Extreme
+96115,Lake City,Modoc County,North State & Sierra,125,77,105,100.0,71719,352500,71.9,68.8,0.0,97.5,100.0,Extreme
+96116,Likely,Modoc County,North State & Sierra,57,6,131,100.0,,,4.1,100.0,0.0,99.1,100.0,Extreme
+96117,Litchfield,Lassen County,North State & Sierra,261,69,134,55.1,104583,305000,14.1,55.1,0.0,98.7,100.0,Extreme
+96118,Loyalton,Sierra County,North State & Sierra,1328,622,774,75.1,54167,243800,54.8,47.1,2.3,99.9,100.0,Extreme
+96119,Madeline,Lassen County,North State & Sierra,6,6,36,0.0,,,,100.0,0.0,99.2,100.0,Extreme
+96120,Markleeville,Alpine County,North State & Sierra,1349,345,535,81.2,100417,603100,39.2,75.7,3.8,99.2,100.0,Extreme
+96121,Milford,Lassen County,North State & Sierra,217,73,88,41.1,58021,284100,25.0,53.4,13.7,99.6,100.0,Extreme
+96122,Portola,Plumas County,North State & Sierra,4447,1806,2481,69.4,54205,273700,46.0,62.7,6.6,99.9,100.0,Extreme
+96123,Ravendale,Lassen County,North State & Sierra,45,23,62,73.9,41563,,70.2,34.8,0.0,99.2,100.0,Extreme
+96124,Calpine,Sierra County,North State & Sierra,387,43,141,100.0,205893,467900,45.3,100.0,0.0,99.9,100.0,Extreme
+96125,Sierra City,Sierra County,North State & Sierra,263,163,331,100.0,95554,378200,72.4,65.6,4.9,99.9,100.0,Extreme
+96126,Sierraville,Sierra County,North State & Sierra,351,136,217,80.1,,,40.4,63.2,0.0,99.9,100.0,Extreme
+96128,Standish,Lassen County,North State & Sierra,656,228,249,93.4,91012,394000,34.5,96.9,0.0,98.7,100.0,Extreme
+96129,Beckwourth,Plumas County,North State & Sierra,306,152,152,65.8,52381,338600,58.9,71.1,0.0,99.9,100.0,Extreme
+96130,Susanville,Lassen County,North State & Sierra,20173,5894,7326,63.9,72465,256000,37.1,59.3,8.2,96.3,88.4,Extreme
+96132,Termo,Lassen County,North State & Sierra,21,13,24,100.0,68472,427800,68.3,15.4,0.0,99.2,100.0,Extreme
+96133,Topaz,Mono County,North State & Sierra,180,52,52,0.0,,,50.6,100.0,0.0,99.2,100.0,Extreme
+96134,Tulelake,Modoc County,North State & Sierra,2346,812,1041,74.6,49674,200000,39.0,66.1,4.8,95.6,49.2,Extreme
+96136,Wendel,Lassen County,North State & Sierra,27,11,11,100.0,,,66.7,100.0,0.0,99.2,100.0,Extreme
+96137,Westwood,Lassen County,North State & Sierra,2923,1366,3941,82.2,65896,414900,57.6,64.7,5.3,98.7,100.0,Extreme
+96140,Carnelian Bay,Placer County,Sacramento Region,1171,500,1732,86.2,181875,932200,45.3,81.6,0.0,92.3,0.0,High
+96141,Homewood,Placer County,Sacramento Region,609,247,1518,84.6,125662,1049100,52.2,85.4,0.0,94.4,0.0,High
+96142,Tahoma,El Dorado County,Sacramento Region,725,367,2252,67.8,95341,836700,46.0,76.6,2.2,91.7,0.0,High
+96143,Kings Beach,Placer County,Sacramento Region,3222,1318,2792,66.5,69922,795300,44.6,68.4,0.0,93.8,0.0,High
+96145,Tahoe City,Placer County,Sacramento Region,3441,1469,5129,74.6,112875,962600,41.4,76.4,2.0,95.0,0.0,High
+96146,Olympic Valley,Placer County,Sacramento Region,1154,546,2238,75.8,160833,1455100,50.7,75.6,2.2,97.8,67.5,Extreme
+96148,Tahoe Vista,Placer County,Sacramento Region,562,254,905,90.9,103750,880600,63.7,70.9,0.0,95.9,0.0,Extreme
+96150,South Lake Tahoe,El Dorado County,Sacramento Region,29646,12864,23739,61.2,92517,707500,42.4,61.9,5.2,85.2,9.3,High
+96161,Truckee,Nevada County,North State & Sierra,19634,7929,18794,75.9,131702,991400,43.2,71.8,2.9,98.5,100.0,Extreme
