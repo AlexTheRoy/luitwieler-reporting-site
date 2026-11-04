@@ -1,23 +1,20 @@
 # Luitwieler Insurance Agencies Reporting Site
 
-Static, self-contained performance report hub for Luitwieler Insurance Agencies, deployed on Vercel.
+Static client reporting site for Luitwieler Insurance Agencies (GOAL account #167), deployed on Vercel.
 
 ## Structure
 
-- `index.html` is the report hub linking five reports: campaign overview, Auto campaign page, SEO audit, and two California research reports
-- `Luitwieler-CA-ZIP-Data-10-12-26.csv` is the ZIP-level data behind the research reports
-- `vercel.json` — Vercel config: clean URLs, security headers, `noindex` so the report stays out of search engines
+- `index.html`: hub with Campaign Reports and Website & Research sections
+- Campaign Reports, since launch (Oct 1, 2024 through Nov 4, 2026, with 2026 year to date as context):
+  - `Luitwieler-Campaign-Overview-Since-Launch-11-04-26.html`: all campaigns, Marketplace included
+  - `Luitwieler-Auto-Campaign-Performance-Since-Launch-11-04-26.html`: every Auto quote funnel, with a comparison panel
+  - `Luitwieler-Home-Campaign-Performance-Since-Launch-11-04-26.html`: Home
+  - `Luitwieler-Monthly-Sales-by-Source-11-04-26.html`: every month since October 2024 by source and ad channel, with the ad channels that have the fewest quotes and binds
+  - `Luitwieler-Source-ZIP-Sales-Since-Launch-11-04-26.html` and `Luitwieler-ZIP-Sales-11-04-26.csv`: sales by source, ad channel, county and ZIP
+  - `Luitwieler-Inbound-Call-Review-11-04-26.html`: inbound call review, Aug 6 to Nov 4, 2026 (the last 90 days)
+- Website & Research (Oct 12, 2026):
+  - `Luitwieler-SEO-Audit-10-12-26.html`: agency web page and local listings audit
+  - `Luitwieler-CA-*`: California demographic and wildfire research, plus the ZIP CSV
+- `vercel.json`: clean URLs, security headers, `noindex`
 
-## Deploying
-
-No build step. In Vercel, import this repo with:
-
-- **Framework Preset:** Other
-- **Build Command:** *(leave empty)*
-- **Output Directory:** *(leave empty — serves the repo root)*
-
-Or from the CLI: `vercel --prod`
-
-## Updating the report
-
-Replace `index.html` with the new export and push to `main`; Vercel redeploys automatically.
+No build step. Push to `main` and Vercel redeploys.

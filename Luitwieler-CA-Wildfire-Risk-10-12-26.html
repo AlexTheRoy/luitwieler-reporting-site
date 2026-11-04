@@ -144,6 +144,10 @@ body{font-family:'Inter',system-ui,sans-serif;background:var(--gray);color:var(-
 :root[data-theme="dark"] .main [fill="#C7D6E4"]{fill:#5b6b80;}
 :root[data-theme="dark"] .main [stroke="#fff"]{stroke:#0d1117;}
 }
+
+/* phone fix: let the grid columns shrink so the page has no side scroll */
+.shell>*{min-width:0;}
+@media (max-width:640px){.panel{min-width:0;overflow-x:auto;}.cfg .cv{min-width:0;overflow-wrap:anywhere;}.cfg .ck{width:96px;}.kgrid>*{min-width:0;}}
 </style>
 </head>
 <body>
@@ -331,7 +335,7 @@ body{font-family:'Inter',system-ui,sans-serif;background:var(--gray);color:var(-
       <div class="panel">
         <ul class="cfg">
           <li><span class="ck">Risk source</span><span class="cv">FEMA National Risk Index, census tract table, December 2025 release (wildfire, community resilience).</span></li>
-          <li><span class="ck">Geography</span><span class="cv">U.S. Census Bureau 2020 ZIP Code Tabulation Areas and the 2020 ZCTA-to-tract relationship file; housing counts from ACS 2020&ndash;2024.</span></li>
+          <li><span class="ck">Geography</span><span class="cv">U.S. Census Bureau 2020 ZIP Code Tabulation Areas and the 2020 ZCTA-to-tract relationship file; housing counts from ACS 2020-2024.</span></li>
           <li><span class="ck">Leads</span><span class="cv">GOAL prospects for this account, counted by ZIP. 1,045 of 1,055 leads matched a populated California ZIP.</span></li>
           <li><span class="ck">Limits</span><span class="cv">A ZIP score describes the ZIP, not a house. Carrier appetite, inspection and the property itself decide each home quote.</span></li>
           <li><span class="ck">Files</span><span class="cv"><a href="Luitwieler-CA-ZIP-Data-10-12-26.csv" style="color:var(--blue)"><b>Luitwieler-CA-ZIP-Data-10-12-26.csv</b></a> &middot; every ZIP, every score and tier, plus the demographics in the companion report.</span></li>

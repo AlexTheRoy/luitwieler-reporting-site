@@ -143,6 +143,10 @@ body{font-family:'Inter',system-ui,sans-serif;background:var(--gray);color:var(-
 :root[data-theme="dark"] .main [fill="#E3E8EF"]{fill:#5b6b80;}
 :root[data-theme="dark"] .main [stroke="#fff"]{stroke:#0d1117;}
 }
+
+/* phone fix: let the grid columns shrink so the page has no side scroll */
+.shell>*{min-width:0;}
+@media (max-width:640px){.panel{min-width:0;overflow-x:auto;}.cfg .cv{min-width:0;overflow-wrap:anywhere;}.cfg .ck{width:96px;}.kgrid>*{min-width:0;}}
 </style>
 </head>
 <body>
@@ -171,11 +175,11 @@ body{font-family:'Inter',system-ui,sans-serif;background:var(--gray);color:var(-
   <main class="main">
 
     <div class="exec">
-      <p>Demographic profile of all <b>1,762 populated California ZIP codes</b> with an eye on Auto: vehicles per household, household income, homeownership and density, from the U.S. Census Bureau&#39;s <b>ACS 2020&ndash;2024</b> five-year estimates (released December 2025). Section 06 compares where your 1,045 GOAL leads came from with where California&#39;s households are. The companion spreadsheet carries every ZIP and every column.</p>
+      <p>Demographic profile of all <b>1,762 populated California ZIP codes</b> with an eye on Auto: vehicles per household, household income, homeownership and density, from the U.S. Census Bureau&#39;s <b>ACS 2020-2024</b> five-year estimates (released December 2025). Section 06 compares where your 1,045 GOAL leads came from with where California&#39;s households are. The companion spreadsheet carries every ZIP and every column.</p>
     </div>
 
     <section class="block" id="s1">
-      <div class="bhead"><span class="ix">01</span><div><h2>Statewide profile</h2><p>ACS 2020&ndash;2024 five-year estimates</p></div></div>
+      <div class="bhead"><span class="ix">01</span><div><h2>Statewide profile</h2><p>ACS 2020-2024 five-year estimates</p></div></div>
       <div class="kgrid">
         <div class="kc"><div class="v">1,762</div><div class="k">Populated ZIP codes</div><div class="d">39.3M residents</div></div>
         <div class="kc"><div class="v">13.55M</div><div class="k">Households</div><div class="d">14.64M housing units</div></div>
@@ -201,9 +205,9 @@ body{font-family:'Inter',system-ui,sans-serif;background:var(--gray);color:var(-
 </svg>
           <div class="maplegend">
             <span class="li"><span class="sw" style="background:#C7DDF3"></span>Under $60k</span>
-            <span class="li"><span class="sw" style="background:#8FBEE9"></span>$60&ndash;85k</span>
-            <span class="li"><span class="sw" style="background:#4D9BE0"></span>$85&ndash;110k</span>
-            <span class="li"><span class="sw" style="background:#0F6FCB"></span>$110&ndash;150k</span>
+            <span class="li"><span class="sw" style="background:#8FBEE9"></span>$60-85k</span>
+            <span class="li"><span class="sw" style="background:#4D9BE0"></span>$85-110k</span>
+            <span class="li"><span class="sw" style="background:#0F6FCB"></span>$110-150k</span>
             <span class="li"><span class="sw" style="background:#0A3E77"></span>$150k+</span>
           </div>
           <div class="fnote">Each point is one ZIP at its geographic center; point size reflects housing units. 1,590 ZIPs carry a published median; small ZIPs without one are shown in gray.</div>
@@ -312,7 +316,7 @@ body{font-family:'Inter',system-ui,sans-serif;background:var(--gray);color:var(-
       <div class="bhead"><span class="ix">07</span><div><h2>Data &amp; files</h2></div></div>
       <div class="panel">
         <ul class="cfg">
-          <li><span class="ck">Source</span><span class="cv">U.S. Census Bureau, American Community Survey 2020&ndash;2024 five-year estimates (released December 2025), tables B01002, B01003, B08201, B11001, B19013, B25001, B25002, B25003, B25007, B25077. Geography: 2020 ZIP Code Tabulation Areas.</span></li>
+          <li><span class="ck">Source</span><span class="cv">U.S. Census Bureau, American Community Survey 2020-2024 five-year estimates (released December 2025), tables B01002, B01003, B08201, B11001, B19013, B25001, B25002, B25003, B25007, B25077. Geography: 2020 ZIP Code Tabulation Areas.</span></li>
           <li><span class="ck">Precision</span><span class="cv">All values carry ACS margins of error and are strongest for larger ZIPs. Blank means not published, never zero.</span></li>
           <li><span class="ck">Files</span><span class="cv"><a href="Luitwieler-CA-ZIP-Data-10-12-26.csv" style="color:var(--blue)"><b>Luitwieler-CA-ZIP-Data-10-12-26.csv</b></a> &middot; every ZIP, every column, with the wildfire tier.</span></li>
         </ul>
