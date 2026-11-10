@@ -3,8 +3,8 @@ zip,county,city,leads_since_launch,leads_auto_high_quality,leads_auto_standard,l
 92530,Riverside,Lake Elsinore,39,23,14,2,0,0,5,29,5,17,10,4,5,4,4
 92220,Riverside,Banning,39,28,11,0,0,0,2,28,9,26,9,4,7,3,3
 95610,Sacramento,Citrus Heights,31,19,9,2,1,0,2,27,2,14,5,4,6,3,3
-92637,Orange,Laguna Woods,63,42,21,0,0,0,4,51,8,34,12,3,4,15,18
-92545,Riverside,Hemet,67,42,24,0,1,0,9,49,9,35,11,3,4,6,6
+92637,Orange,Laguna Woods,64,43,21,0,0,0,4,51,9,34,12,3,4,15,18
+92545,Riverside,Hemet,68,43,24,0,1,0,9,49,10,35,11,3,4,6,6
 93003,Ventura,Ventura,40,27,13,0,0,0,5,28,7,15,10,3,3,2,3
 92345,San Bernardino,Hesperia,80,50,27,1,2,0,9,55,16,34,9,3,6,8,9
 92234,Riverside,Cathedral City,59,32,20,1,6,0,11,41,7,41,9,3,3,6,6
@@ -63,7 +63,7 @@ zip,county,city,leads_since_launch,leads_auto_high_quality,leads_auto_standard,l
 95838,Sacramento,Sacramento,27,16,7,0,4,0,4,17,6,17,4,2,3,3,3
 93705,Fresno,Fresno,25,15,9,1,0,0,0,24,1,15,4,2,2,2,2
 94561,Contra Costa,Oakley,24,13,9,0,2,0,4,17,3,11,4,2,3,3,3
-91360,Ventura,Thousand Oaks,20,13,7,0,0,0,2,15,3,11,4,2,2,0,0
+91360,Ventura,Thousand Oaks,21,13,7,0,0,1,2,15,4,11,4,2,2,0,0
 96003,Shasta,Redding,19,11,7,1,0,0,4,12,3,10,4,2,3,2,2
 94603,Alameda,Oakland,11,6,4,0,1,0,1,8,2,5,4,2,2,0,0
 92382,San Bernardino,Running Springs,6,3,3,0,0,0,0,3,3,4,4,2,4,0,0
@@ -96,7 +96,7 @@ zip,county,city,leads_since_launch,leads_auto_high_quality,leads_auto_standard,l
 94605,Alameda,Oakland,30,11,13,0,6,0,5,18,7,11,8,1,1,5,8
 92586,Riverside,Menifee,57,36,21,0,0,0,3,47,7,35,7,1,2,5,7
 92335,San Bernardino,Fontana,49,22,18,0,9,0,3,31,15,24,7,1,1,4,4
-95828,Sacramento,Sacramento,44,24,16,1,3,0,5,33,6,21,7,1,2,4,4
+95828,Sacramento,Sacramento,45,24,16,1,3,1,5,33,7,22,7,1,2,4,4
 94521,Contra Costa,Concord,30,14,11,0,5,0,3,23,4,17,7,1,2,0,0
 93036,Ventura,Oxnard,20,11,9,0,0,0,3,16,1,5,7,1,4,4,4
 92253,Riverside,La Quinta,40,25,9,0,6,0,5,31,4,29,6,1,1,1,1
@@ -106,8 +106,8 @@ zip,county,city,leads_since_launch,leads_auto_high_quality,leads_auto_standard,l
 92284,San Bernardino,Yucca Valley,35,20,6,0,9,0,10,18,7,25,6,1,2,1,1
 92704,Orange,Santa Ana,33,15,15,0,3,0,2,28,3,16,6,1,1,4,4
 92243,Imperial,El Centro,30,17,10,0,3,0,4,19,7,22,6,1,1,3,3
+92311,San Bernardino,Barstow,27,20,4,0,2,1,1,21,5,20,6,1,2,5,6
 95337,San Joaquin,Manteca,27,17,9,0,1,0,2,13,12,14,6,1,1,4,4
-92311,San Bernardino,Barstow,26,20,4,0,2,0,1,21,4,20,6,1,2,5,6
 94565,Contra Costa,Pittsburg,50,22,21,1,6,0,14,30,6,25,5,1,1,4,4
 93727,Fresno,Fresno,49,25,21,0,3,0,9,35,5,19,5,1,1,4,5
 93277,Tulare,Visalia,45,21,22,1,1,0,6,32,7,18,5,1,1,2,2
@@ -138,8 +138,8 @@ zip,county,city,leads_since_launch,leads_auto_high_quality,leads_auto_standard,l
 95348,Merced,Merced,26,14,10,0,2,0,2,18,6,8,4,1,1,1,1
 92870,Orange,Placentia,25,16,5,0,4,0,3,17,5,14,4,1,1,1,1
 95210,San Joaquin,Stockton,24,9,12,0,3,0,7,14,3,15,4,1,1,0,0
+96007,Shasta,Anderson,24,15,8,1,0,0,2,18,4,11,4,1,1,1,1
 92802,Orange,Anaheim,23,14,9,0,0,0,1,19,3,7,4,1,1,4,4
-96007,Shasta,Anderson,23,14,8,1,0,0,2,18,3,11,4,1,1,1,1
 92371,San Bernardino,Phelan,21,8,8,0,5,0,6,11,4,10,4,1,1,2,2
 92660,Orange,Newport Beach,21,13,5,1,2,0,2,15,4,9,4,1,1,3,3
 94801,Contra Costa,Richmond,20,11,8,0,1,0,3,15,2,11,4,1,2,0,0
@@ -199,10 +199,10 @@ zip,county,city,leads_since_launch,leads_auto_high_quality,leads_auto_standard,l
 94134,San Francisco,San Francisco,16,6,7,1,2,0,3,10,3,7,2,1,2,3,3
 95127,Santa Clara,San Jose,16,6,9,0,1,0,5,10,1,4,2,1,1,1,1
 95404,Sonoma,Santa Rosa,16,10,6,0,0,0,1,15,0,7,2,1,2,3,3
+90621,Orange,Buena Park,15,9,4,0,1,1,2,10,3,6,2,1,1,0,0
 93635,Merced,Los Banos,15,6,9,0,0,0,5,8,2,5,2,1,2,1,1
 95407,Sonoma,Santa Rosa,15,2,9,0,4,0,6,8,1,6,2,1,1,3,3
 93551,Los Angeles,Palmdale,14,0,0,0,14,0,7,4,3,14,2,1,1,0,0
-90621,Orange,Buena Park,13,8,4,0,1,0,2,10,1,5,2,1,1,0,0
 91941,San Diego,La Mesa,13,5,7,0,1,0,0,13,0,6,2,1,1,1,2
 94549,Contra Costa,Lafayette,11,5,6,0,0,0,3,7,1,4,2,1,2,1,1
 92129,San Diego,San Diego,10,8,2,0,0,0,1,7,2,5,2,1,1,1,2
@@ -229,8 +229,8 @@ zip,county,city,leads_since_launch,leads_auto_high_quality,leads_auto_standard,l
 92126,San Diego,San Diego,25,12,12,1,0,0,6,13,6,8,1,1,1,2,2
 93906,Monterey,Salinas,22,16,6,0,0,0,0,18,4,9,1,1,1,2,2
 90011,Los Angeles,Los Angeles,21,0,0,0,4,17,1,2,18,9,1,1,1,0,0
+92344,San Bernardino,Hesperia,19,9,3,0,6,1,3,10,6,12,1,1,1,0,0
 94015,San Mateo,Daly City,19,11,7,1,0,0,0,16,3,5,1,1,2,0,0
-92344,San Bernardino,Hesperia,18,9,3,0,6,0,3,10,5,12,1,1,1,0,0
 94044,San Mateo,Pacifica,17,7,10,0,0,0,3,13,1,9,1,1,1,2,2
 95382,Stanislaus,Turlock,17,13,4,0,0,0,0,15,2,7,1,1,1,0,0
 94503,Napa,American Canyon,16,11,3,2,0,0,3,9,4,8,1,1,2,0,0
@@ -297,7 +297,7 @@ zip,county,city,leads_since_launch,leads_auto_high_quality,leads_auto_standard,l
 93307,Kern,Bakersfield,44,21,21,0,2,0,5,33,6,20,6,0,0,3,3
 92509,Riverside,Jurupa Valley,40,17,13,1,9,0,8,23,9,24,6,0,0,1,1
 95667,El Dorado,Placerville,38,27,7,3,1,0,3,27,8,21,6,0,0,4,4
-90630,Orange,Cypress,33,19,9,1,4,0,3,21,9,16,6,0,0,2,2
+90630,Orange,Cypress,34,19,9,1,4,1,3,21,10,16,6,0,0,2,2
 95660,Sacramento,North Highlands,31,17,13,0,1,0,3,18,10,13,6,0,0,4,4
 92692,Orange,Mission Viejo,29,19,9,1,0,0,4,22,3,22,6,0,0,3,3
 94112,San Francisco,San Francisco,29,18,8,1,2,0,5,16,8,16,6,0,0,3,3
@@ -330,7 +330,7 @@ zip,county,city,leads_since_launch,leads_auto_high_quality,leads_auto_standard,l
 91752,Riverside,Mira Loma,35,23,10,0,2,0,4,24,7,17,4,0,0,6,6
 95630,Sacramento,Folsom,33,20,10,2,1,0,5,21,7,14,4,0,0,3,3
 92841,Orange,Garden Grove,30,16,13,0,1,0,5,20,5,13,4,0,0,2,2
-92504,Riverside,Riverside,27,11,10,0,6,0,5,14,8,13,4,0,0,3,3
+92504,Riverside,Riverside,28,11,10,0,6,1,5,14,9,13,4,0,0,3,3
 92626,Orange,Costa Mesa,26,16,10,0,0,0,3,22,1,8,4,0,0,3,5
 94014,San Mateo,Daly City,25,11,12,2,0,0,3,20,2,4,4,0,0,1,1
 94545,Alameda,Hayward,25,15,5,0,5,0,1,18,6,13,4,0,0,1,1
@@ -374,11 +374,11 @@ zip,county,city,leads_since_launch,leads_auto_high_quality,leads_auto_standard,l
 94804,Contra Costa,Richmond,24,16,6,1,1,0,3,19,2,8,3,0,0,4,4
 92410,San Bernardino,San Bernardino,23,9,10,0,4,0,3,16,4,11,3,0,0,4,4
 94520,Contra Costa,Concord,23,18,4,0,1,0,0,18,5,12,3,0,0,2,2
+95662,Sacramento,Orangevale,23,17,4,0,1,1,1,18,4,14,3,0,0,1,1
 95678,Placer,Roseville,23,17,6,0,0,0,0,17,6,9,3,0,0,1,1
 95688,Solano,Vacaville,23,11,6,1,5,0,2,16,5,13,3,0,0,2,2
 92277,San Bernardino,Twentynine Palms,22,16,4,0,2,0,3,12,7,10,3,0,0,1,1
 92570,Riverside,Perris,22,10,6,0,6,0,6,12,4,12,3,0,0,0,0
-95662,Sacramento,Orangevale,22,17,4,0,1,0,1,18,3,14,3,0,0,1,1
 92673,Orange,San Clemente,21,12,9,0,0,0,3,15,3,16,3,0,0,0,0
 95824,Sacramento,Sacramento,21,10,9,1,1,0,2,13,6,6,3,0,0,4,4
 92078,San Diego,San Marcos,20,9,9,1,1,0,7,12,1,7,3,0,0,1,1
@@ -398,16 +398,16 @@ zip,county,city,leads_since_launch,leads_auto_high_quality,leads_auto_standard,l
 95252,Calaveras,Valley Springs,14,8,6,0,0,0,2,10,2,8,3,0,0,1,1
 94132,San Francisco,San Francisco,13,7,5,0,1,0,1,10,2,4,3,0,0,4,4
 92064,San Diego,Poway,12,7,5,0,0,0,1,11,0,4,3,0,0,1,1
+92606,Orange,Irvine,12,6,4,0,2,0,2,8,2,4,3,0,0,3,3
 92251,Imperial,Imperial,11,7,3,0,1,0,1,10,0,6,3,0,0,0,0
-92606,Orange,Irvine,11,5,4,0,2,0,2,8,1,4,3,0,0,2,2
 93458,Santa Barbara,Santa Maria,11,7,4,0,0,0,3,8,0,8,3,0,0,0,0
 95126,Santa Clara,San Jose,11,7,3,0,1,0,0,11,0,1,3,0,0,2,3
 95129,Santa Clara,San Jose,9,5,3,0,1,0,3,6,0,3,3,0,0,1,1
+94707,Alameda,Berkeley,8,5,0,0,2,1,2,5,1,6,3,0,0,1,1
 94805,Contra Costa,Richmond,8,5,3,0,0,0,1,6,1,3,3,0,0,0,0
 92603,Orange,Irvine,7,3,4,0,0,0,2,4,1,3,3,0,0,2,2
 94107,San Francisco,San Francisco,7,4,1,1,1,0,0,7,0,3,3,0,0,0,0
 94506,Contra Costa,Danville,7,4,2,0,1,0,1,4,2,6,3,0,0,2,2
-94707,Alameda,Berkeley,7,5,0,0,2,0,2,5,0,5,3,0,0,1,1
 95338,Mariposa,Mariposa,7,6,1,0,0,0,0,4,3,4,3,0,0,1,1
 95832,Sacramento,Sacramento,7,4,3,0,0,0,0,5,2,2,3,0,0,1,1
 91335,Los Angeles,Reseda,6,0,0,0,6,0,1,1,4,6,3,0,0,0,0
@@ -523,11 +523,11 @@ zip,county,city,leads_since_launch,leads_auto_high_quality,leads_auto_standard,l
 92708,Orange,Fountain Valley,34,17,15,0,2,0,7,24,3,15,1,0,0,2,2
 92780,Orange,Tustin,27,11,15,1,0,0,5,19,3,9,1,0,0,2,2
 93726,Fresno,Fresno,27,14,12,0,1,0,3,23,1,9,1,0,0,2,2
-92806,Orange,Anaheim,25,17,7,0,1,0,2,21,2,10,1,0,0,1,1
+92806,Orange,Anaheim,26,17,7,0,1,1,2,21,3,10,1,0,0,1,1
 91977,San Diego,Spring Valley,24,10,12,2,0,0,6,16,2,8,1,0,0,2,2
 92620,Orange,Irvine,23,13,8,0,2,0,5,14,4,13,1,0,0,1,1
 92881,Riverside,Corona,23,11,3,1,8,0,7,14,2,16,1,0,0,6,6
-95841,Sacramento,Sacramento,22,12,10,0,0,0,3,18,1,8,1,0,0,2,2
+95841,Sacramento,Sacramento,23,12,10,0,0,1,3,18,2,9,1,0,0,2,2
 90044,Los Angeles,Los Angeles,21,0,0,0,7,14,3,3,15,10,1,0,0,2,2
 92101,San Diego,San Diego,21,8,13,0,0,0,3,15,3,4,1,0,0,2,2
 92227,Imperial,Brawley,21,13,7,0,1,0,1,14,6,11,1,0,0,2,2
@@ -535,9 +535,9 @@ zip,county,city,leads_since_launch,leads_auto_high_quality,leads_auto_standard,l
 93555,Kern,Ridgecrest,21,11,9,0,1,0,4,12,5,9,1,0,0,1,1
 95695,Yolo,Woodland,21,10,8,1,2,0,2,14,5,9,1,0,0,2,2
 90620,Orange,Buena Park,19,10,6,0,3,0,1,16,2,13,1,0,0,1,1
+92867,Orange,Orange,19,8,10,0,0,1,4,12,3,8,1,0,0,1,1
 91739,San Bernardino,Rancho Cucamonga,18,8,10,0,0,0,2,14,2,7,1,0,0,0,0
 92084,San Diego,Vista,18,9,9,0,0,0,4,11,3,12,1,0,0,2,2
-92867,Orange,Orange,18,8,10,0,0,0,4,12,2,8,1,0,0,1,1
 94109,San Francisco,San Francisco,18,9,8,0,1,0,1,13,4,6,1,0,0,3,3
 95354,Stanislaus,Modesto,18,12,6,0,0,0,1,14,3,8,1,0,0,1,1
 91942,San Diego,La Mesa,17,9,8,0,0,0,3,12,2,8,1,0,0,0,0
@@ -593,6 +593,7 @@ zip,county,city,leads_since_launch,leads_auto_high_quality,leads_auto_standard,l
 93619,Fresno,Clovis,9,3,5,0,1,0,5,4,0,5,1,0,0,1,1
 94061,San Mateo,Redwood City,9,4,4,0,1,0,0,8,1,3,1,0,0,0,0
 94559,Napa,Napa,9,6,3,0,0,0,1,6,2,5,1,0,0,1,1
+94596,Contra Costa,Walnut Creek,9,5,4,0,0,0,1,7,1,3,1,0,0,0,0
 94952,Sonoma,Petaluma,9,4,3,2,0,0,2,5,2,2,1,0,0,0,0
 95050,Santa Clara,Santa Clara,9,1,5,0,3,0,4,3,2,3,1,0,0,1,1
 95388,Merced,Winton,9,5,4,0,0,0,0,8,1,5,1,0,0,1,1
@@ -609,7 +610,6 @@ zip,county,city,leads_since_launch,leads_auto_high_quality,leads_auto_standard,l
 94117,San Francisco,San Francisco,8,5,3,0,0,0,0,8,0,3,1,0,0,0,0
 94555,Alameda,Fremont,8,3,4,0,1,0,1,6,1,4,1,0,0,0,0
 94579,Alameda,San Leandro,8,4,3,0,1,0,1,5,2,4,1,0,0,0,0
-94596,Contra Costa,Walnut Creek,8,4,4,0,0,0,1,7,0,3,1,0,0,0,0
 95125,Santa Clara,San Jose,8,3,5,0,0,0,0,7,1,2,1,0,0,2,2
 95135,Santa Clara,San Jose,8,3,5,0,0,0,0,7,1,4,1,0,0,0,0
 95409,Sonoma,Santa Rosa,8,2,6,0,0,0,1,7,0,4,1,0,0,0,0
@@ -661,6 +661,7 @@ zip,county,city,leads_since_launch,leads_auto_high_quality,leads_auto_standard,l
 94525,Contra Costa,Crockett,5,1,2,0,2,0,2,1,2,3,1,0,0,0,0
 94610,Alameda,Oakland,5,2,3,0,0,0,2,3,0,2,1,0,0,0,0
 94704,Alameda,Berkeley,5,2,2,1,0,0,0,3,2,2,1,0,0,1,1
+94945,Marin,Novato,5,4,1,0,0,0,1,2,2,1,1,0,0,1,1
 94949,Marin,Novato,5,4,1,0,0,0,1,3,1,1,1,0,0,1,1
 95322,Merced,Gustine,5,3,2,0,0,0,0,5,0,1,1,0,0,1,1
 95326,Stanislaus,Hughson,5,3,2,0,0,0,0,3,2,1,1,0,0,0,0
@@ -681,7 +682,6 @@ zip,county,city,leads_since_launch,leads_auto_high_quality,leads_auto_standard,l
 94556,Contra Costa,Moraga,4,3,1,0,0,0,0,4,0,2,1,0,0,0,0
 94574,Napa,Saint Helena,4,3,1,0,0,0,1,2,1,4,1,0,0,1,1
 94710,Alameda,Berkeley,4,2,1,0,1,0,1,2,1,2,1,0,0,0,0
-94945,Marin,Novato,4,3,1,0,0,0,1,2,1,1,1,0,0,1,1
 94965,Marin,Sausalito,4,2,2,0,0,0,2,1,1,3,1,0,0,1,2
 95054,Santa Clara,Santa Clara,4,3,1,0,0,0,0,3,1,3,1,0,0,0,0
 95131,Santa Clara,San Jose,4,2,1,0,1,0,0,4,0,2,1,0,0,0,0
@@ -776,10 +776,10 @@ zip,county,city,leads_since_launch,leads_auto_high_quality,leads_auto_standard,l
 94606,Alameda,Oakland,14,6,8,0,0,0,3,11,0,4,0,0,0,0,0
 95020,Santa Clara,Gilroy,14,5,8,1,0,0,6,7,1,6,0,0,0,0,0
 95136,Santa Clara,San Jose,14,5,7,1,1,0,3,10,1,5,0,0,0,1,2
+95742,Sacramento,Rancho Cordova,14,11,2,0,0,1,1,11,2,7,0,0,0,0,0
 92128,San Diego,San Diego,13,2,10,0,1,0,4,9,0,6,0,0,0,1,1
 94598,Contra Costa,Walnut Creek,13,8,4,0,1,0,2,10,1,3,0,0,0,0,0
 95403,Sonoma,Santa Rosa,13,5,6,0,2,0,3,9,1,5,0,0,0,2,3
-95742,Sacramento,Rancho Cordova,13,11,2,0,0,0,1,11,1,7,0,0,0,0,0
 92373,San Bernardino,Redlands,12,7,5,0,0,0,1,11,0,6,0,0,0,0,0
 92501,Riverside,Riverside,12,7,5,0,0,0,2,7,3,4,0,0,0,0,0
 92602,Orange,Irvine,12,7,4,0,1,0,2,5,5,8,0,0,0,4,7
@@ -795,6 +795,7 @@ zip,county,city,leads_since_launch,leads_auto_high_quality,leads_auto_standard,l
 92117,San Diego,San Diego,10,6,3,1,0,0,2,8,0,5,0,0,0,4,4
 92707,Orange,Santa Ana,10,6,2,1,1,0,3,4,3,3,0,0,0,1,1
 94518,Contra Costa,Concord,10,9,1,0,0,0,0,8,2,4,0,0,0,0,0
+95062,Santa Cruz,Santa Cruz,10,4,5,0,1,0,2,6,2,5,0,0,0,0,0
 95642,Amador,Jackson,10,6,4,0,0,0,2,5,3,4,0,0,0,3,5
 90019,Los Angeles,Los Angeles,9,0,0,0,4,5,2,1,6,5,0,0,0,2,3
 90745,Los Angeles,Carson,9,0,0,0,9,0,3,4,2,9,0,0,0,3,4
@@ -807,14 +808,13 @@ zip,county,city,leads_since_launch,leads_auto_high_quality,leads_auto_standard,l
 92831,Orange,Fullerton,9,3,4,0,2,0,2,6,1,4,0,0,0,1,1
 92860,Riverside,Norco,9,7,2,0,0,0,0,5,4,4,0,0,0,0,0
 93314,Kern,Bakersfield,9,6,2,0,1,0,1,6,2,6,0,0,0,0,0
+93550,Los Angeles,Palmdale,9,0,0,0,8,1,3,2,4,8,0,0,0,0,0
 93907,Monterey,Salinas,9,5,4,0,0,0,1,6,2,1,0,0,0,0,0
-95062,Santa Cruz,Santa Cruz,9,3,5,0,1,0,2,6,1,5,0,0,0,0,0
 95519,Humboldt,Mckinleyville,9,3,4,0,2,0,1,7,1,6,0,0,0,0,0
 90022,Los Angeles,Los Angeles,8,0,0,0,2,6,1,1,6,3,0,0,0,0,0
 90059,Los Angeles,Los Angeles,8,0,0,0,2,6,2,0,6,2,0,0,0,0,0
 92119,San Diego,San Diego,8,2,6,0,0,0,0,8,0,3,0,0,0,0,0
 92127,San Diego,San Diego,8,4,4,0,0,0,0,7,1,6,0,0,0,0,0
-93550,Los Angeles,Palmdale,8,0,0,0,8,0,3,2,3,8,0,0,0,0,0
 94070,San Mateo,San Carlos,8,2,6,0,0,0,2,5,1,6,0,0,0,0,0
 94563,Contra Costa,Orinda,8,5,2,0,1,0,2,5,1,5,0,0,0,1,1
 94597,Contra Costa,Walnut Creek,8,4,3,1,0,0,1,7,0,2,0,0,0,2,2
@@ -989,6 +989,7 @@ zip,county,city,leads_since_launch,leads_auto_high_quality,leads_auto_standard,l
 95919,Yuba,Brownsville,3,3,0,0,0,0,0,3,0,2,0,0,0,0,0
 95947,Plumas,Greenville,3,2,1,0,0,0,0,2,1,3,0,0,0,0,0
 95954,Butte,Magalia,3,1,2,0,0,0,2,1,0,3,0,0,0,0,0
+95982,Sutter,Sutter,3,1,0,1,0,1,1,1,1,1,0,0,0,0,0
 96064,Siskiyou,Montague,3,2,1,0,0,0,0,2,1,3,0,0,0,0,0
 96137,Lassen,Lake Almanor Country Club,3,2,1,0,0,0,0,2,1,1,0,0,0,0,0
 90010,Los Angeles,Los Angeles,2,0,0,0,0,2,0,0,2,0,0,0,0,0,0
@@ -1008,6 +1009,7 @@ zip,county,city,leads_since_launch,leads_auto_high_quality,leads_auto_standard,l
 90713,Los Angeles,Lakewood,2,0,0,0,2,0,0,2,0,2,0,0,0,0,0
 90806,Los Angeles,Long Beach,2,0,0,0,2,0,0,0,2,2,0,0,0,0,0
 90815,Los Angeles,Long Beach,2,0,0,0,2,0,2,0,0,2,0,0,0,1,2
+91345,Los Angeles,Mission Hills,2,0,0,0,1,1,0,0,2,1,0,0,0,1,36
 91746,Los Angeles,La Puente,2,0,0,0,2,0,1,0,1,2,0,0,0,1,1
 91767,Los Angeles,Pomona,2,0,0,0,2,0,2,0,0,2,0,0,0,0,0
 91770,Los Angeles,Rosemead,2,0,0,0,2,0,1,0,1,2,0,0,0,0,0
@@ -1071,7 +1073,6 @@ zip,county,city,leads_since_launch,leads_auto_high_quality,leads_auto_standard,l
 95664,El Dorado,Pilot Hill,2,1,1,0,0,0,1,0,1,2,0,0,0,0,0
 95672,El Dorado,Rescue,2,1,1,0,0,0,0,2,0,1,0,0,0,0,0
 95693,Sacramento,Wilton,2,0,1,0,1,0,1,1,0,2,0,0,0,0,0
-95982,Sutter,Sutter,2,1,0,1,0,0,1,1,0,1,0,0,0,0,0
 96020,Plumas,Chester,2,1,1,0,0,0,1,1,0,1,0,0,0,0,0
 96069,Shasta,Oak Run,2,2,0,0,0,0,0,2,0,1,0,0,0,0,0
 96088,Shasta,Shingletown,2,2,0,0,0,0,0,1,1,2,0,0,0,0,0
@@ -1081,6 +1082,7 @@ zip,county,city,leads_since_launch,leads_auto_high_quality,leads_auto_standard,l
 96161,Nevada,Truckee,2,1,1,0,0,0,0,2,0,1,0,0,0,1,1
 05478,Los Angeles,Saint Albans,1,0,0,0,1,0,0,0,1,1,0,0,0,0,0
 90009,Los Angeles,Los Angeles,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0
+90013,Los Angeles,Los Angeles,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
 90035,Los Angeles,Los Angeles,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
 90039,Los Angeles,Griffith,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0
 90041,Los Angeles,Los Angeles,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
@@ -1106,6 +1108,7 @@ zip,county,city,leads_since_launch,leads_auto_high_quality,leads_auto_standard,l
 90717,Los Angeles,Lomita,1,0,0,0,1,0,0,0,1,1,0,0,0,0,0
 90723,Los Angeles,Paramount,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0
 90732,Los Angeles,San Pedro,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0
+90810,Los Angeles,Long Beach,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
 90813,Los Angeles,Long Beach,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0
 90814,Los Angeles,Long Beach,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0
 91042,Los Angeles,Tujunga,1,0,0,0,1,0,0,1,0,1,0,0,0,1,1
@@ -1113,7 +1116,7 @@ zip,county,city,leads_since_launch,leads_auto_high_quality,leads_auto_standard,l
 91302,Los Angeles,Calabasas,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0
 91304,Los Angeles,Los Angeles,1,0,0,0,1,0,0,1,0,1,0,0,0,1,1
 91305,Los Angeles,Canoga Park,1,0,0,0,1,0,1,0,0,1,0,0,0,1,1
-91345,Los Angeles,Mission Hills,1,0,0,0,1,0,0,0,1,1,0,0,0,1,36
+91384,Los Angeles,Castaic,1,0,0,0,0,1,0,0,1,1,0,0,0,0,0
 91401,Los Angeles,Los Angeles,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0
 91411,Los Angeles,Van Nuys,1,0,0,0,1,0,0,0,1,1,0,0,0,0,0
 91505,Los Angeles,Burbank,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0
@@ -1173,6 +1176,7 @@ zip,county,city,leads_since_launch,leads_auto_high_quality,leads_auto_standard,l
 93040,Ventura,Piru,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0
 93106,Santa Barbara,Santa Barbara,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0
 93234,Fresno,Huron,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0
+93235,Tulare,Ivanhoe,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0
 93241,Kern,Lamont,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0
 93242,Fresno,Laton,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0
 93250,Kern,Mc Farland,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0

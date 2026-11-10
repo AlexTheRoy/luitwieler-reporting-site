@@ -2,20 +2,102 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "cleanUrls": true,
   "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/Luitwieler-Campaign-Overview-Since-Launch-11-04-26",
+      "destination": "/Luitwieler-Campaign-Overview-Since-Launch-11-10-26",
+      "permanent": true
+    },
+    {
+      "source": "/Luitwieler-Campaign-Overview-Since-Launch-11-04-26.html",
+      "destination": "/Luitwieler-Campaign-Overview-Since-Launch-11-10-26",
+      "permanent": true
+    },
+    {
+      "source": "/Luitwieler-Auto-Campaign-Performance-Since-Launch-11-04-26",
+      "destination": "/Luitwieler-Auto-Campaign-Performance-Since-Launch-11-10-26",
+      "permanent": true
+    },
+    {
+      "source": "/Luitwieler-Auto-Campaign-Performance-Since-Launch-11-04-26.html",
+      "destination": "/Luitwieler-Auto-Campaign-Performance-Since-Launch-11-10-26",
+      "permanent": true
+    },
+    {
+      "source": "/Luitwieler-Home-Campaign-Performance-Since-Launch-11-04-26",
+      "destination": "/Luitwieler-Home-Campaign-Performance-Since-Launch-11-10-26",
+      "permanent": true
+    },
+    {
+      "source": "/Luitwieler-Home-Campaign-Performance-Since-Launch-11-04-26.html",
+      "destination": "/Luitwieler-Home-Campaign-Performance-Since-Launch-11-10-26",
+      "permanent": true
+    },
+    {
+      "source": "/Luitwieler-Monthly-Sales-by-Source-11-04-26",
+      "destination": "/Luitwieler-Monthly-Sales-by-Source-11-10-26",
+      "permanent": true
+    },
+    {
+      "source": "/Luitwieler-Monthly-Sales-by-Source-11-04-26.html",
+      "destination": "/Luitwieler-Monthly-Sales-by-Source-11-10-26",
+      "permanent": true
+    },
+    {
+      "source": "/Luitwieler-Source-ZIP-Sales-Since-Launch-11-04-26",
+      "destination": "/Luitwieler-Source-ZIP-Sales-Since-Launch-11-10-26",
+      "permanent": true
+    },
+    {
+      "source": "/Luitwieler-Source-ZIP-Sales-Since-Launch-11-04-26.html",
+      "destination": "/Luitwieler-Source-ZIP-Sales-Since-Launch-11-10-26",
+      "permanent": true
+    },
+    {
+      "source": "/Luitwieler-Inbound-Call-Review-11-04-26",
+      "destination": "/Luitwieler-Inbound-Call-Review-11-10-26",
+      "permanent": true
+    },
+    {
+      "source": "/Luitwieler-Inbound-Call-Review-11-04-26.html",
+      "destination": "/Luitwieler-Inbound-Call-Review-11-10-26",
+      "permanent": true
+    },
+    {
+      "source": "/Luitwieler-ZIP-Sales-11-04-26.csv",
+      "destination": "/Luitwieler-ZIP-Sales-11-10-26.csv",
+      "permanent": true
+    }
+  ],
   "headers": [
     {
       "source": "/(.*)",
       "headers": [
-        { "key": "X-Content-Type-Options", "value": "nosniff" },
-        { "key": "X-Frame-Options", "value": "SAMEORIGIN" },
-        { "key": "Referrer-Policy", "value": "strict-origin-when-cross-origin" },
-        { "key": "X-Robots-Tag", "value": "noindex, nofollow" }
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "SAMEORIGIN"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, nofollow"
+        }
       ]
     },
     {
       "source": "/",
       "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=0, must-revalidate" }
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=0, must-revalidate"
+        }
       ]
     }
   ]
